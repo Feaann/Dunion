@@ -1,0 +1,81 @@
+Provinsi_Asal,Provinsi_Tujuan,lag_hari,p_value_raw,kontrol,n_observasi,jenis_pasangan,p_value_terkoreksi,signifikan,kekuatan_tambahan_R2
+Jawa Barat,Kepulauan Bangka Belitung,14,1.5853376397142556e-37,dengan_kontrol,574,distribusi,6.341350558857023e-35,True,0.36366149383896784
+Jawa Tengah,Kepulauan Bangka Belitung,14,1.6304920661900004e-31,dengan_kontrol,574,distribusi,1.6304920661900006e-29,True,0.3632197928471569
+Jawa Timur,Kepulauan Bangka Belitung,14,7.222550314654822e-19,dengan_kontrol,574,distribusi,4.1271716083741835e-17,True,0.29350647342493275
+DKI Jakarta,Kepulauan Bangka Belitung,7,7.228413121659154e-13,dengan_kontrol,574,distribusi,1.9559303353699047e-11,True,0.18442663970325168
+Jawa Tengah,Jawa Barat,7,8.160654959512284e-12,dengan_kontrol,574,distribusi,1.7180326230552174e-10,True,0.12004960942983489
+Sulawesi Utara,Maluku Utara,7,1.0386133699229378e-08,dengan_kontrol,574,distribusi,9.661519720213377e-08,True,0.11593270447344095
+Sulawesi Utara,Kalimantan Utara,14,1.5895658047649082e-09,dengan_kontrol,574,distribusi,1.8166466340170385e-08,True,0.11365635903183091
+Jawa Tengah,DI Yogyakarta,3,6.885831764601963e-12,dengan_kontrol,574,distribusi,1.530184836578214e-10,True,0.10921272308949026
+Jawa Barat,Jawa Tengah,1,7.690689305955376e-16,dengan_kontrol,574,distribusi,3.07627572238215e-14,True,0.0997980709501598
+Sumatera Barat,Riau,14,5.955237601723639e-05,dengan_kontrol,574,distribusi,0.0002001760538394,True,0.09799858670655104
+Kalimantan Timur,Kalimantan Utara,3,1.0590673236766344e-07,dengan_kontrol,574,distribusi,7.060448824510896e-07,True,0.09704304551204734
+Jawa Timur,Kalimantan Timur,7,2.1393057318463198e-07,dengan_kontrol,574,distribusi,1.2965489283917087e-06,True,0.09238415412136514
+Sumatera Barat,Sumatera Utara,7,1.95706278114466e-06,dengan_kontrol,574,distribusi,9.50425547364168e-06,True,0.08855135873923337
+Jawa Timur,Sulawesi Selatan,14,9.153388427775812e-08,dengan_kontrol,574,distribusi,6.423430475632148e-07,True,0.08812507758761168
+Lampung,Sumatera Selatan,14,0.001854956195173,dengan_kontrol,574,distribusi,0.0043012446950045,True,0.08582819905713501
+Gorontalo,Sulawesi Tenggara,7,3.20380227949273e-08,dengan_kontrol,574,distribusi,2.5645507534505574e-07,True,0.08269043686076272
+Sulawesi Utara,Maluku,14,6.876006665045327e-06,dengan_kontrol,574,distribusi,3.022420512107836e-05,True,0.08203686497983587
+Jawa Barat,DKI Jakarta,1,3.3016884885444636e-10,dengan_kontrol,574,distribusi,4.716697840777805e-09,True,0.08173222190008766
+Nusa Tenggara Barat,Kalimantan Selatan,14,3.919761962706939e-06,dengan_kontrol,574,distribusi,1.7817099830486084e-05,True,0.08110822175737675
+Kalimantan Selatan,Kalimantan Tengah,1,1.762789206940089e-15,dengan_kontrol,574,distribusi,5.423966790584888e-14,True,0.07974374914458326
+Jawa Timur,Papua,14,3.665573112053405e-05,dengan_kontrol,574,distribusi,0.0001309133254304,True,0.07593174074858067
+Jawa Timur,DI Yogyakarta,1,1.5780617666205063e-09,dengan_kontrol,574,distribusi,1.8166466340170385e-08,True,0.07471891776143313
+Kalimantan Selatan,Kalimantan Timur,3,6.4345725498936945e-09,dengan_kontrol,574,distribusi,6.277631755993849e-08,True,0.07091631131199405
+Jawa Barat,Lampung,1,5.7766292485548306e-09,dengan_kontrol,574,distribusi,5.776629248554829e-08,True,0.07010121545894032
+Jawa Timur,Maluku,14,0.0005160176167067,dengan_kontrol,574,distribusi,0.0013534946755597,True,0.06298115074749777
+Jawa Timur,Kalimantan Utara,14,0.0029553018256752,dengan_kontrol,574,distribusi,0.0066040264260898,True,0.06253437444090482
+Sulawesi Selatan,Papua Barat,7,0.0009003153165209,dengan_kontrol,574,distribusi,0.0022649441925055,True,0.0623354226108499
+Jambi,Sumatera Barat,3,2.7692501552508852e-09,dengan_kontrol,574,distribusi,2.9150001634219853e-08,True,0.061814003955683594
+Jawa Timur,Kalimantan Selatan,14,2.532733931543201e-05,dengan_kontrol,574,distribusi,9.380496042752596e-05,True,0.06172135649084165
+Jawa Timur,Sumatera Selatan,14,0.0002676787236037,dengan_kontrol,574,distribusi,0.000793122144011,True,0.06105780143064965
+Sulawesi Selatan,Papua,14,0.0062233250515645,dengan_kontrol,574,distribusi,0.0124466501031291,True,0.05777833815405764
+Maluku Utara,Jawa Timur,14,0.0015412897509428,dengan_kontrol,574,distribusi,0.0036480230791546,True,0.05681051416836569
+Jawa Tengah,Jawa Timur,3,2.4532765205163404e-10,dengan_kontrol,574,distribusi,3.634483734098282e-09,True,0.05604978615997158
+Sulawesi Utara,Sulawesi Tengah,14,0.0002918658122398,dengan_kontrol,574,distribusi,0.0008412816325447,True,0.05379675013842333
+Nusa Tenggara Barat,DI Yogyakarta,14,0.0256035831877055,dengan_kontrol,574,distribusi,0.0426726386461759,True,0.053625523901547845
+Riau,Sumatera Utara,1,4.7523932649303416e-08,dengan_kontrol,574,distribusi,3.520291307355808e-07,True,0.0530541516545503
+Jawa Tengah,DKI Jakarta,3,7.418889141677446e-06,dengan_kontrol,574,distribusi,3.225603974642367e-05,True,0.0520880522428091
+Jawa Tengah,Papua,7,3.557636644427281e-05,dengan_kontrol,574,distribusi,0.0001282031223217,True,0.05095703042302058
+Sumatera Barat,Sumatera Selatan,3,0.0004078424956554,dengan_kontrol,574,distribusi,0.0011250827466357,True,0.05050974695079058
+Jawa Tengah,Sumatera Selatan,3,8.814198042804717e-05,dengan_kontrol,574,distribusi,0.000288990099764,True,0.04825424431345837
+Nusa Tenggara Barat,Kalimantan Timur,7,0.0030785462399446,dengan_kontrol,574,distribusi,0.006729062819551,True,0.04718586414582604
+Jawa Timur,Papua Barat,7,0.0187282503995147,dengan_kontrol,574,distribusi,0.0327131011345235,True,0.04713511332776987
+Sumatera Utara,Riau,3,4.7473403753635525e-08,dengan_kontrol,574,distribusi,3.520291307355808e-07,True,0.04561707709616436
+Jawa Tengah,Kalimantan Barat,7,0.0030119636360254,dengan_kontrol,574,distribusi,0.0066562732287855,True,0.044419295728176045
+Sumatera Barat,Jambi,1,0.0255634967918688,dengan_kontrol,574,distribusi,0.0426726386461759,True,0.04375773712415021
+Jawa Tengah,Jambi,7,2.62364118495439e-06,dengan_kontrol,574,distribusi,1.2346546752726544e-05,True,0.04325683182415663
+Sulawesi Selatan,Kalimantan Utara,3,0.0001546706968164,dengan_kontrol,574,distribusi,0.0004833459275513,True,0.04310351302751647
+Sulawesi Selatan,Sulawesi Barat,3,2.127556500530368e-07,dengan_kontrol,574,distribusi,1.2965489283917087e-06,True,0.04100985426692183
+Jawa Tengah,Kalimantan Selatan,3,1.3667170986360262e-06,dengan_kontrol,574,distribusi,6.833585493180131e-06,True,0.04041374439535539
+Jawa Tengah,Kalimantan Tengah,3,1.3318794543646276e-05,dengan_kontrol,574,distribusi,5.1723473955907865e-05,True,0.04027193118616346
+Sulawesi Selatan,Gorontalo,14,0.0285898502220108,dengan_kontrol,574,distribusi,0.0472559507801832,True,0.03740198114489124
+Sulawesi Selatan,Sulawesi Tenggara,7,0.0003409863117442,dengan_kontrol,574,distribusi,0.0009538078650189,True,0.03624136302900571
+Jawa Barat,Kalimantan Barat,7,3.4726832188220986e-07,dengan_kontrol,574,distribusi,2.042754834601234e-06,True,0.036156413422936184
+Jawa Tengah,Lampung,1,1.4871127730187326e-10,dengan_kontrol,574,distribusi,2.379380436829972e-09,True,0.03612502373637394
+Jawa Timur,Kalimantan Barat,7,0.0018471638657224,dengan_kontrol,574,distribusi,0.0043012446950045,True,0.03546743178748102
+Jawa Timur,Kalimantan Tengah,7,0.0006024685533935,dengan_kontrol,574,distribusi,0.001534951728391,True,0.03400985317531613
+Sulawesi Selatan,Sulawesi Tengah,3,0.000262908119744,dengan_kontrol,574,distribusi,0.0007848003574448,True,0.02953517673999173
+Jawa Timur,Bali,1,0.0003391985764766,dengan_kontrol,574,distribusi,0.0009538078650189,True,0.025548469359028547
+Jawa Tengah,Nusa Tenggara Barat,1,4.969689411954281e-05,dengan_kontrol,574,distribusi,0.0001688951859368,True,0.024933419864794137
+Sulawesi Selatan,Sulawesi Utara,7,0.0107188315871871,dengan_kontrol,574,distribusi,0.0199205285885106,True,0.024927776441506788
+DI Yogyakarta,Jawa Tengah,7,0.0165491599906314,dengan_kontrol,574,distribusi,0.0292905486559848,True,0.02472973919516963
+Sulawesi Selatan,Kalimantan Timur,3,4.318990057135981e-05,dengan_kontrol,574,distribusi,0.0001501205737874,True,0.024439083715943943
+Nusa Tenggara Barat,Sulawesi Tengah,3,0.00619529727022,dengan_kontrol,574,distribusi,0.0124466501031291,True,0.024268002143403744
+Kalimantan Tengah,Kalimantan Barat,1,0.0030724324139941,dengan_kontrol,574,distribusi,0.006729062819551,True,0.022708506817448182
+Jawa Timur,DKI Jakarta,3,0.0051250732439347,dengan_kontrol,574,distribusi,0.010677235924864,True,0.022512433433837353
+DI Yogyakarta,DKI Jakarta,3,0.0027291611523663,dengan_kontrol,574,distribusi,0.0061329464098119,True,0.021698329212841982
+Jawa Timur,Sumatera Utara,1,0.002159888528905,dengan_kontrol,574,distribusi,0.0049368880660687,True,0.021217968076998828
+Sulawesi Selatan,Jawa Timur,3,0.0031081953819433,dengan_kontrol,574,distribusi,0.0067569464824855,True,0.02120014214593169
+Jawa Timur,Lampung,3,8.596932448091593e-06,dengan_kontrol,574,distribusi,3.6488906643848167e-05,True,0.01944522018366912
+Nusa Tenggara Barat,Jawa Timur,3,0.0012770786991955,dengan_kontrol,574,distribusi,0.0030772980703508,True,0.016272258176756038
+Sulawesi Selatan,Maluku,3,0.0017926438713712,dengan_kontrol,574,distribusi,0.004217985579697,True,0.01517014366750169
+Sumatera Utara,Sumatera Barat,1,8.077838172824362e-06,dengan_kontrol,574,distribusi,3.4743389990642416e-05,True,0.013542516118758674
+Bali,Jawa Timur,1,0.010806886759267,dengan_kontrol,574,distribusi,0.0199205285885106,True,0.0121470547720135
+DI Yogyakarta,Jawa Timur,3,0.0073024092345214,dengan_kontrol,574,distribusi,0.0143184494794537,True,0.011108594989488907
+Jawa Barat,Sumatera Barat,3,0.0005282800946442,dengan_kontrol,574,distribusi,0.0013721560899851,True,0.010177137239472889
+Jawa Timur,Jawa Tengah,1,2.0782857541037033e-08,dengan_kontrol,574,distribusi,1.7687538332797474e-07,True,0.00792186223243263
+Jawa Tengah,Sumatera Barat,1,0.0004312871527582,dengan_kontrol,574,distribusi,0.0011735704836959,True,0.006988344722745676
+Sulawesi Selatan,Kalimantan Tengah,1,0.0041833869266636,dengan_kontrol,574,distribusi,0.0088537289453198,True,0.006286521042844662
+Nusa Tenggara Barat,Jawa Tengah,1,0.0131022003212148,dengan_kontrol,574,distribusi,0.0235646630554803,True,0.006271497652805547
+DKI Jakarta,Lampung,1,0.0210604511393589,dengan_kontrol,574,distribusi,0.036155280925938,True,0.0036062428055797513

@@ -1,0 +1,1601 @@
+Provinsi_Asal,Provinsi_Tujuan,lag_hari,p_value_raw,kontrol,n_observasi,jenis_pasangan,p_value_terkoreksi,signifikan
+Sumatera Utara,Aceh,1,0.7422931721241081,tanpa_kontrol,574,distribusi,0.7960248494628505,False
+Sumatera Utara,Aceh,3,0.9774464770396113,tanpa_kontrol,574,distribusi,0.9848327224580466,False
+Sumatera Utara,Aceh,7,0.9884238909588856,tanpa_kontrol,574,distribusi,0.9909011438184316,False
+Sumatera Utara,Aceh,14,0.9689113498832812,tanpa_kontrol,574,distribusi,0.9786983332154355,False
+Sumatera Barat,Sumatera Utara,1,2.2069769693923142e-12,tanpa_kontrol,574,distribusi,2.5964434934027226e-11,True
+Sumatera Barat,Sumatera Utara,3,2.2225534914250345e-09,tanpa_kontrol,574,distribusi,1.6463359195740995e-08,True
+Sumatera Barat,Sumatera Utara,7,3.988322981043654e-10,tanpa_kontrol,574,distribusi,3.46810694003796e-09,True
+Sumatera Barat,Sumatera Utara,14,1.0077908412235593e-09,tanpa_kontrol,574,distribusi,8.062326729788474e-09,True
+Riau,Sumatera Utara,1,2.280279949511606e-08,tanpa_kontrol,574,distribusi,1.5459525081434618e-07,True
+Riau,Sumatera Utara,3,2.342377989753653e-05,tanpa_kontrol,574,distribusi,8.839162225485484e-05,True
+Riau,Sumatera Utara,7,3.949676613858404e-07,tanpa_kontrol,574,distribusi,2.1064941940578155e-06,True
+Riau,Sumatera Utara,14,5.135024829432262e-05,tanpa_kontrol,574,distribusi,0.0001786095592846004,True
+Jawa Barat,Sumatera Utara,1,4.041730407527696e-06,tanpa_kontrol,574,distribusi,1.7765847945176687e-05,True
+Jawa Barat,Sumatera Utara,3,3.312870491549461e-05,tanpa_kontrol,574,distribusi,0.00012046801787452586,True
+Jawa Barat,Sumatera Utara,7,6.542875020057328e-06,tanpa_kontrol,574,distribusi,2.754894745287296e-05,True
+Jawa Barat,Sumatera Utara,14,0.0002087461006435507,tanpa_kontrol,574,distribusi,0.0006050611612856543,True
+Jawa Timur,Sumatera Utara,1,0.00045565702489739783,tanpa_kontrol,574,distribusi,0.0012398830609453002,True
+Jawa Timur,Sumatera Utara,3,0.019925114049447964,tanpa_kontrol,574,distribusi,0.03213728072491607,True
+Jawa Timur,Sumatera Utara,7,0.09028909852927765,tanpa_kontrol,574,distribusi,0.11764051925638783,False
+Jawa Timur,Sumatera Utara,14,0.2661765257965193,tanpa_kontrol,574,distribusi,0.3159365291353345,False
+Sumatera Utara,Sumatera Barat,1,0.0041933719539248284,tanpa_kontrol,574,distribusi,0.00818218917838991,True
+Sumatera Utara,Sumatera Barat,3,0.042667262977790964,tanpa_kontrol,574,distribusi,0.061613376141214385,False
+Sumatera Utara,Sumatera Barat,7,0.30486193694783287,tanpa_kontrol,574,distribusi,0.35656366894483377,False
+Sumatera Utara,Sumatera Barat,14,0.8017645251014645,tanpa_kontrol,574,distribusi,0.8484280688904386,False
+Jambi,Sumatera Barat,1,1.4829810649227334e-05,tanpa_kontrol,574,distribusi,5.849188275894643e-05,True
+Jambi,Sumatera Barat,3,2.3290262864131333e-08,tanpa_kontrol,574,distribusi,1.5526841909420888e-07,True
+Jambi,Sumatera Barat,7,8.834867248800544e-07,tanpa_kontrol,574,distribusi,4.589541427948334e-06,True
+Jambi,Sumatera Barat,14,1.2673012662746577e-06,tanpa_kontrol,574,distribusi,6.258277858146458e-06,True
+Jawa Barat,Sumatera Barat,1,0.5345723989294433,tanpa_kontrol,574,distribusi,0.5939693321438259,False
+Jawa Barat,Sumatera Barat,3,0.10477034456094324,tanpa_kontrol,574,distribusi,0.13346540708400412,False
+Jawa Barat,Sumatera Barat,7,0.04979197435916493,tanpa_kontrol,574,distribusi,0.07012954135093652,False
+Jawa Barat,Sumatera Barat,14,0.05866749286930458,tanpa_kontrol,574,distribusi,0.08036642858808847,False
+Jawa Tengah,Sumatera Barat,1,0.04005065839198581,tanpa_kontrol,574,distribusi,0.05868228335822096,False
+Jawa Tengah,Sumatera Barat,3,0.011880182164843989,tanpa_kontrol,574,distribusi,0.020395162514753627,True
+Jawa Tengah,Sumatera Barat,7,0.00047192426149531106,tanpa_kontrol,574,distribusi,0.0012754709770143543,True
+Jawa Tengah,Sumatera Barat,14,0.003990056459468767,tanpa_kontrol,574,distribusi,0.007862180215702005,True
+Sumatera Utara,Riau,1,0.001311871340815737,tanpa_kontrol,574,distribusi,0.003161135761001776,True
+Sumatera Utara,Riau,3,6.397258025874032e-06,tanpa_kontrol,574,distribusi,2.751508828332917e-05,True
+Sumatera Utara,Riau,7,0.00032816771715151106,tanpa_kontrol,574,distribusi,0.0009179516563678631,True
+Sumatera Utara,Riau,14,0.00433010799466182,tanpa_kontrol,574,distribusi,0.0083593230205409,True
+Sumatera Barat,Riau,1,1.479778051916108e-07,tanpa_kontrol,574,distribusi,8.834495832334973e-07,True
+Sumatera Barat,Riau,3,2.532622193115368e-06,tanpa_kontrol,574,distribusi,1.1918222085248791e-05,True
+Sumatera Barat,Riau,7,1.8268820699072172e-07,tanpa_kontrol,574,distribusi,1.0746365117101277e-06,True
+Sumatera Barat,Riau,14,2.3282489521041305e-07,tanpa_kontrol,574,distribusi,1.3304279726309318e-06,True
+Jawa Tengah,Riau,1,0.0834959821942425,tanpa_kontrol,574,distribusi,0.10950292746785902,False
+Jawa Tengah,Riau,3,0.007971486006144278,tanpa_kontrol,574,distribusi,0.01410882478963589,True
+Jawa Tengah,Riau,7,5.2581497235918235e-05,tanpa_kontrol,574,distribusi,0.00018131550771006288,True
+Jawa Tengah,Riau,14,0.001458056661590516,tanpa_kontrol,574,distribusi,0.0034715634799774193,True
+Jawa Timur,Riau,1,0.47468035546946896,tanpa_kontrol,574,distribusi,0.5348511047543313,False
+Jawa Timur,Riau,3,0.046175912648936536,tanpa_kontrol,574,distribusi,0.06572219077168985,False
+Jawa Timur,Riau,7,0.1311424806743953,tanpa_kontrol,574,distribusi,0.1642412715383499,False
+Jawa Timur,Riau,14,0.20781300483955598,tanpa_kontrol,574,distribusi,0.2511335405916084,False
+Sumatera Barat,Jambi,1,2.39749023374048e-07,tanpa_kontrol,574,distribusi,1.3506987232340735e-06,True
+Sumatera Barat,Jambi,3,0.00019236049071240613,tanpa_kontrol,574,distribusi,0.0005657661491541356,True
+Sumatera Barat,Jambi,7,0.0006592886595144996,tanpa_kontrol,574,distribusi,0.0017464600252039724,True
+Sumatera Barat,Jambi,14,0.004388644585783973,tanpa_kontrol,574,distribusi,0.0083593230205409,True
+Jawa Tengah,Jambi,1,0.001775473351124409,tanpa_kontrol,574,distribusi,0.004055534082374706,True
+Jawa Tengah,Jambi,3,0.00015548437519057406,tanpa_kontrol,574,distribusi,0.0004747614509635849,True
+Jawa Tengah,Jambi,7,0.00040161515728982675,tanpa_kontrol,574,distribusi,0.0011155976591384078,True
+Jawa Tengah,Jambi,14,0.0032238650057408186,tanpa_kontrol,574,distribusi,0.006512858597456199,True
+Sumatera Barat,Sumatera Selatan,1,3.0935549270307723e-07,tanpa_kontrol,574,distribusi,1.695098590153848e-06,True
+Sumatera Barat,Sumatera Selatan,3,1.7281310242189672e-06,tanpa_kontrol,574,distribusi,8.229195353423654e-06,True
+Sumatera Barat,Sumatera Selatan,7,6.0113446121588326e-05,tanpa_kontrol,574,distribusi,0.0002020620037700448,True
+Sumatera Barat,Sumatera Selatan,14,5.728407804167026e-05,tanpa_kontrol,574,distribusi,0.00019418331539549242,True
+Lampung,Sumatera Selatan,1,0.003040314816502267,tanpa_kontrol,574,distribusi,0.006236543213337983,True
+Lampung,Sumatera Selatan,3,0.00585636017703109,tanpa_kontrol,574,distribusi,0.010795133966877585,True
+Lampung,Sumatera Selatan,7,0.03543527709782917,tanpa_kontrol,574,distribusi,0.0532861309741792,False
+Lampung,Sumatera Selatan,14,3.6089903471163636e-06,tanpa_kontrol,574,distribusi,1.6220181335354444e-05,True
+Jawa Tengah,Sumatera Selatan,1,0.0009666320322956576,tanpa_kontrol,574,distribusi,0.002416580080739144,True
+Jawa Tengah,Sumatera Selatan,3,3.3243603527350684e-06,tanpa_kontrol,574,distribusi,1.5110728876068492e-05,True
+Jawa Tengah,Sumatera Selatan,7,2.0629619993768268e-05,tanpa_kontrol,574,distribusi,7.858902854768864e-05,True
+Jawa Tengah,Sumatera Selatan,14,8.456443638159916e-05,tanpa_kontrol,574,distribusi,0.00027726044715278413,True
+DI Yogyakarta,Sumatera Selatan,1,0.17540336451591654,tanpa_kontrol,574,distribusi,0.21325637023211738,False
+DI Yogyakarta,Sumatera Selatan,3,0.32165043386792586,tanpa_kontrol,574,distribusi,0.370057093196406,False
+DI Yogyakarta,Sumatera Selatan,7,0.6083545467315498,tanpa_kontrol,574,distribusi,0.6666899142263559,False
+DI Yogyakarta,Sumatera Selatan,14,0.8132617026624771,tanpa_kontrol,574,distribusi,0.8565768784419842,False
+Jawa Timur,Sumatera Selatan,1,0.0015742991430961598,tanpa_kontrol,574,distribusi,0.0037042332778733176,True
+Jawa Timur,Sumatera Selatan,3,0.001957450353509925,tanpa_kontrol,574,distribusi,0.004398764839348145,True
+Jawa Timur,Sumatera Selatan,7,0.016237707446361636,tanpa_kontrol,574,distribusi,0.027405413411580818,True
+Jawa Timur,Sumatera Selatan,14,0.0010340136847380261,tanpa_kontrol,574,distribusi,0.002521984596922015,True
+DKI Jakarta,Lampung,1,0.14246191205553016,tanpa_kontrol,574,distribusi,0.17642342050220453,False
+DKI Jakarta,Lampung,3,0.6127940810614249,tanpa_kontrol,574,distribusi,0.6688183059240137,False
+DKI Jakarta,Lampung,7,0.9181386657744492,tanpa_kontrol,574,distribusi,0.9441014558092022,False
+DKI Jakarta,Lampung,14,0.8436599952983627,tanpa_kontrol,574,distribusi,0.8834136076422646,False
+Jawa Barat,Lampung,1,4.5867436161417775e-11,tanpa_kontrol,574,distribusi,4.704352426812079e-10,True
+Jawa Barat,Lampung,3,4.256140188650934e-10,tanpa_kontrol,574,distribusi,3.622246969064625e-09,True
+Jawa Barat,Lampung,7,1.0993838831348354e-08,tanpa_kontrol,574,distribusi,7.852742022391681e-08,True
+Jawa Barat,Lampung,14,1.3021807804866222e-08,tanpa_kontrol,574,distribusi,8.980557106804291e-08,True
+Jawa Tengah,Lampung,1,2.8350770132413245e-06,tanpa_kontrol,574,distribusi,1.3034836842488849e-05,True
+Jawa Tengah,Lampung,3,3.988113936642522e-06,tanpa_kontrol,574,distribusi,1.7724950829522317e-05,True
+Jawa Tengah,Lampung,7,3.366759949109388e-05,tanpa_kontrol,574,distribusi,0.00012132468285078875,True
+Jawa Tengah,Lampung,14,0.00016688100312982468,tanpa_kontrol,574,distribusi,0.0005057000094843172,True
+Jawa Timur,Lampung,1,0.00379654943645065,tanpa_kontrol,574,distribusi,0.007555322261593334,True
+Jawa Timur,Lampung,3,0.008106778491202412,tanpa_kontrol,574,distribusi,0.014285072231193678,True
+Jawa Timur,Lampung,7,0.024467697196653527,tanpa_kontrol,574,distribusi,0.03838070148494671,True
+Jawa Timur,Lampung,14,0.025314685951863623,tanpa_kontrol,574,distribusi,0.03940028941924299,True
+DKI Jakarta,Kepulauan Bangka Belitung,1,9.018314811625506e-15,tanpa_kontrol,574,distribusi,1.5684025759348706e-13,True
+DKI Jakarta,Kepulauan Bangka Belitung,3,8.224166943506484e-19,tanpa_kontrol,574,distribusi,1.827592654112552e-17,True
+DKI Jakarta,Kepulauan Bangka Belitung,7,2.3267212493169779e-23,tanpa_kontrol,574,distribusi,7.75573749772326e-22,True
+DKI Jakarta,Kepulauan Bangka Belitung,14,4.748255273612678e-21,tanpa_kontrol,574,distribusi,1.2662014062967142e-19,True
+Jawa Barat,Kepulauan Bangka Belitung,1,2.0928870625899782e-22,tanpa_kontrol,574,distribusi,6.439652500276856e-21,True
+Jawa Barat,Kepulauan Bangka Belitung,3,2.0172633269262442e-41,tanpa_kontrol,574,distribusi,1.6138106615409953e-39,True
+Jawa Barat,Kepulauan Bangka Belitung,7,1.1879381553319702e-46,tanpa_kontrol,574,distribusi,1.583917540442627e-44,True
+Jawa Barat,Kepulauan Bangka Belitung,14,9.731782454719735e-50,tanpa_kontrol,574,distribusi,2.389379551147247e-47,True
+Jawa Tengah,Kepulauan Bangka Belitung,1,2.1540228913449064e-31,tanpa_kontrol,574,distribusi,9.573435072644029e-30,True
+Jawa Tengah,Kepulauan Bangka Belitung,3,1.6105545127043422e-39,tanpa_kontrol,574,distribusi,1.0737030084695616e-37,True
+Jawa Tengah,Kepulauan Bangka Belitung,7,3.529298290198761e-46,tanpa_kontrol,574,distribusi,3.529298290198761e-44,True
+Jawa Tengah,Kepulauan Bangka Belitung,14,1.1946897755736236e-49,tanpa_kontrol,574,distribusi,2.389379551147247e-47,True
+Jawa Timur,Kepulauan Bangka Belitung,1,5.536632957146472e-20,tanpa_kontrol,574,distribusi,1.302737166387405e-18,True
+Jawa Timur,Kepulauan Bangka Belitung,3,4.7631243796627175e-28,tanpa_kontrol,574,distribusi,1.9052497518650868e-26,True
+Jawa Timur,Kepulauan Bangka Belitung,7,1.0522309987421593e-36,tanpa_kontrol,574,distribusi,6.01274856424091e-35,True
+Jawa Timur,Kepulauan Bangka Belitung,14,1.6860779381697283e-36,tanpa_kontrol,574,distribusi,8.430389690848641e-35,True
+Sumatera Utara,Kepulauan Riau,1,0.35813467808115174,tanpa_kontrol,574,distribusi,0.4092967749498877,False
+Sumatera Utara,Kepulauan Riau,3,0.08474977346489622,tanpa_kontrol,574,distribusi,0.11078401760117153,False
+Sumatera Utara,Kepulauan Riau,7,0.039865206594140945,tanpa_kontrol,574,distribusi,0.05868228335822096,False
+Sumatera Utara,Kepulauan Riau,14,0.23063564039514586,tanpa_kontrol,574,distribusi,0.2753858392777861,False
+Jawa Tengah,Kepulauan Riau,1,0.06968129923510585,tanpa_kontrol,574,distribusi,0.09416391788527818,False
+Jawa Tengah,Kepulauan Riau,3,0.1560923075623014,tanpa_kontrol,574,distribusi,0.1921136093074479,False
+Jawa Tengah,Kepulauan Riau,7,0.6077530435943455,tanpa_kontrol,574,distribusi,0.6666899142263559,False
+Jawa Tengah,Kepulauan Riau,14,0.9156925145741508,tanpa_kontrol,574,distribusi,0.9440129016228359,False
+Jawa Barat,DKI Jakarta,1,3.167809353253009e-12,tanpa_kontrol,574,distribusi,3.620353546574868e-11,True
+Jawa Barat,DKI Jakarta,3,1.1113718870929678e-12,tanpa_kontrol,574,distribusi,1.532926740817887e-11,True
+Jawa Barat,DKI Jakarta,7,2.543428769941715e-13,tanpa_kontrol,574,distribusi,3.633469671345307e-12,True
+Jawa Barat,DKI Jakarta,14,5.159486273008295e-15,tanpa_kontrol,574,distribusi,9.380884132742354e-14,True
+Jawa Tengah,DKI Jakarta,1,0.016785317174797865,tanpa_kontrol,574,distribusi,0.0280925810456868,True
+Jawa Tengah,DKI Jakarta,3,1.1090543300496362e-06,tanpa_kontrol,574,distribusi,5.615464962276639e-06,True
+Jawa Tengah,DKI Jakarta,7,0.0001039884537860332,tanpa_kontrol,574,distribusi,0.0003354466251162361,True
+Jawa Tengah,DKI Jakarta,14,1.0827812209414562e-05,tanpa_kontrol,574,distribusi,4.465077199758583e-05,True
+DI Yogyakarta,DKI Jakarta,1,0.5158823697000463,tanpa_kontrol,574,distribusi,0.5747992977159291,False
+DI Yogyakarta,DKI Jakarta,3,0.005890570946986256,tanpa_kontrol,574,distribusi,0.010808387058690378,True
+DI Yogyakarta,DKI Jakarta,7,0.038256614451920475,tanpa_kontrol,574,distribusi,0.05688715903631297,False
+DI Yogyakarta,DKI Jakarta,14,0.039027609314785314,tanpa_kontrol,574,distribusi,0.05781868046634861,False
+Jawa Timur,DKI Jakarta,1,0.09286223024350694,tanpa_kontrol,574,distribusi,0.12021000678771125,False
+Jawa Timur,DKI Jakarta,3,0.0047238911012453125,tanpa_kontrol,574,distribusi,0.008955243793829977,True
+Jawa Timur,DKI Jakarta,7,0.018714478216805785,tanpa_kontrol,574,distribusi,0.030679472486566862,True
+Jawa Timur,DKI Jakarta,14,0.05097522282716263,tanpa_kontrol,574,distribusi,0.07107542711689459,False
+Banten,DKI Jakarta,1,0.6633601237969289,tanpa_kontrol,574,distribusi,0.7190895650915218,False
+Banten,DKI Jakarta,3,0.9134621701857857,tanpa_kontrol,574,distribusi,0.9440129016228359,False
+Banten,DKI Jakarta,7,0.7039127040075246,tanpa_kontrol,574,distribusi,0.7589355299272502,False
+Banten,DKI Jakarta,14,0.7712131279383897,tanpa_kontrol,574,distribusi,0.8223175570168503,False
+Jawa Tengah,Jawa Barat,1,0.22001847585651152,tanpa_kontrol,574,distribusi,0.2642864574852991,False
+Jawa Tengah,Jawa Barat,3,6.510093379875654e-14,tanpa_kontrol,574,distribusi,9.644582785000967e-13,True
+Jawa Tengah,Jawa Barat,7,2.8963227359107368e-15,tanpa_kontrol,574,distribusi,5.516805211258546e-14,True
+Jawa Tengah,Jawa Barat,14,2.435909144058595e-14,tanpa_kontrol,574,distribusi,3.747552529320915e-13,True
+DI Yogyakarta,Jawa Barat,1,0.7729785035958392,tanpa_kontrol,574,distribusi,0.8223175570168503,False
+DI Yogyakarta,Jawa Barat,3,0.37136413051731376,tanpa_kontrol,574,distribusi,0.42320698634451714,False
+DI Yogyakarta,Jawa Barat,7,0.5578626305213295,tanpa_kontrol,574,distribusi,0.6164227961561651,False
+DI Yogyakarta,Jawa Barat,14,0.03758249245517415,tanpa_kontrol,574,distribusi,0.05609327232115544,False
+Jawa Barat,Jawa Tengah,1,1.265847455238488e-16,tanpa_kontrol,574,distribusi,2.6649420110283957e-15,True
+Jawa Barat,Jawa Tengah,3,4.269378699089078e-22,tanpa_kontrol,574,distribusi,1.219822485454022e-20,True
+Jawa Barat,Jawa Tengah,7,3.508592926584154e-20,tanpa_kontrol,574,distribusi,8.771482316460385e-19,True
+Jawa Barat,Jawa Tengah,14,7.060864700844566e-24,tanpa_kontrol,574,distribusi,2.5675871639434786e-22,True
+DI Yogyakarta,Jawa Tengah,1,0.9283345608431381,tanpa_kontrol,574,distribusi,0.950336359249149,False
+DI Yogyakarta,Jawa Tengah,3,0.0069566178689640466,tanpa_kontrol,574,distribusi,0.012591163563735831,True
+DI Yogyakarta,Jawa Tengah,7,0.01731855511596899,tanpa_kontrol,574,distribusi,0.028744489819035667,True
+DI Yogyakarta,Jawa Tengah,14,0.05457870462343,tanpa_kontrol,574,distribusi,0.0752809718943862,False
+Jawa Timur,Jawa Tengah,1,0.023291431325418444,tanpa_kontrol,574,distribusi,0.03682439735244023,True
+Jawa Timur,Jawa Tengah,3,0.006940336131173501,tanpa_kontrol,574,distribusi,0.012591163563735831,True
+Jawa Timur,Jawa Tengah,7,0.0007801761988751287,tanpa_kontrol,574,distribusi,0.001975129617405389,True
+Jawa Timur,Jawa Tengah,14,0.0007182221644402333,tanpa_kontrol,574,distribusi,0.0018655121154291772,True
+Nusa Tenggara Barat,Jawa Tengah,1,0.043635929658624874,tanpa_kontrol,574,distribusi,0.06233704236946411,False
+Nusa Tenggara Barat,Jawa Tengah,3,0.2678700168633758,tanpa_kontrol,574,distribusi,0.31700593711642105,False
+Nusa Tenggara Barat,Jawa Tengah,7,0.02730920200017898,tanpa_kontrol,574,distribusi,0.042014156923352274,True
+Nusa Tenggara Barat,Jawa Tengah,14,0.07918279155842185,tanpa_kontrol,574,distribusi,0.10453173803091995,False
+Jawa Tengah,DI Yogyakarta,1,1.84115908249381e-15,tanpa_kontrol,574,distribusi,3.68231816498762e-14,True
+Jawa Tengah,DI Yogyakarta,3,1.581178681586139e-14,tanpa_kontrol,574,distribusi,2.635297802643565e-13,True
+Jawa Tengah,DI Yogyakarta,7,1.8903167678072022e-12,tanpa_kontrol,574,distribusi,2.2912930518875176e-11,True
+Jawa Tengah,DI Yogyakarta,14,2.3245882665931122e-14,tanpa_kontrol,574,distribusi,3.7193412265489795e-13,True
+Jawa Timur,DI Yogyakarta,1,1.535576588312373e-11,tanpa_kontrol,574,distribusi,1.6163964087498663e-10,True
+Jawa Timur,DI Yogyakarta,3,3.916385374577191e-10,tanpa_kontrol,574,distribusi,3.46810694003796e-09,True
+Jawa Timur,DI Yogyakarta,7,1.180940310774034e-08,tanpa_kontrol,574,distribusi,8.28730042648445e-08,True
+Jawa Timur,DI Yogyakarta,14,5.904966351168595e-11,tanpa_kontrol,574,distribusi,5.904966351168595e-10,True
+Nusa Tenggara Barat,DI Yogyakarta,1,0.005668455474840286,tanpa_kontrol,574,distribusi,0.010545963674121464,True
+Nusa Tenggara Barat,DI Yogyakarta,3,0.016589504764620313,tanpa_kontrol,574,distribusi,0.02788152061280725,True
+Nusa Tenggara Barat,DI Yogyakarta,7,0.003317200024532878,tanpa_kontrol,574,distribusi,0.006634400049065756,True
+Nusa Tenggara Barat,DI Yogyakarta,14,0.005722292319909627,tanpa_kontrol,574,distribusi,0.010596837629462272,True
+Sulawesi Selatan,DI Yogyakarta,1,2.8872643246511768e-05,tanpa_kontrol,574,distribusi,0.00010693571572782136,True
+Sulawesi Selatan,DI Yogyakarta,3,0.00027340251535302285,tanpa_kontrol,574,distribusi,0.0007811500438657796,True
+Sulawesi Selatan,DI Yogyakarta,7,0.001689371033456137,tanpa_kontrol,574,distribusi,0.0038836115711635335,True
+Sulawesi Selatan,DI Yogyakarta,14,0.002481079167453248,tanpa_kontrol,574,distribusi,0.005307121213803739,True
+Jawa Tengah,Jawa Timur,1,0.0011103555317009644,tanpa_kontrol,574,distribusi,0.002691770985941732,True
+Jawa Tengah,Jawa Timur,3,7.896227774212026e-08,tanpa_kontrol,574,distribusi,5.013477951880652e-07,True
+Jawa Tengah,Jawa Timur,7,2.817182090137994e-10,tanpa_kontrol,574,distribusi,2.7484703318419457e-09,True
+Jawa Tengah,Jawa Timur,14,3.7993136005870093e-10,tanpa_kontrol,574,distribusi,3.46810694003796e-09,True
+DI Yogyakarta,Jawa Timur,1,0.28756622557149003,tanpa_kontrol,574,distribusi,0.3373210857143578,False
+DI Yogyakarta,Jawa Timur,3,0.07402056472556036,tanpa_kontrol,574,distribusi,0.09804048308021239,False
+DI Yogyakarta,Jawa Timur,7,0.7305612991085881,tanpa_kontrol,574,distribusi,0.7855497839877291,False
+DI Yogyakarta,Jawa Timur,14,0.2790158634919425,tanpa_kontrol,574,distribusi,0.3282539570493441,False
+Bali,Jawa Timur,1,0.006422073840322123,tanpa_kontrol,574,distribusi,0.011729815233465064,True
+Bali,Jawa Timur,3,0.07087523630966995,tanpa_kontrol,574,distribusi,0.0954548637167272,False
+Bali,Jawa Timur,7,0.04325544097298108,tanpa_kontrol,574,distribusi,0.06201496913689043,False
+Bali,Jawa Timur,14,0.1753318084459321,tanpa_kontrol,574,distribusi,0.21325637023211738,False
+Nusa Tenggara Barat,Jawa Timur,1,0.043228315681123376,tanpa_kontrol,574,distribusi,0.06201496913689043,False
+Nusa Tenggara Barat,Jawa Timur,3,0.017042605101171917,tanpa_kontrol,574,distribusi,0.02840434183528653,True
+Nusa Tenggara Barat,Jawa Timur,7,0.06898774383548938,tanpa_kontrol,574,distribusi,0.0935427035057483,False
+Nusa Tenggara Barat,Jawa Timur,14,0.08291150963204652,tanpa_kontrol,574,distribusi,0.10909409162111385,False
+Sulawesi Selatan,Jawa Timur,1,0.04157385896329116,tanpa_kontrol,574,distribusi,0.06047106758296896,False
+Sulawesi Selatan,Jawa Timur,3,0.004014837946857704,tanpa_kontrol,574,distribusi,0.007872231268348438,True
+Sulawesi Selatan,Jawa Timur,7,0.01774828880952009,tanpa_kontrol,574,distribusi,0.029336014561190234,True
+Sulawesi Selatan,Jawa Timur,14,0.010778730560452652,tanpa_kontrol,574,distribusi,0.018664468502948315,True
+Maluku Utara,Jawa Timur,1,0.9341564571170224,tanpa_kontrol,574,distribusi,0.9532208746092066,False
+Maluku Utara,Jawa Timur,3,0.9972376114138519,tanpa_kontrol,574,distribusi,0.9972376114138519,False
+Maluku Utara,Jawa Timur,7,0.30675658158349184,tanpa_kontrol,574,distribusi,0.35773362283789134,False
+Maluku Utara,Jawa Timur,14,0.0007606777543477713,tanpa_kontrol,574,distribusi,0.0019380324951535574,True
+DKI Jakarta,Banten,1,0.3134218902284752,tanpa_kontrol,574,distribusi,0.3644440584052038,False
+DKI Jakarta,Banten,3,0.6361001572235107,tanpa_kontrol,574,distribusi,0.6914132143733811,False
+DKI Jakarta,Banten,7,0.9414153397498964,tanpa_kontrol,574,distribusi,0.9581835519082915,False
+DKI Jakarta,Banten,14,0.2726403222176968,tanpa_kontrol,574,distribusi,0.3216994952421201,False
+Jawa Barat,Banten,1,0.31561173802260195,tanpa_kontrol,574,distribusi,0.36570231526677915,False
+Jawa Barat,Banten,3,0.755767622028916,tanpa_kontrol,574,distribusi,0.8083076171432256,False
+Jawa Barat,Banten,7,0.9289537911660433,tanpa_kontrol,574,distribusi,0.950336359249149,False
+Jawa Barat,Banten,14,0.8710073610108985,tanpa_kontrol,574,distribusi,0.9072993343863526,False
+Jawa Tengah,Banten,1,0.8162773768623358,tanpa_kontrol,574,distribusi,0.8569841226901164,False
+Jawa Tengah,Banten,3,0.9576494651329308,tanpa_kontrol,574,distribusi,0.9697716102611957,False
+Jawa Tengah,Banten,7,0.9873404253758215,tanpa_kontrol,574,distribusi,0.9909011438184316,False
+Jawa Tengah,Banten,14,0.9458695182755916,tanpa_kontrol,574,distribusi,0.9602736226148139,False
+Jawa Timur,Bali,1,0.00011550910898905997,tanpa_kontrol,574,distribusi,0.00036380821728837785,True
+Jawa Timur,Bali,3,0.0024044804945035593,tanpa_kontrol,574,distribusi,0.005227131509790346,True
+Jawa Timur,Bali,7,0.002749578487265413,tanpa_kontrol,574,distribusi,0.005728288515136277,True
+Jawa Timur,Bali,14,0.03073513051009655,tanpa_kontrol,574,distribusi,0.04692386337419321,True
+Nusa Tenggara Barat,Bali,1,0.002421975589740642,tanpa_kontrol,574,distribusi,0.005236703977817604,True
+Nusa Tenggara Barat,Bali,3,0.010157915731702936,tanpa_kontrol,574,distribusi,0.017743084247516045,True
+Nusa Tenggara Barat,Bali,7,0.029581281811000646,tanpa_kontrol,574,distribusi,0.045335297794637006,True
+Nusa Tenggara Barat,Bali,14,0.14143291410836792,tanpa_kontrol,574,distribusi,0.17569306100418375,False
+Jawa Tengah,Nusa Tenggara Barat,1,0.00011771070757039923,tanpa_kontrol,574,distribusi,0.00036784596115749756,True
+Jawa Tengah,Nusa Tenggara Barat,3,7.770181575170994e-06,tanpa_kontrol,574,distribusi,3.237575656321248e-05,True
+Jawa Tengah,Nusa Tenggara Barat,7,0.00018491011377740434,tanpa_kontrol,574,distribusi,0.0005519704888877742,True
+Jawa Tengah,Nusa Tenggara Barat,14,4.326854803407636e-05,tanpa_kontrol,574,distribusi,0.00015453052869312983,True
+Jawa Tengah,Nusa Tenggara Timur,1,0.8137480345198849,tanpa_kontrol,574,distribusi,0.8565768784419842,False
+Jawa Tengah,Nusa Tenggara Timur,3,0.018563882313377834,tanpa_kontrol,574,distribusi,0.030557830968523183,True
+Jawa Tengah,Nusa Tenggara Timur,7,0.022959380147473767,tanpa_kontrol,574,distribusi,0.03658865362147214,True
+Jawa Tengah,Nusa Tenggara Timur,14,0.00010571342050663703,tanpa_kontrol,574,distribusi,0.00033695095051965987,True
+Nusa Tenggara Barat,Nusa Tenggara Timur,1,0.5551359763959398,tanpa_kontrol,574,distribusi,0.615109115120155,False
+Nusa Tenggara Barat,Nusa Tenggara Timur,3,0.0020388937589891133,tanpa_kontrol,574,distribusi,0.004530875019975807,True
+Nusa Tenggara Barat,Nusa Tenggara Timur,7,0.019148741052838966,tanpa_kontrol,574,distribusi,0.031182941543095307,True
+Nusa Tenggara Barat,Nusa Tenggara Timur,14,0.0027259244075305412,tanpa_kontrol,574,distribusi,0.005708742214723647,True
+Sulawesi Selatan,Nusa Tenggara Timur,1,0.4833223966053194,tanpa_kontrol,574,distribusi,0.5415376992776688,False
+Sulawesi Selatan,Nusa Tenggara Timur,3,0.1156949117896078,tanpa_kontrol,574,distribusi,0.14625476011965738,False
+Sulawesi Selatan,Nusa Tenggara Timur,7,0.050996618956371864,tanpa_kontrol,574,distribusi,0.07107542711689459,False
+Sulawesi Selatan,Nusa Tenggara Timur,14,0.11590689739482847,tanpa_kontrol,574,distribusi,0.14625476011965738,False
+Jawa Barat,Kalimantan Barat,1,0.07388858292819916,tanpa_kontrol,574,distribusi,0.09804048308021239,False
+Jawa Barat,Kalimantan Barat,3,0.13501766982987332,tanpa_kontrol,574,distribusi,0.16824631754501349,False
+Jawa Barat,Kalimantan Barat,7,0.0016264933275724463,tanpa_kontrol,574,distribusi,0.003782542622261503,True
+Jawa Barat,Kalimantan Barat,14,0.00787998170846917,tanpa_kontrol,574,distribusi,0.014008856370611857,True
+Jawa Tengah,Kalimantan Barat,1,0.03385121580525683,tanpa_kontrol,574,distribusi,0.0512897209170558,False
+Jawa Tengah,Kalimantan Barat,3,0.007538142010448318,tanpa_kontrol,574,distribusi,0.013460967875800567,True
+Jawa Tengah,Kalimantan Barat,7,0.0001756234646071299,tanpa_kontrol,574,distribusi,0.0005281908709988868,True
+Jawa Tengah,Kalimantan Barat,14,0.004386367495893435,tanpa_kontrol,574,distribusi,0.0083593230205409,True
+Jawa Timur,Kalimantan Barat,1,0.0024552725871514833,tanpa_kontrol,574,distribusi,0.005280156101401039,True
+Jawa Timur,Kalimantan Barat,3,0.019613568390294496,tanpa_kontrol,574,distribusi,0.0317628637899506,True
+Jawa Timur,Kalimantan Barat,7,0.001947468066737096,tanpa_kontrol,574,distribusi,0.004398764839348145,True
+Jawa Timur,Kalimantan Barat,14,0.0589585119263074,tanpa_kontrol,574,distribusi,0.08048943607687016,False
+Kalimantan Tengah,Kalimantan Barat,1,0.00027835187410912783,tanpa_kontrol,574,distribusi,0.0007896507066925613,True
+Kalimantan Tengah,Kalimantan Barat,3,0.0025046831817872057,tanpa_kontrol,574,distribusi,0.005329113152738736,True
+Kalimantan Tengah,Kalimantan Barat,7,0.0032520385814494277,tanpa_kontrol,574,distribusi,0.006536760967737543,True
+Kalimantan Tengah,Kalimantan Barat,14,0.015054910276589907,tanpa_kontrol,574,distribusi,0.025516797078965946,True
+Jawa Tengah,Kalimantan Tengah,1,0.04247054321061159,tanpa_kontrol,574,distribusi,0.06155151189943709,False
+Jawa Tengah,Kalimantan Tengah,3,1.4270642736118664e-05,tanpa_kontrol,574,distribusi,5.7082570944474654e-05,True
+Jawa Tengah,Kalimantan Tengah,7,8.146618683560422e-05,tanpa_kontrol,574,distribusi,0.00027155395611868076,True
+Jawa Tengah,Kalimantan Tengah,14,0.0005663012875230756,tanpa_kontrol,574,distribusi,0.0015202719128136258,True
+Jawa Timur,Kalimantan Tengah,1,0.5143631863040274,tanpa_kontrol,574,distribusi,0.5747074707307569,False
+Jawa Timur,Kalimantan Tengah,3,0.0025823920843811286,tanpa_kontrol,574,distribusi,0.0054366149144865865,True
+Jawa Timur,Kalimantan Tengah,7,0.0031714660319215105,tanpa_kontrol,574,distribusi,0.006472379656982674,True
+Jawa Timur,Kalimantan Tengah,14,0.009498397133581507,tanpa_kontrol,574,distribusi,0.016663854620318434,True
+Kalimantan Selatan,Kalimantan Tengah,1,1.8125571348325177e-12,tanpa_kontrol,574,distribusi,2.265696418540647e-11,True
+Kalimantan Selatan,Kalimantan Tengah,3,5.053084056341776e-10,tanpa_kontrol,574,distribusi,4.210903380284813e-09,True
+Kalimantan Selatan,Kalimantan Tengah,7,2.446929839883626e-07,tanpa_kontrol,574,distribusi,1.3594054666020145e-06,True
+Kalimantan Selatan,Kalimantan Tengah,14,4.8134534986803823e-05,tanpa_kontrol,574,distribusi,0.00016889310521685553,True
+Sulawesi Selatan,Kalimantan Tengah,1,0.052408619468654716,tanpa_kontrol,574,distribusi,0.07278974926202045,False
+Sulawesi Selatan,Kalimantan Tengah,3,0.38836487590578883,tanpa_kontrol,574,distribusi,0.440073513774265,False
+Sulawesi Selatan,Kalimantan Tengah,7,0.5672847726607684,tanpa_kontrol,574,distribusi,0.625107187504979,False
+Sulawesi Selatan,Kalimantan Tengah,14,0.8871549155982804,tanpa_kontrol,574,distribusi,0.9217193928293822,False
+Jawa Tengah,Kalimantan Selatan,1,0.0030059462660444037,tanpa_kontrol,574,distribusi,0.006229940447760422,True
+Jawa Tengah,Kalimantan Selatan,3,6.522703362655498e-06,tanpa_kontrol,574,distribusi,2.754894745287296e-05,True
+Jawa Tengah,Kalimantan Selatan,7,2.6988139893177e-06,tanpa_kontrol,574,distribusi,1.2552623206128838e-05,True
+Jawa Tengah,Kalimantan Selatan,14,2.7571235773970206e-05,tanpa_kontrol,574,distribusi,0.00010307004027652413,True
+Jawa Timur,Kalimantan Selatan,1,0.02483524034327743,tanpa_kontrol,574,distribusi,0.03880506303637098,True
+Jawa Timur,Kalimantan Selatan,3,0.02687312608294863,tanpa_kontrol,574,distribusi,0.04150289742540329,True
+Jawa Timur,Kalimantan Selatan,7,5.422984253711991e-05,tanpa_kontrol,574,distribusi,0.00018540117106707662,True
+Jawa Timur,Kalimantan Selatan,14,0.00020197323041433107,tanpa_kontrol,574,distribusi,0.0005897028625235943,True
+Nusa Tenggara Barat,Kalimantan Selatan,1,0.0733719737249928,tanpa_kontrol,574,distribusi,0.09782929829999039,False
+Nusa Tenggara Barat,Kalimantan Selatan,3,0.0020210249135406704,tanpa_kontrol,574,distribusi,0.004516256790035017,True
+Nusa Tenggara Barat,Kalimantan Selatan,7,0.00013854233117084562,tanpa_kontrol,574,distribusi,0.0004295886237855678,True
+Nusa Tenggara Barat,Kalimantan Selatan,14,1.2459526125132681e-06,tanpa_kontrol,574,distribusi,6.229763062566341e-06,True
+Sulawesi Selatan,Kalimantan Selatan,1,0.41379543712525624,tanpa_kontrol,574,distribusi,0.46756546567825563,False
+Sulawesi Selatan,Kalimantan Selatan,3,0.03518871060529827,tanpa_kontrol,574,distribusi,0.05311503487592192,False
+Sulawesi Selatan,Kalimantan Selatan,7,0.04633414449404134,tanpa_kontrol,574,distribusi,0.06572219077168985,False
+Sulawesi Selatan,Kalimantan Selatan,14,0.3782057195503155,tanpa_kontrol,574,distribusi,0.42977922676172214,False
+Jawa Timur,Kalimantan Timur,1,0.001784434996244871,tanpa_kontrol,574,distribusi,0.004055534082374706,True
+Jawa Timur,Kalimantan Timur,3,2.0903389047058976e-07,tanpa_kontrol,574,distribusi,1.2117906693947234e-06,True
+Jawa Timur,Kalimantan Timur,7,3.651954467983735e-10,tanpa_kontrol,574,distribusi,3.46810694003796e-09,True
+Jawa Timur,Kalimantan Timur,14,1.3476889010554034e-07,tanpa_kontrol,574,distribusi,8.167811521547899e-07,True
+Nusa Tenggara Barat,Kalimantan Timur,1,0.05557287794062429,tanpa_kontrol,574,distribusi,0.07638883565721552,False
+Nusa Tenggara Barat,Kalimantan Timur,3,1.1956714063569808e-05,tanpa_kontrol,574,distribusi,4.880291454518289e-05,True
+Nusa Tenggara Barat,Kalimantan Timur,7,0.00015070387134656058,tanpa_kontrol,574,distribusi,0.0004637042195278787,True
+Nusa Tenggara Barat,Kalimantan Timur,14,0.00010613954941369287,tanpa_kontrol,574,distribusi,0.00033695095051965987,True
+Kalimantan Selatan,Kalimantan Timur,1,9.538747973638754e-08,tanpa_kontrol,574,distribusi,5.961717483524222e-07,True
+Kalimantan Selatan,Kalimantan Timur,3,1.905094256333651e-09,tanpa_kontrol,574,distribusi,1.4654571202566546e-08,True
+Kalimantan Selatan,Kalimantan Timur,7,1.235238965331003e-09,tanpa_kontrol,574,distribusi,9.68814874769414e-09,True
+Kalimantan Selatan,Kalimantan Timur,14,9.995680617075218e-07,tanpa_kontrol,574,distribusi,5.125990060038573e-06,True
+Sulawesi Selatan,Kalimantan Timur,1,0.0004344154677686382,tanpa_kontrol,574,distribusi,0.0011901793637496938,True
+Sulawesi Selatan,Kalimantan Timur,3,0.0021686242456206584,tanpa_kontrol,574,distribusi,0.004792539769327421,True
+Sulawesi Selatan,Kalimantan Timur,7,0.003034046454260377,tanpa_kontrol,574,distribusi,0.006236543213337983,True
+Sulawesi Selatan,Kalimantan Timur,14,0.03635061094110876,tanpa_kontrol,574,distribusi,0.05445784410652998,False
+Jawa Timur,Kalimantan Utara,1,0.13139301723067992,tanpa_kontrol,574,distribusi,0.1642412715383499,False
+Jawa Timur,Kalimantan Utara,3,0.020941950556436825,tanpa_kontrol,574,distribusi,0.03364168764086237,True
+Jawa Timur,Kalimantan Utara,7,0.0032167420775680053,tanpa_kontrol,574,distribusi,0.006512858597456199,True
+Jawa Timur,Kalimantan Utara,14,0.0007329707029442617,tanpa_kontrol,574,distribusi,0.0018915372979206753,True
+Kalimantan Timur,Kalimantan Utara,1,3.754258226683223e-07,tanpa_kontrol,574,distribusi,2.0293287711801204e-06,True
+Kalimantan Timur,Kalimantan Utara,3,1.1608659478784717e-12,tanpa_kontrol,574,distribusi,1.5478212638379623e-11,True
+Kalimantan Timur,Kalimantan Utara,7,1.0720637708459344e-11,tanpa_kontrol,574,distribusi,1.1589878603739831e-10,True
+Kalimantan Timur,Kalimantan Utara,14,3.9576198864063703e-10,tanpa_kontrol,574,distribusi,3.46810694003796e-09,True
+Sulawesi Utara,Kalimantan Utara,1,0.07309449744745992,tanpa_kontrol,574,distribusi,0.09778528086616711,False
+Sulawesi Utara,Kalimantan Utara,3,0.0013590973727467706,tanpa_kontrol,574,distribusi,0.003255323048495259,True
+Sulawesi Utara,Kalimantan Utara,7,3.59080362242811e-08,tanpa_kontrol,574,distribusi,2.3546253261823674e-07,True
+Sulawesi Utara,Kalimantan Utara,14,2.5875502933548296e-09,tanpa_kontrol,574,distribusi,1.8818547588035123e-08,True
+Sulawesi Selatan,Kalimantan Utara,1,0.010884029197237044,tanpa_kontrol,574,distribusi,0.018765567581443182,True
+Sulawesi Selatan,Kalimantan Utara,3,1.3443674348722377e-05,tanpa_kontrol,574,distribusi,5.431787615645405e-05,True
+Sulawesi Selatan,Kalimantan Utara,7,9.303991127056448e-05,tanpa_kontrol,574,distribusi,0.00030256881714004705,True
+Sulawesi Selatan,Kalimantan Utara,14,0.0009340728724141848,tanpa_kontrol,574,distribusi,0.0023498688614193327,True
+Sulawesi Selatan,Sulawesi Utara,1,0.06001354725097978,tanpa_kontrol,574,distribusi,0.08165108469521058,False
+Sulawesi Selatan,Sulawesi Utara,3,0.16725003355883317,tanpa_kontrol,574,distribusi,0.2052147651028628,False
+Sulawesi Selatan,Sulawesi Utara,7,0.048488093131052165,tanpa_kontrol,574,distribusi,0.06853440725237055,False
+Sulawesi Selatan,Sulawesi Utara,14,0.15326027131958964,tanpa_kontrol,574,distribusi,0.1892102115056662,False
+Nusa Tenggara Barat,Sulawesi Tengah,1,0.11426126003512671,tanpa_kontrol,574,distribusi,0.14509366353666883,False
+Nusa Tenggara Barat,Sulawesi Tengah,3,0.0025331660598381244,tanpa_kontrol,574,distribusi,0.005361198010239417,True
+Nusa Tenggara Barat,Sulawesi Tengah,7,0.013483211670555953,tanpa_kontrol,574,distribusi,0.022950147524350557,True
+Nusa Tenggara Barat,Sulawesi Tengah,14,0.005443438082942574,tanpa_kontrol,574,distribusi,0.010222418935103426,True
+Sulawesi Utara,Sulawesi Tengah,1,0.178163435363197,tanpa_kontrol,574,distribusi,0.2159556792281176,False
+Sulawesi Utara,Sulawesi Tengah,3,0.013303878634898918,tanpa_kontrol,574,distribusi,0.02274167288016909,True
+Sulawesi Utara,Sulawesi Tengah,7,0.05000209515887348,tanpa_kontrol,574,distribusi,0.07017837917034875,False
+Sulawesi Utara,Sulawesi Tengah,14,0.005211598126554962,tanpa_kontrol,574,distribusi,0.009833204012367853,True
+Sulawesi Selatan,Sulawesi Tengah,1,0.001615437823694252,tanpa_kontrol,574,distribusi,0.00377880192677018,True
+Sulawesi Selatan,Sulawesi Tengah,3,0.0005730166024238192,tanpa_kontrol,574,distribusi,0.0015280442731301846,True
+Sulawesi Selatan,Sulawesi Tengah,7,0.019177509049003613,tanpa_kontrol,574,distribusi,0.031182941543095307,True
+Sulawesi Selatan,Sulawesi Tengah,14,0.025742159251894076,tanpa_kontrol,574,distribusi,0.0399103244215412,True
+Jawa Timur,Sulawesi Selatan,1,0.010737842894798308,tanpa_kontrol,574,distribusi,0.018664468502948315,True
+Jawa Timur,Sulawesi Selatan,3,0.00019045688995902223,tanpa_kontrol,574,distribusi,0.0005643167109896954,True
+Jawa Timur,Sulawesi Selatan,7,1.4857446547605814e-06,tanpa_kontrol,574,distribusi,7.247534901271129e-06,True
+Jawa Timur,Sulawesi Selatan,14,1.5563557191570222e-06,tanpa_kontrol,574,distribusi,7.50050948991336e-06,True
+Nusa Tenggara Barat,Sulawesi Selatan,1,0.17291330563023682,tanpa_kontrol,574,distribusi,0.2115147469483019,False
+Nusa Tenggara Barat,Sulawesi Selatan,3,0.00728623839024949,tanpa_kontrol,574,distribusi,0.013109264346758926,True
+Nusa Tenggara Barat,Sulawesi Selatan,7,0.023719776227072616,tanpa_kontrol,574,distribusi,0.037353978310350575,True
+Nusa Tenggara Barat,Sulawesi Selatan,14,0.0015003250458979563,tanpa_kontrol,574,distribusi,0.0035510651973916126,True
+Sulawesi Selatan,Sulawesi Tenggara,1,0.007308414873318101,tanpa_kontrol,574,distribusi,0.013109264346758926,True
+Sulawesi Selatan,Sulawesi Tenggara,3,0.0022816424887075045,tanpa_kontrol,574,distribusi,0.004987196696628425,True
+Sulawesi Selatan,Sulawesi Tenggara,7,0.0016505838903988314,tanpa_kontrol,574,distribusi,0.0038163789373383385,True
+Sulawesi Selatan,Sulawesi Tenggara,14,0.00562035286149306,tanpa_kontrol,574,distribusi,0.010505332451388898,True
+Gorontalo,Sulawesi Tenggara,1,0.2503089173762908,tanpa_kontrol,574,distribusi,0.2979868064003462,False
+Gorontalo,Sulawesi Tenggara,3,0.0006840593296295439,tanpa_kontrol,574,distribusi,0.001800156130604063,True
+Gorontalo,Sulawesi Tenggara,7,2.208254789970635e-09,tanpa_kontrol,574,distribusi,1.6463359195740995e-08,True
+Gorontalo,Sulawesi Tenggara,14,5.158267965555829e-08,tanpa_kontrol,574,distribusi,3.3279148164876316e-07,True
+Sulawesi Selatan,Gorontalo,1,0.023198735641488027,tanpa_kontrol,574,distribusi,0.03682338990712385,True
+Sulawesi Selatan,Gorontalo,3,0.0949944278765179,tanpa_kontrol,574,distribusi,0.12197816869574044,False
+Sulawesi Selatan,Gorontalo,7,0.09514297158267754,tanpa_kontrol,574,distribusi,0.12197816869574044,False
+Sulawesi Selatan,Gorontalo,14,0.09322539356526917,tanpa_kontrol,574,distribusi,0.12029083040679893,False
+Sulawesi Selatan,Sulawesi Barat,1,0.004366476264319738,tanpa_kontrol,574,distribusi,0.0083593230205409,True
+Sulawesi Selatan,Sulawesi Barat,3,1.970977771875276e-05,tanpa_kontrol,574,distribusi,7.58068373798183e-05,True
+Sulawesi Selatan,Sulawesi Barat,7,7.733501188042466e-07,tanpa_kontrol,574,distribusi,4.0702637831802455e-06,True
+Sulawesi Selatan,Sulawesi Barat,14,1.4915430103531341e-05,tanpa_kontrol,574,distribusi,5.849188275894643e-05,True
+Jawa Timur,Maluku,1,0.32194967108087325,tanpa_kontrol,574,distribusi,0.370057093196406,False
+Jawa Timur,Maluku,3,0.6978301634382651,tanpa_kontrol,574,distribusi,0.7544109875008271,False
+Jawa Timur,Maluku,7,0.0010289428894709766,tanpa_kontrol,574,distribusi,0.002521984596922015,True
+Jawa Timur,Maluku,14,0.0009794438253999233,tanpa_kontrol,574,distribusi,0.0024183798158022795,True
+Sulawesi Utara,Maluku,1,0.9156534586098726,tanpa_kontrol,574,distribusi,0.9440129016228359,False
+Sulawesi Utara,Maluku,3,0.7777600902102302,tanpa_kontrol,574,distribusi,0.8252096447853902,False
+Sulawesi Utara,Maluku,7,0.00022756964111331126,tanpa_kontrol,574,distribusi,0.0006548766650742771,True
+Sulawesi Utara,Maluku,14,1.514185619256757e-05,tanpa_kontrol,574,distribusi,5.8803325019679884e-05,True
+Sulawesi Selatan,Maluku,1,0.09271508565210415,tanpa_kontrol,574,distribusi,0.12021000678771125,False
+Sulawesi Selatan,Maluku,3,0.03251938310388031,tanpa_kontrol,574,distribusi,0.04945913780057842,True
+Sulawesi Selatan,Maluku,7,0.0009764858529714632,tanpa_kontrol,574,distribusi,0.0024183798158022795,True
+Sulawesi Selatan,Maluku,14,0.004335291241834295,tanpa_kontrol,574,distribusi,0.0083593230205409,True
+Sulawesi Utara,Maluku Utara,1,1.024972364979982e-07,tanpa_kontrol,574,distribusi,6.307522246030658e-07,True
+Sulawesi Utara,Maluku Utara,3,7.266621310876006e-10,tanpa_kontrol,574,distribusi,5.931935763980413e-09,True
+Sulawesi Utara,Maluku Utara,7,1.7888073216939511e-12,tanpa_kontrol,574,distribusi,2.265696418540647e-11,True
+Sulawesi Utara,Maluku Utara,14,5.500562921564043e-12,tanpa_kontrol,574,distribusi,6.111736579515603e-11,True
+Jawa Timur,Papua Barat,1,0.09660824686736558,tanpa_kontrol,574,distribusi,0.12346101836085058,False
+Jawa Timur,Papua Barat,3,0.21471180512292792,tanpa_kontrol,574,distribusi,0.2586889218348529,False
+Jawa Timur,Papua Barat,7,0.0002998035362925456,tanpa_kontrol,574,distribusi,0.0008445170036409735,True
+Jawa Timur,Papua Barat,14,0.0006896639365856099,tanpa_kontrol,574,distribusi,0.0018030429714656468,True
+Sulawesi Selatan,Papua Barat,1,0.021610857644751846,tanpa_kontrol,574,distribusi,0.034577372231602954,True
+Sulawesi Selatan,Papua Barat,3,0.041397139444097994,tanpa_kontrol,574,distribusi,0.06043378021036203,False
+Sulawesi Selatan,Papua Barat,7,6.258750102123746e-06,tanpa_kontrol,574,distribusi,2.7211956965755415e-05,True
+Sulawesi Selatan,Papua Barat,14,0.0007392526338062179,tanpa_kontrol,574,distribusi,0.0018955195738620972,True
+Jawa Timur,Papua,1,0.8690271928737004,tanpa_kontrol,574,distribusi,0.9072993343863526,False
+Jawa Timur,Papua,3,0.4763476470711736,tanpa_kontrol,574,distribusi,0.5352220753608692,False
+Jawa Timur,Papua,7,3.1099077847955155e-05,tanpa_kontrol,574,distribusi,0.0001141250563227712,True
+Jawa Timur,Papua,14,4.4689313360870305e-05,tanpa_kontrol,574,distribusi,0.00015819225968449668,True
+Jawa Tengah,Papua,1,0.12314432991667221,tanpa_kontrol,574,distribusi,0.15489852819707195,False
+Jawa Tengah,Papua,3,0.33697146702767905,tanpa_kontrol,574,distribusi,0.38621371579103614,False
+Jawa Tengah,Papua,7,8.369638785907548e-05,tanpa_kontrol,574,distribusi,0.0002766822739142991,True
+Jawa Tengah,Papua,14,0.00040796645225227974,tanpa_kontrol,574,distribusi,0.001125424695868358,True
+Nusa Tenggara Barat,Papua,1,0.6136407956852825,tanpa_kontrol,574,distribusi,0.6688183059240137,False
+Nusa Tenggara Barat,Papua,3,0.07192915168718948,tanpa_kontrol,574,distribusi,0.09654919689555636,False
+Nusa Tenggara Barat,Papua,7,0.053151444703853516,tanpa_kontrol,574,distribusi,0.07356601343093912,False
+Nusa Tenggara Barat,Papua,14,0.03996730646003086,tanpa_kontrol,574,distribusi,0.05868228335822096,False
+Sulawesi Selatan,Papua,1,0.22375436510962057,tanpa_kontrol,574,distribusi,0.2679692995324797,False
+Sulawesi Selatan,Papua,3,0.31633250270576396,tanpa_kontrol,574,distribusi,0.36570231526677915,False
+Sulawesi Selatan,Papua,7,0.003954179655074972,tanpa_kontrol,574,distribusi,0.007830058722920736,True
+Sulawesi Selatan,Papua,14,0.002271765141799623,tanpa_kontrol,574,distribusi,0.004987196696628425,True
+Sumatera Utara,Aceh,1,0.5365332204684617,dengan_kontrol,574,distribusi,0.5863751043371166,False
+Sumatera Utara,Aceh,3,0.5729830417018043,dengan_kontrol,574,distribusi,0.6194411261641126,False
+Sumatera Utara,Aceh,7,0.39988359540513113,dengan_kontrol,574,distribusi,0.4663365544083162,False
+Sumatera Utara,Aceh,14,0.785491199406314,dengan_kontrol,574,distribusi,0.8056319993910912,False
+Sumatera Barat,Sumatera Utara,1,4.175911689780887e-05,dengan_kontrol,574,distribusi,0.0001478198828241022,True
+Sumatera Barat,Sumatera Utara,3,4.353496639836009e-05,dengan_kontrol,574,distribusi,0.0001501205737874486,True
+Sumatera Barat,Sumatera Utara,7,1.95706278114466e-06,dengan_kontrol,574,distribusi,9.50425547364168e-06,True
+Sumatera Barat,Sumatera Utara,14,2.9406658195398843e-06,dengan_kontrol,574,distribusi,1.3677515439720392e-05,True
+Riau,Sumatera Utara,1,4.752393264930341e-08,dengan_kontrol,574,distribusi,3.520291307355808e-07,True
+Riau,Sumatera Utara,3,0.00011634605558661138,dengan_kontrol,574,distribusi,0.00037230737787715643,True
+Riau,Sumatera Utara,7,9.513626390313127e-07,dengan_kontrol,574,distribusi,5.1425007515206095e-06,True
+Riau,Sumatera Utara,14,8.66611532791394e-06,dengan_kontrol,574,distribusi,3.6488906643848167e-05,True
+Jawa Barat,Sumatera Utara,1,0.1558508115740997,dengan_kontrol,574,distribusi,0.20439450698242584,False
+Jawa Barat,Sumatera Utara,3,0.09893536536856506,dengan_kontrol,574,distribusi,0.13693476175579938,False
+Jawa Barat,Sumatera Utara,7,0.033431068575758144,dengan_kontrol,574,distribusi,0.053921078347997003,False
+Jawa Barat,Sumatera Utara,14,0.19427550398823137,dengan_kontrol,574,distribusi,0.24669905268346842,False
+Jawa Timur,Sumatera Utara,1,0.002159888528905065,dengan_kontrol,574,distribusi,0.00493688806606872,True
+Jawa Timur,Sumatera Utara,3,0.035394862083148175,dengan_kontrol,574,distribusi,0.05631018513694479,False
+Jawa Timur,Sumatera Utara,7,0.04405571413078208,dengan_kontrol,574,distribusi,0.06751833583261622,False
+Jawa Timur,Sumatera Utara,14,0.23814362966325373,dengan_kontrol,574,distribusi,0.29583059585497357,False
+Sumatera Utara,Sumatera Barat,1,8.077838172824362e-06,dengan_kontrol,574,distribusi,3.4743389990642416e-05,True
+Sumatera Utara,Sumatera Barat,3,0.0004717961524273798,dengan_kontrol,574,distribusi,0.0012581230731396795,True
+Sumatera Utara,Sumatera Barat,7,0.0061516692225977625,dengan_kontrol,574,distribusi,0.01242761459110659,True
+Sumatera Utara,Sumatera Barat,14,0.06386542319083202,dengan_kontrol,574,distribusi,0.09496717203097699,False
+Jambi,Sumatera Barat,1,5.348650041599524e-07,dengan_kontrol,574,distribusi,3.0563714523425853e-06,True
+Jambi,Sumatera Barat,3,2.7692501552508856e-09,dengan_kontrol,574,distribusi,2.915000163421985e-08,True
+Jambi,Sumatera Barat,7,9.683619395079375e-08,dengan_kontrol,574,distribusi,6.565165691579237e-07,True
+Jambi,Sumatera Barat,14,2.4088142040438564e-07,dengan_kontrol,574,distribusi,1.4380980322649889e-06,True
+Jawa Barat,Sumatera Barat,1,0.16461827122853806,dengan_kontrol,574,distribusi,0.21451079581631022,False
+Jawa Barat,Sumatera Barat,3,0.0005282800946442966,dengan_kontrol,574,distribusi,0.001372156089985186,True
+Jawa Barat,Sumatera Barat,7,0.006048349676216548,dengan_kontrol,574,distribusi,0.012280913048155427,True
+Jawa Barat,Sumatera Barat,14,0.007476408841684232,dengan_kontrol,574,distribusi,0.014588114813042405,True
+Jawa Tengah,Sumatera Barat,1,0.0004312871527582601,dengan_kontrol,574,distribusi,0.001173570483695946,True
+Jawa Tengah,Sumatera Barat,3,0.008199219080141899,dengan_kontrol,574,distribusi,0.015767729000272884,True
+Jawa Tengah,Sumatera Barat,7,0.005743347977928469,dengan_kontrol,574,distribusi,0.011721118322303,True
+Jawa Tengah,Sumatera Barat,14,0.03480075009618804,dengan_kontrol,574,distribusi,0.055681200153900864,False
+Sumatera Utara,Riau,1,1.4268419347454168e-05,dengan_kontrol,574,distribusi,5.4878535951746795e-05,True
+Sumatera Utara,Riau,3,4.747340375363552e-08,dengan_kontrol,574,distribusi,3.520291307355808e-07,True
+Sumatera Utara,Riau,7,7.32927585835213e-07,dengan_kontrol,574,distribusi,4.071819921306739e-06,True
+Sumatera Utara,Riau,14,1.6614279481962252e-05,dengan_kontrol,574,distribusi,6.269539427155567e-05,True
+Sumatera Barat,Riau,1,0.0035277397480664953,dengan_kontrol,574,distribusi,0.007627545401224854,True
+Sumatera Barat,Riau,3,0.009095127371797681,dengan_kontrol,574,distribusi,0.017160617682637134,True
+Sumatera Barat,Riau,7,0.0001724923873809605,dengan_kontrol,574,distribusi,0.0005307458073260323,True
+Sumatera Barat,Riau,14,5.955237601723639e-05,dengan_kontrol,574,distribusi,0.00020017605383945006,True
+Jawa Tengah,Riau,1,0.07196817950562058,dengan_kontrol,574,distribusi,0.10515625718106156,False
+Jawa Tengah,Riau,3,0.25001513108535545,dengan_kontrol,574,distribusi,0.3067670320065711,False
+Jawa Tengah,Riau,7,0.31464286157170157,dengan_kontrol,574,distribusi,0.380233065343446,False
+Jawa Tengah,Riau,14,0.3609039864247315,dengan_kontrol,574,distribusi,0.42837268418365754,False
+Jawa Timur,Riau,1,0.5054530807407195,dengan_kontrol,574,distribusi,0.561614534156355,False
+Jawa Timur,Riau,3,0.1768218961944517,dengan_kontrol,574,distribusi,0.22597047436990636,False
+Jawa Timur,Riau,7,0.5568956160659118,dengan_kontrol,574,distribusi,0.6053213218107736,False
+Jawa Timur,Riau,14,0.4652690447817789,dengan_kontrol,574,distribusi,0.5272170479113643,False
+Sumatera Barat,Jambi,1,0.02556349679186882,dengan_kontrol,574,distribusi,0.042672638646175945,True
+Sumatera Barat,Jambi,3,0.4845385724101309,dengan_kontrol,574,distribusi,0.544425362258574,False
+Sumatera Barat,Jambi,7,0.650116981954836,dengan_kontrol,574,distribusi,0.6879544782590857,False
+Sumatera Barat,Jambi,14,0.45050279288618567,dengan_kontrol,574,distribusi,0.5148603347270694,False
+Jawa Tengah,Jambi,1,0.0010378388471260543,dengan_kontrol,574,distribusi,0.0025784816077665945,True
+Jawa Tengah,Jambi,3,0.0003224533756333939,dengan_kontrol,574,distribusi,0.0009147613493145927,True
+Jawa Tengah,Jambi,7,2.6236411849543906e-06,dengan_kontrol,574,distribusi,1.2346546752726544e-05,True
+Jawa Tengah,Jambi,14,1.2753143348053249e-05,dengan_kontrol,574,distribusi,5.050749840813168e-05,True
+Sumatera Barat,Sumatera Selatan,1,0.0007082538182076429,dengan_kontrol,574,distribusi,0.001793047641032007,True
+Sumatera Barat,Sumatera Selatan,3,0.0004078424956554419,dengan_kontrol,574,distribusi,0.0011250827466357017,True
+Sumatera Barat,Sumatera Selatan,7,0.005167793216072338,dengan_kontrol,574,distribusi,0.01071045226128982,True
+Sumatera Barat,Sumatera Selatan,14,0.0022214864684940174,dengan_kontrol,574,distribusi,0.005048832882940948,True
+Lampung,Sumatera Selatan,1,0.007559082376371704,dengan_kontrol,574,distribusi,0.014677829857032434,True
+Lampung,Sumatera Selatan,3,0.027831499903653814,dengan_kontrol,574,distribusi,0.04619336083593994,True
+Lampung,Sumatera Selatan,7,0.08918980504108673,dengan_kontrol,574,distribusi,0.12741400720155246,False
+Lampung,Sumatera Selatan,14,0.0018549561951730087,dengan_kontrol,574,distribusi,0.004301244695004541,True
+Jawa Tengah,Sumatera Selatan,1,0.00046917951873788236,dengan_kontrol,574,distribusi,0.0012581230731396795,True
+Jawa Tengah,Sumatera Selatan,3,8.814198042804717e-05,dengan_kontrol,574,distribusi,0.0002889900997640891,True
+Jawa Tengah,Sumatera Selatan,7,0.00027482520609652757,dengan_kontrol,574,distribusi,0.0008024093608657738,True
+Jawa Tengah,Sumatera Selatan,14,0.0011810466125272599,dengan_kontrol,574,distribusi,0.0028806014939689265,True
+DI Yogyakarta,Sumatera Selatan,1,0.2433334453444743,dengan_kontrol,574,distribusi,0.29948731734704526,False
+DI Yogyakarta,Sumatera Selatan,3,0.09081796503873184,dengan_kontrol,574,distribusi,0.12927824204801686,False
+DI Yogyakarta,Sumatera Selatan,7,0.5143534503188876,dengan_kontrol,574,distribusi,0.5667806615084161,False
+DI Yogyakarta,Sumatera Selatan,14,0.6219549940669081,dengan_kontrol,574,distribusi,0.6651925070234311,False
+Jawa Timur,Sumatera Selatan,1,0.0002953580311770202,dengan_kontrol,574,distribusi,0.0008438800890772006,True
+Jawa Timur,Sumatera Selatan,3,0.00029234536730931627,dengan_kontrol,574,distribusi,0.0008412816325447951,True
+Jawa Timur,Sumatera Selatan,7,0.0024964302019465042,dengan_kontrol,574,distribusi,0.005641650173890405,True
+Jawa Timur,Sumatera Selatan,14,0.0002676787236037283,dengan_kontrol,574,distribusi,0.0007931221440110467,True
+DKI Jakarta,Lampung,1,0.02106045113935892,dengan_kontrol,574,distribusi,0.03615528092593806,True
+DKI Jakarta,Lampung,3,0.14984043746348966,dengan_kontrol,574,distribusi,0.198464155580781,False
+DKI Jakarta,Lampung,7,0.43704497827465005,dengan_kontrol,574,distribusi,0.5018260509287578,False
+DKI Jakarta,Lampung,14,0.7403228864678266,dengan_kontrol,574,distribusi,0.7651916139202343,False
+Jawa Barat,Lampung,1,5.77662924855483e-09,dengan_kontrol,574,distribusi,5.776629248554829e-08,True
+Jawa Barat,Lampung,3,1.5928719577827152e-08,dengan_kontrol,574,distribusi,1.4158861846957469e-07,True
+Jawa Barat,Lampung,7,4.979705413701358e-07,dengan_kontrol,574,distribusi,2.8867857470732515e-06,True
+Jawa Barat,Lampung,14,1.0166665379692797e-06,dengan_kontrol,574,distribusi,5.422221535836158e-06,True
+Jawa Tengah,Lampung,1,1.4871127730187326e-10,dengan_kontrol,574,distribusi,2.379380436829972e-09,True
+Jawa Tengah,Lampung,3,1.0784562182304707e-08,dengan_kontrol,574,distribusi,9.804147438458825e-08,True
+Jawa Tengah,Lampung,7,7.407382118904013e-08,dengan_kontrol,574,distribusi,5.29098722778858e-07,True
+Jawa Tengah,Lampung,14,8.206317719680934e-09,dengan_kontrol,574,distribusi,7.815540685410414e-08,True
+Jawa Timur,Lampung,1,1.0522166785081573e-05,dengan_kontrol,574,distribusi,4.3390378495181746e-05,True
+Jawa Timur,Lampung,3,8.596932448091593e-06,dengan_kontrol,574,distribusi,3.6488906643848167e-05,True
+Jawa Timur,Lampung,7,1.269548293153762e-05,dengan_kontrol,574,distribusi,5.050749840813168e-05,True
+Jawa Timur,Lampung,14,1.3202600634737364e-05,dengan_kontrol,574,distribusi,5.1723473955907865e-05,True
+DKI Jakarta,Kepulauan Bangka Belitung,1,5.140362592472473e-08,dengan_kontrol,574,distribusi,3.738445521798162e-07,True
+DKI Jakarta,Kepulauan Bangka Belitung,3,7.966110130977915e-11,dengan_kontrol,574,distribusi,1.3854104575613765e-09,True
+DKI Jakarta,Kepulauan Bangka Belitung,7,7.228413121659154e-13,dengan_kontrol,574,distribusi,1.9559303353699047e-11,True
+DKI Jakarta,Kepulauan Bangka Belitung,14,1.6919050685788852e-11,dengan_kontrol,574,distribusi,3.222676321102639e-10,True
+Jawa Barat,Kepulauan Bangka Belitung,1,1.968471422205695e-05,dengan_kontrol,574,distribusi,7.358771671796991e-05,True
+Jawa Barat,Kepulauan Bangka Belitung,3,1.2437368628911331e-33,dengan_kontrol,574,distribusi,1.6583158171881775e-31,True
+Jawa Barat,Kepulauan Bangka Belitung,7,8.325459728761268e-34,dengan_kontrol,574,distribusi,1.6583158171881775e-31,True
+Jawa Barat,Kepulauan Bangka Belitung,14,1.5853376397142556e-37,dengan_kontrol,574,distribusi,6.341350558857023e-35,True
+Jawa Tengah,Kepulauan Bangka Belitung,1,3.0689160978841188e-16,dengan_kontrol,574,distribusi,1.3639627101707194e-14,True
+Jawa Tengah,Kepulauan Bangka Belitung,3,3.524606479965953e-20,dengan_kontrol,574,distribusi,2.3497376533106354e-18,True
+Jawa Tengah,Kepulauan Bangka Belitung,7,2.1836627127216957e-23,dengan_kontrol,574,distribusi,1.7469301701773564e-21,True
+Jawa Tengah,Kepulauan Bangka Belitung,14,1.6304920661900004e-31,dengan_kontrol,574,distribusi,1.6304920661900003e-29,True
+Jawa Timur,Kepulauan Bangka Belitung,1,1.4007996527775303e-09,dengan_kontrol,574,distribusi,1.697938973063673e-08,True
+Jawa Timur,Kepulauan Bangka Belitung,3,1.4550345729349101e-15,dengan_kontrol,574,distribusi,4.8501152431163675e-14,True
+Jawa Timur,Kepulauan Bangka Belitung,7,6.699154270205447e-18,dengan_kontrol,574,distribusi,3.3495771351027236e-16,True
+Jawa Timur,Kepulauan Bangka Belitung,14,7.222550314654822e-19,dengan_kontrol,574,distribusi,4.127171608374184e-17,True
+Sumatera Utara,Kepulauan Riau,1,0.06359963935908994,dengan_kontrol,574,distribusi,0.09492483486431333,False
+Sumatera Utara,Kepulauan Riau,3,0.1646370357890181,dengan_kontrol,574,distribusi,0.21451079581631022,False
+Sumatera Utara,Kepulauan Riau,7,0.49766340213230287,dengan_kontrol,574,distribusi,0.5544996124036801,False
+Sumatera Utara,Kepulauan Riau,14,0.7174923958472668,dengan_kontrol,574,distribusi,0.7435154361111573,False
+Jawa Tengah,Kepulauan Riau,1,0.9491292403840601,dengan_kontrol,574,distribusi,0.9491292403840601,False
+Jawa Tengah,Kepulauan Riau,3,0.8926935715008243,dengan_kontrol,574,distribusi,0.8994393667514602,False
+Jawa Tengah,Kepulauan Riau,7,0.6925989746623409,dengan_kontrol,574,distribusi,0.7233409657047947,False
+Jawa Tengah,Kepulauan Riau,14,0.6552774092571851,dengan_kontrol,574,distribusi,0.6897656939549318,False
+Jawa Barat,DKI Jakarta,1,3.301688488544464e-10,dengan_kontrol,574,distribusi,4.716697840777805e-09,True
+Jawa Barat,DKI Jakarta,3,1.823474943142401e-09,dengan_kontrol,574,distribusi,1.9713242628566498e-08,True
+Jawa Barat,DKI Jakarta,7,5.429668983757112e-10,dengan_kontrol,574,distribusi,7.0060244951704675e-09,True
+Jawa Barat,DKI Jakarta,14,3.923991926147246e-10,dengan_kontrol,574,distribusi,5.412402656754822e-09,True
+Jawa Tengah,DKI Jakarta,1,0.010787673953511835,dengan_kontrol,574,distribusi,0.01992052858851068,True
+Jawa Tengah,DKI Jakarta,3,7.418889141677446e-06,dengan_kontrol,574,distribusi,3.225603974642367e-05,True
+Jawa Tengah,DKI Jakarta,7,0.00011289080809936963,dengan_kontrol,574,distribusi,0.00036416389709474075,True
+Jawa Tengah,DKI Jakarta,14,6.329406203690976e-05,dengan_kontrol,574,distribusi,0.0002109802067896992,True
+DI Yogyakarta,DKI Jakarta,1,0.654437920707001,dengan_kontrol,574,distribusi,0.6897656939549318,False
+DI Yogyakarta,DKI Jakarta,3,0.0027291611523663256,dengan_kontrol,574,distribusi,0.006132946409811968,True
+DI Yogyakarta,DKI Jakarta,7,0.011686976033324754,dengan_kontrol,574,distribusi,0.021443992721696795,True
+DI Yogyakarta,DKI Jakarta,14,0.0037271381493301785,dengan_kontrol,574,distribusi,0.007972488019957601,True
+Jawa Timur,DKI Jakarta,1,0.08406935461820185,dengan_kontrol,574,distribusi,0.12146083273819049,False
+Jawa Timur,DKI Jakarta,3,0.005125073243934742,dengan_kontrol,574,distribusi,0.010677235924864047,True
+Jawa Timur,DKI Jakarta,7,0.016117910910239217,dengan_kontrol,574,distribusi,0.028654063840425275,True
+Jawa Timur,DKI Jakarta,14,0.11234504448511737,dengan_kontrol,574,distribusi,0.15285040066002364,False
+Banten,DKI Jakarta,1,0.5927903666706043,dengan_kontrol,574,distribusi,0.6391270799683064,False
+Banten,DKI Jakarta,3,0.6497986221411848,dengan_kontrol,574,distribusi,0.6879544782590857,False
+Banten,DKI Jakarta,7,0.3160804460868039,dengan_kontrol,574,distribusi,0.38081981456241437,False
+Banten,DKI Jakarta,14,0.6963312642963119,dengan_kontrol,574,distribusi,0.7253450669753249,False
+Jawa Tengah,Jawa Barat,1,1.5538936718870893e-07,dengan_kontrol,574,distribusi,9.711835449294308e-07,True
+Jawa Tengah,Jawa Barat,3,2.010952442695828e-10,dengan_kontrol,574,distribusi,3.093772988762812e-09,True
+Jawa Tengah,Jawa Barat,7,8.160654959512284e-12,dengan_kontrol,574,distribusi,1.7180326230552177e-10,True
+Jawa Tengah,Jawa Barat,14,4.465528117945926e-11,dengan_kontrol,574,distribusi,8.119142032628955e-10,True
+DI Yogyakarta,Jawa Barat,1,0.15041948195706537,dengan_kontrol,574,distribusi,0.19857357354068036,False
+DI Yogyakarta,Jawa Barat,3,0.1263277514832926,dengan_kontrol,574,distribusi,0.1695674516554263,False
+DI Yogyakarta,Jawa Barat,7,0.42370682219753275,dengan_kontrol,574,distribusi,0.4884228497954268,False
+DI Yogyakarta,Jawa Barat,14,0.13341458758377164,dengan_kontrol,574,distribusi,0.1778861167783622,False
+Jawa Barat,Jawa Tengah,1,7.690689305955376e-16,dengan_kontrol,574,distribusi,3.07627572238215e-14,True
+Jawa Barat,Jawa Tengah,3,2.1725154867631496e-12,dengan_kontrol,574,distribusi,5.1118011453250575e-11,True
+Jawa Barat,Jawa Tengah,7,1.5876515298614357e-12,dengan_kontrol,574,distribusi,3.969128824653589e-11,True
+Jawa Barat,Jawa Tengah,14,1.2111161111751418e-15,dengan_kontrol,574,distribusi,4.4040585860914245e-14,True
+DI Yogyakarta,Jawa Tengah,1,0.43784322943534115,dengan_kontrol,574,distribusi,0.5018260509287578,False
+DI Yogyakarta,Jawa Tengah,3,0.12432183529124645,dengan_kontrol,574,distribusi,0.1674368152070659,False
+DI Yogyakarta,Jawa Tengah,7,0.016549159990631418,dengan_kontrol,574,distribusi,0.029290548655984815,True
+DI Yogyakarta,Jawa Tengah,14,0.07088210113285569,dengan_kontrol,574,distribusi,0.10423838401890542,False
+Jawa Timur,Jawa Tengah,1,2.078285754103703e-08,dengan_kontrol,574,distribusi,1.7687538332797474e-07,True
+Jawa Timur,Jawa Tengah,3,1.0944848422588295e-07,dengan_kontrol,574,distribusi,7.161731554922109e-07,True
+Jawa Timur,Jawa Tengah,7,1.2948693920226814e-06,dengan_kontrol,574,distribusi,6.556300719102184e-06,True
+Jawa Timur,Jawa Tengah,14,9.385225787515188e-08,dengan_kontrol,574,distribusi,6.472569508631164e-07,True
+Nusa Tenggara Barat,Jawa Tengah,1,0.013102200321214891,dengan_kontrol,574,distribusi,0.023564663055480377,True
+Nusa Tenggara Barat,Jawa Tengah,3,0.05991709013973408,dengan_kontrol,574,distribusi,0.09060867595409874,False
+Nusa Tenggara Barat,Jawa Tengah,7,0.04653640427011062,dengan_kontrol,574,distribusi,0.07104794545055056,False
+Nusa Tenggara Barat,Jawa Tengah,14,0.2418772251026262,dengan_kontrol,574,distribusi,0.2988909605890832,False
+Jawa Tengah,DI Yogyakarta,1,9.21440173159052e-12,dengan_kontrol,574,distribusi,1.8428803463181038e-10,True
+Jawa Tengah,DI Yogyakarta,3,6.885831764601963e-12,dengan_kontrol,574,distribusi,1.530184836578214e-10,True
+Jawa Tengah,DI Yogyakarta,7,1.0439991874023423e-09,dengan_kontrol,574,distribusi,1.3049989842529279e-08,True
+Jawa Tengah,DI Yogyakarta,14,9.556978909062879e-11,dengan_kontrol,574,distribusi,1.5928298181771466e-09,True
+Jawa Timur,DI Yogyakarta,1,1.5780617666205063e-09,dengan_kontrol,574,distribusi,1.8166466340170382e-08,True
+Jawa Timur,DI Yogyakarta,3,4.0046117293442753e-08,dengan_kontrol,574,distribusi,3.1408719445837454e-07,True
+Jawa Timur,DI Yogyakarta,7,1.110068391012927e-07,dengan_kontrol,574,distribusi,7.161731554922109e-07,True
+Jawa Timur,DI Yogyakarta,14,3.205688441813197e-08,dengan_kontrol,574,distribusi,2.5645507534505574e-07,True
+Nusa Tenggara Barat,DI Yogyakarta,1,0.42068180081101914,dengan_kontrol,574,distribusi,0.4879439786964089,False
+Nusa Tenggara Barat,DI Yogyakarta,3,0.17272108434466243,dengan_kontrol,574,distribusi,0.22286591528343538,False
+Nusa Tenggara Barat,DI Yogyakarta,7,0.04182342192463795,dengan_kontrol,574,distribusi,0.06484251461184178,False
+Nusa Tenggara Barat,DI Yogyakarta,14,0.025603583187705566,dengan_kontrol,574,distribusi,0.042672638646175945,True
+Sulawesi Selatan,DI Yogyakarta,1,0.031944510158810606,dengan_kontrol,574,distribusi,0.05194229294115546,False
+Sulawesi Selatan,DI Yogyakarta,3,0.06274629359599393,dengan_kontrol,574,distribusi,0.09400193797152649,False
+Sulawesi Selatan,DI Yogyakarta,7,0.10763248853135596,dengan_kontrol,574,distribusi,0.14744176511144652,False
+Sulawesi Selatan,DI Yogyakarta,14,0.1296185326873474,dengan_kontrol,574,distribusi,0.1734027193141771,False
+Jawa Tengah,Jawa Timur,1,1.154654959228458e-06,dengan_kontrol,574,distribusi,5.921307483222862e-06,True
+Jawa Tengah,Jawa Timur,3,2.4532765205163404e-10,dengan_kontrol,574,distribusi,3.634483734098282e-09,True
+Jawa Tengah,Jawa Timur,7,4.6448655244100994e-10,dengan_kontrol,574,distribusi,6.193154032546799e-09,True
+Jawa Tengah,Jawa Timur,14,1.685007537058545e-09,dengan_kontrol,574,distribusi,1.872230596731717e-08,True
+DI Yogyakarta,Jawa Timur,1,0.20216117126824742,dengan_kontrol,574,distribusi,0.2545857053113234,False
+DI Yogyakarta,Jawa Timur,3,0.007302409234521405,dengan_kontrol,574,distribusi,0.014318449479453736,True
+DI Yogyakarta,Jawa Timur,7,0.1976273196517561,dengan_kontrol,574,distribusi,0.2501611641161469,False
+DI Yogyakarta,Jawa Timur,14,0.0569493752699869,dengan_kontrol,574,distribusi,0.08661501942203331,False
+Bali,Jawa Timur,1,0.010806886759267043,dengan_kontrol,574,distribusi,0.01992052858851068,True
+Bali,Jawa Timur,3,0.08411162667119691,dengan_kontrol,574,distribusi,0.12146083273819049,False
+Bali,Jawa Timur,7,0.07203203616902717,dengan_kontrol,574,distribusi,0.10515625718106156,False
+Bali,Jawa Timur,14,0.2792796826767549,dengan_kontrol,574,distribusi,0.34008997328776175,False
+Nusa Tenggara Barat,Jawa Timur,1,0.01313729965343031,dengan_kontrol,574,distribusi,0.023564663055480377,True
+Nusa Tenggara Barat,Jawa Timur,3,0.0012770786991955865,dengan_kontrol,574,distribusi,0.003077298070350811,True
+Nusa Tenggara Barat,Jawa Timur,7,0.006559995101467401,dengan_kontrol,574,distribusi,0.013054716619835626,True
+Nusa Tenggara Barat,Jawa Timur,14,0.010118438178798012,dengan_kontrol,574,distribusi,0.019001761838118334,True
+Sulawesi Selatan,Jawa Timur,1,0.06721920357122965,dengan_kontrol,574,distribusi,0.09958400529071058,False
+Sulawesi Selatan,Jawa Timur,3,0.0031081953819433613,dengan_kontrol,574,distribusi,0.006756946482485568,True
+Sulawesi Selatan,Jawa Timur,7,0.042393239845126426,dengan_kontrol,574,distribusi,0.06522036899250219,False
+Sulawesi Selatan,Jawa Timur,14,0.10535097683646877,dengan_kontrol,574,distribusi,0.14481233929411513,False
+Maluku Utara,Jawa Timur,1,0.6845910739080121,dengan_kontrol,574,distribusi,0.7168492920502745,False
+Maluku Utara,Jawa Timur,3,0.7745980527543923,dengan_kontrol,574,distribusi,0.7965018537320229,False
+Maluku Utara,Jawa Timur,7,0.45265996124332186,dengan_kontrol,574,distribusi,0.5158518076846973,False
+Maluku Utara,Jawa Timur,14,0.001541289750942822,dengan_kontrol,574,distribusi,0.0036480230791546085,True
+DKI Jakarta,Banten,1,0.6176310590967947,dengan_kontrol,574,distribusi,0.6623389373692169,False
+DKI Jakarta,Banten,3,0.6580035512901707,dengan_kontrol,574,distribusi,0.6908173766825939,False
+DKI Jakarta,Banten,7,0.8648985302207507,dengan_kontrol,574,distribusi,0.8736348790108593,False
+DKI Jakarta,Banten,14,0.3605751567135749,dengan_kontrol,574,distribusi,0.42837268418365754,False
+Jawa Barat,Banten,1,0.0926760428132808,dengan_kontrol,574,distribusi,0.13145537987699404,False
+Jawa Barat,Banten,3,0.12186430702851145,dengan_kontrol,574,distribusi,0.16468149598447493,False
+Jawa Barat,Banten,7,0.23526195125867685,dengan_kontrol,574,distribusi,0.2931613099796596,False
+Jawa Barat,Banten,14,0.4939406282589933,dengan_kontrol,574,distribusi,0.5518889701217803,False
+Jawa Tengah,Banten,1,0.32975976110924476,dengan_kontrol,574,distribusi,0.39610782115224596,False
+Jawa Tengah,Banten,3,0.36513253357949604,dengan_kontrol,574,distribusi,0.43083484788141124,False
+Jawa Tengah,Banten,7,0.27972400302918404,dengan_kontrol,574,distribusi,0.34008997328776175,False
+Jawa Tengah,Banten,14,0.5207565406513992,dengan_kontrol,574,distribusi,0.5706920993439991,False
+Jawa Timur,Bali,1,0.00033919857647669995,dengan_kontrol,574,distribusi,0.000953807865018989,True
+Jawa Timur,Bali,3,0.005428320923529269,dengan_kontrol,574,distribusi,0.011135017279034399,True
+Jawa Timur,Bali,7,0.01991512005232723,dengan_kontrol,574,distribusi,0.0344850563676662,True
+Jawa Timur,Bali,14,0.07527204742940051,dengan_kontrol,574,distribusi,0.10948661444276438,False
+Nusa Tenggara Barat,Bali,1,0.09524781999072339,dengan_kontrol,574,distribusi,0.13366088635943404,False
+Nusa Tenggara Barat,Bali,3,0.17579178655730193,dengan_kontrol,574,distribusi,0.22537408532987427,False
+Nusa Tenggara Barat,Bali,7,0.4716358564552998,dengan_kontrol,574,distribusi,0.5314206833299153,False
+Nusa Tenggara Barat,Bali,14,0.801198229337554,dengan_kontrol,574,distribusi,0.8154689357125231,False
+Jawa Tengah,Nusa Tenggara Barat,1,4.969689411954281e-05,dengan_kontrol,574,distribusi,0.00016889518593687317,True
+Jawa Tengah,Nusa Tenggara Barat,3,9.16125819785232e-05,dengan_kontrol,574,distribusi,0.0002979270958651161,True
+Jawa Tengah,Nusa Tenggara Barat,7,0.00016139150558337282,dengan_kontrol,574,distribusi,0.0005004387770027064,True
+Jawa Tengah,Nusa Tenggara Barat,14,0.0002729954170366092,dengan_kontrol,574,distribusi,0.0008024093608657738,True
+Jawa Tengah,Nusa Tenggara Timur,1,0.13408330602904497,dengan_kontrol,574,distribusi,0.1781837953874352,False
+Jawa Tengah,Nusa Tenggara Timur,3,0.4208516816256527,dengan_kontrol,574,distribusi,0.4879439786964089,False
+Jawa Tengah,Nusa Tenggara Timur,7,0.902562864506905,dengan_kontrol,574,distribusi,0.9066546833670497,False
+Jawa Tengah,Nusa Tenggara Timur,14,0.03633498722856318,dengan_kontrol,574,distribusi,0.05736320286754673,False
+Nusa Tenggara Barat,Nusa Tenggara Timur,1,0.6365580884434827,dengan_kontrol,574,distribusi,0.6771894557909391,False
+Nusa Tenggara Barat,Nusa Tenggara Timur,3,0.42361612726765463,dengan_kontrol,574,distribusi,0.4884228497954268,False
+Nusa Tenggara Barat,Nusa Tenggara Timur,7,0.5124130476505553,dengan_kontrol,574,distribusi,0.5662022625972987,False
+Nusa Tenggara Barat,Nusa Tenggara Timur,14,0.03642563382089217,dengan_kontrol,574,distribusi,0.05736320286754673,False
+Sulawesi Selatan,Nusa Tenggara Timur,1,0.46772210492854105,dengan_kontrol,574,distribusi,0.5284995535915717,False
+Sulawesi Selatan,Nusa Tenggara Timur,3,0.24210167807715743,dengan_kontrol,574,distribusi,0.2988909605890832,False
+Sulawesi Selatan,Nusa Tenggara Timur,7,0.1693431619979908,dengan_kontrol,574,distribusi,0.2192144491883376,False
+Sulawesi Selatan,Nusa Tenggara Timur,14,0.09481395562984483,dengan_kontrol,574,distribusi,0.13354078257724625,False
+Jawa Barat,Kalimantan Barat,1,0.061039442763503426,dengan_kontrol,574,distribusi,0.09178863573459162,False
+Jawa Barat,Kalimantan Barat,3,8.46840749900636e-05,dengan_kontrol,574,distribusi,0.0002799473553390532,True
+Jawa Barat,Kalimantan Barat,7,3.4726832188220986e-07,dengan_kontrol,574,distribusi,2.042754834601234e-06,True
+Jawa Barat,Kalimantan Barat,14,2.1405539135348813e-06,dengan_kontrol,574,distribusi,1.0193113873975625e-05,True
+Jawa Tengah,Kalimantan Barat,1,0.6268000634989446,dengan_kontrol,574,distribusi,0.6685867343988742,False
+Jawa Tengah,Kalimantan Barat,3,0.12040759270513983,dengan_kontrol,574,distribusi,0.16326453248154552,False
+Jawa Tengah,Kalimantan Barat,7,0.003011963636025457,dengan_kontrol,574,distribusi,0.00665627322878554,True
+Jawa Tengah,Kalimantan Barat,14,0.005226798839266871,dengan_kontrol,574,distribusi,0.010776904823230661,True
+Jawa Timur,Kalimantan Barat,1,0.03477991942126221,dengan_kontrol,574,distribusi,0.055681200153900864,False
+Jawa Timur,Kalimantan Barat,3,0.19126255164879374,dengan_kontrol,574,distribusi,0.2436465626099283,False
+Jawa Timur,Kalimantan Barat,7,0.0018471638657224462,dengan_kontrol,574,distribusi,0.004301244695004541,True
+Jawa Timur,Kalimantan Barat,14,0.030306072428331984,dengan_kontrol,574,distribusi,0.04968208594808522,True
+Kalimantan Tengah,Kalimantan Barat,1,0.003072432413994195,dengan_kontrol,574,distribusi,0.0067290628195510495,True
+Kalimantan Tengah,Kalimantan Barat,3,0.02042424801395211,dengan_kontrol,574,distribusi,0.03521422071371053,True
+Kalimantan Tengah,Kalimantan Barat,7,0.013303978080583045,dengan_kontrol,574,distribusi,0.023757103715326862,True
+Kalimantan Tengah,Kalimantan Barat,14,0.029226761798710907,dengan_kontrol,574,distribusi,0.04810989596495622,True
+Jawa Tengah,Kalimantan Tengah,1,0.018013992386821293,dengan_kontrol,574,distribusi,0.031603495415475955,True
+Jawa Tengah,Kalimantan Tengah,3,1.3318794543646275e-05,dengan_kontrol,574,distribusi,5.1723473955907865e-05,True
+Jawa Tengah,Kalimantan Tengah,7,0.00013606481099200421,dengan_kontrol,574,distribusi,0.00042855058580158805,True
+Jawa Tengah,Kalimantan Tengah,14,0.00035214691038442736,dengan_kontrol,574,distribusi,0.0009781858621789648,True
+Jawa Timur,Kalimantan Tengah,1,0.3802016090510716,dengan_kontrol,574,distribusi,0.44598429214201946,False
+Jawa Timur,Kalimantan Tengah,3,0.0009201951831495377,dengan_kontrol,574,distribusi,0.002300487957873844,True
+Jawa Timur,Kalimantan Tengah,7,0.0006024685533935025,dengan_kontrol,574,distribusi,0.001534951728391089,True
+Jawa Timur,Kalimantan Tengah,14,0.004297857329256,dengan_kontrol,574,distribusi,0.009000748333520419,True
+Kalimantan Selatan,Kalimantan Tengah,1,1.7627892069400888e-15,dengan_kontrol,574,distribusi,5.4239667905848884e-14,True
+Kalimantan Selatan,Kalimantan Tengah,3,7.334738757637142e-13,dengan_kontrol,574,distribusi,1.9559303353699047e-11,True
+Kalimantan Selatan,Kalimantan Tengah,7,2.888694670281982e-09,dengan_kontrol,574,distribusi,2.962763764391776e-08,True
+Kalimantan Selatan,Kalimantan Tengah,14,7.444622863228625e-07,dengan_kontrol,574,distribusi,4.079245404508835e-06,True
+Sulawesi Selatan,Kalimantan Tengah,1,0.00418338692666363,dengan_kontrol,574,distribusi,0.008853728945319854,True
+Sulawesi Selatan,Kalimantan Tengah,3,0.03723767117857495,dengan_kontrol,574,distribusi,0.05841203322129405,False
+Sulawesi Selatan,Kalimantan Tengah,7,0.060028247819590416,dengan_kontrol,574,distribusi,0.09060867595409874,False
+Sulawesi Selatan,Kalimantan Tengah,14,0.20807179047655897,dengan_kontrol,574,distribusi,0.2609050664282871,False
+Jawa Tengah,Kalimantan Selatan,1,3.0839003032829575e-06,dengan_kontrol,574,distribusi,1.4178851969117046e-05,True
+Jawa Tengah,Kalimantan Selatan,3,1.3667170986360262e-06,dengan_kontrol,574,distribusi,6.833585493180131e-06,True
+Jawa Tengah,Kalimantan Selatan,7,5.1547107626835995e-06,dengan_kontrol,574,distribusi,2.290982561192711e-05,True
+Jawa Tengah,Kalimantan Selatan,14,1.4580383494191697e-05,dengan_kontrol,574,distribusi,5.554431807311123e-05,True
+Jawa Timur,Kalimantan Selatan,1,2.607500204877329e-05,dengan_kontrol,574,distribusi,9.48181892682665e-05,True
+Jawa Timur,Kalimantan Selatan,3,0.0004926523357792005,dengan_kontrol,574,distribusi,0.001305039300077352,True
+Jawa Timur,Kalimantan Selatan,7,2.590992878888513e-05,dengan_kontrol,574,distribusi,9.48181892682665e-05,True
+Jawa Timur,Kalimantan Selatan,14,2.532733931543201e-05,dengan_kontrol,574,distribusi,9.380496042752596e-05,True
+Nusa Tenggara Barat,Kalimantan Selatan,1,0.09373700033621694,dengan_kontrol,574,distribusi,0.1324904598391759,False
+Nusa Tenggara Barat,Kalimantan Selatan,3,0.003703551341470864,dengan_kontrol,574,distribusi,0.007964626540797557,True
+Nusa Tenggara Barat,Kalimantan Selatan,7,0.00013006516739847522,dengan_kontrol,574,distribusi,0.00041290529332849277,True
+Nusa Tenggara Barat,Kalimantan Selatan,14,3.919761962706939e-06,dengan_kontrol,574,distribusi,1.7817099830486084e-05,True
+Sulawesi Selatan,Kalimantan Selatan,1,0.03941355893309638,dengan_kontrol,574,distribusi,0.06158368583296309,False
+Sulawesi Selatan,Kalimantan Selatan,3,0.110103225882177,dengan_kontrol,574,distribusi,0.1503115711702075,False
+Sulawesi Selatan,Kalimantan Selatan,7,0.36301901117477015,dengan_kontrol,574,distribusi,0.4296082972482487,False
+Sulawesi Selatan,Kalimantan Selatan,14,0.3425974941049332,dengan_kontrol,574,distribusi,0.409071634752159,False
+Jawa Timur,Kalimantan Timur,1,0.008485607048268968,dengan_kontrol,574,distribusi,0.016240396264629604,True
+Jawa Timur,Kalimantan Timur,3,5.129767731643483e-06,dengan_kontrol,574,distribusi,2.290982561192711e-05,True
+Jawa Timur,Kalimantan Timur,7,2.1393057318463195e-07,dengan_kontrol,574,distribusi,1.2965489283917087e-06,True
+Jawa Timur,Kalimantan Timur,14,1.1581740425303824e-05,dengan_kontrol,574,distribusi,4.7272409899199283e-05,True
+Nusa Tenggara Barat,Kalimantan Timur,1,0.9043880466586321,dengan_kontrol,574,distribusi,0.9066546833670497,False
+Nusa Tenggara Barat,Kalimantan Timur,3,0.012142311590594885,dengan_kontrol,574,distribusi,0.02217773806501349,True
+Nusa Tenggara Barat,Kalimantan Timur,7,0.003078546239944605,dengan_kontrol,574,distribusi,0.0067290628195510495,True
+Nusa Tenggara Barat,Kalimantan Timur,14,0.003881970780099971,dengan_kontrol,574,distribusi,0.008259512298085045,True
+Kalimantan Selatan,Kalimantan Timur,1,1.4311465195340052e-06,dengan_kontrol,574,distribusi,7.0673902199210125e-06,True
+Kalimantan Selatan,Kalimantan Timur,3,6.4345725498936945e-09,dengan_kontrol,574,distribusi,6.277631755993849e-08,True
+Kalimantan Selatan,Kalimantan Timur,7,4.446713615875842e-08,dengan_kontrol,574,distribusi,3.420548935289109e-07,True
+Kalimantan Selatan,Kalimantan Timur,14,1.2688259610693285e-05,dengan_kontrol,574,distribusi,5.050749840813168e-05,True
+Sulawesi Selatan,Kalimantan Timur,1,0.0002596902292733392,dengan_kontrol,574,distribusi,0.0007810232459348548,True
+Sulawesi Selatan,Kalimantan Timur,3,4.318990057135981e-05,dengan_kontrol,574,distribusi,0.0001501205737874486,True
+Sulawesi Selatan,Kalimantan Timur,7,0.007255665468275423,dengan_kontrol,574,distribusi,0.014296877770000835,True
+Sulawesi Selatan,Kalimantan Timur,14,0.03263499184376026,dengan_kontrol,574,distribusi,0.05285018922066438,False
+Jawa Timur,Kalimantan Utara,1,0.4894345065160909,dengan_kontrol,574,distribusi,0.5483860016987013,False
+Jawa Timur,Kalimantan Utara,3,0.5681217800196819,dengan_kontrol,574,distribusi,0.6158501680430156,False
+Jawa Timur,Kalimantan Utara,7,0.019439038067767492,dengan_kontrol,574,distribusi,0.033807022726552165,True
+Jawa Timur,Kalimantan Utara,14,0.0029553018256752266,dengan_kontrol,574,distribusi,0.0066040264260898915,True
+Kalimantan Timur,Kalimantan Utara,1,0.012795514887675333,dengan_kontrol,574,distribusi,0.02315930296411825,True
+Kalimantan Timur,Kalimantan Utara,3,1.0590673236766343e-07,dengan_kontrol,574,distribusi,7.060448824510896e-07,True
+Kalimantan Timur,Kalimantan Utara,7,1.126710553080967e-06,dengan_kontrol,574,distribusi,5.8530418341868415e-06,True
+Kalimantan Timur,Kalimantan Utara,14,4.982407985137758e-05,dengan_kontrol,574,distribusi,0.00016889518593687317,True
+Sulawesi Utara,Kalimantan Utara,1,0.5082261963809132,dengan_kontrol,574,distribusi,0.5631315195356379,False
+Sulawesi Utara,Kalimantan Utara,3,0.010663919842915369,dengan_kontrol,574,distribusi,0.01992052858851068,True
+Sulawesi Utara,Kalimantan Utara,7,2.4163042053029172e-08,dengan_kontrol,574,distribusi,2.013586837752431e-07,True
+Sulawesi Utara,Kalimantan Utara,14,1.5895658047649084e-09,dengan_kontrol,574,distribusi,1.8166466340170382e-08,True
+Sulawesi Selatan,Kalimantan Utara,1,0.09754587514315288,dengan_kontrol,574,distribusi,0.1354803821432679,False
+Sulawesi Selatan,Kalimantan Utara,3,0.00015467069681641756,dengan_kontrol,574,distribusi,0.0004833459275513049,True
+Sulawesi Selatan,Kalimantan Utara,7,0.00044086685469222096,dengan_kontrol,574,distribusi,0.0011915320397087052,True
+Sulawesi Selatan,Kalimantan Utara,14,0.0005951151917473305,dengan_kontrol,574,distribusi,0.001525936389095719,True
+Sulawesi Selatan,Sulawesi Utara,1,0.0423564130818126,dengan_kontrol,574,distribusi,0.06522036899250219,False
+Sulawesi Selatan,Sulawesi Utara,3,0.09646279580874448,dengan_kontrol,574,distribusi,0.13444292098779717,False
+Sulawesi Selatan,Sulawesi Utara,7,0.010718831587187106,dengan_kontrol,574,distribusi,0.01992052858851068,True
+Sulawesi Selatan,Sulawesi Utara,14,0.023410248217155837,dengan_kontrol,574,distribusi,0.039847231007924824,True
+Nusa Tenggara Barat,Sulawesi Tengah,1,0.8009999180409252,dengan_kontrol,574,distribusi,0.8154689357125231,False
+Nusa Tenggara Barat,Sulawesi Tengah,3,0.006195297270220044,dengan_kontrol,574,distribusi,0.01244665010312916,True
+Nusa Tenggara Barat,Sulawesi Tengah,7,0.0178263539042406,dengan_kontrol,574,distribusi,0.031412077364300614,True
+Nusa Tenggara Barat,Sulawesi Tengah,14,0.03121381210642866,dengan_kontrol,574,distribusi,0.05096132588804679,False
+Sulawesi Utara,Sulawesi Tengah,1,0.20239563572250213,dengan_kontrol,574,distribusi,0.2545857053113234,False
+Sulawesi Utara,Sulawesi Tengah,3,0.002979608329553628,dengan_kontrol,574,distribusi,0.006621351843452506,True
+Sulawesi Utara,Sulawesi Tengah,7,0.012510424015633811,dengan_kontrol,574,distribusi,0.022746225482970565,True
+Sulawesi Utara,Sulawesi Tengah,14,0.00029186581223986086,dengan_kontrol,574,distribusi,0.0008412816325447951,True
+Sulawesi Selatan,Sulawesi Tengah,1,0.0011311638220346343,dengan_kontrol,574,distribusi,0.002775862139962293,True
+Sulawesi Selatan,Sulawesi Tengah,3,0.0002629081197440238,dengan_kontrol,574,distribusi,0.000784800357444847,True
+Sulawesi Selatan,Sulawesi Tengah,7,0.008019808150113545,dengan_kontrol,574,distribusi,0.015497213816644533,True
+Sulawesi Selatan,Sulawesi Tengah,14,0.008648593579067995,dengan_kontrol,574,distribusi,0.016473511579177133,True
+Jawa Timur,Sulawesi Selatan,1,0.0014960880650534325,dengan_kontrol,574,distribusi,0.0035834444671938503,True
+Jawa Timur,Sulawesi Selatan,3,0.00021402900424238085,dengan_kontrol,574,distribusi,0.0006485727401284268,True
+Jawa Timur,Sulawesi Selatan,7,1.0500333322560023e-06,dengan_kontrol,574,distribusi,5.526491222400012e-06,True
+Jawa Timur,Sulawesi Selatan,14,9.153388427775811e-08,dengan_kontrol,574,distribusi,6.423430475632148e-07,True
+Nusa Tenggara Barat,Sulawesi Selatan,1,0.8397948145306263,dengan_kontrol,574,distribusi,0.8504251286386089,False
+Nusa Tenggara Barat,Sulawesi Selatan,3,0.08508935273770005,dengan_kontrol,574,distribusi,0.1224307233635972,False
+Nusa Tenggara Barat,Sulawesi Selatan,7,0.3896024242396019,dengan_kontrol,574,distribusi,0.4556753499878385,False
+Nusa Tenggara Barat,Sulawesi Selatan,14,0.06762033313035044,dengan_kontrol,574,distribusi,0.09980860978649513,False
+Sulawesi Selatan,Sulawesi Tenggara,1,0.008985530514360622,dengan_kontrol,574,distribusi,0.017034181069877957,True
+Sulawesi Selatan,Sulawesi Tenggara,3,0.0005177117134016027,dengan_kontrol,574,distribusi,0.0013534946755597455,True
+Sulawesi Selatan,Sulawesi Tenggara,7,0.0003409863117442886,dengan_kontrol,574,distribusi,0.000953807865018989,True
+Sulawesi Selatan,Sulawesi Tenggara,14,0.0015117001535510039,dengan_kontrol,574,distribusi,0.0035992860798833427,True
+Gorontalo,Sulawesi Tenggara,1,0.21193618718809148,dengan_kontrol,574,distribusi,0.26492023398511433,False
+Gorontalo,Sulawesi Tenggara,3,0.0001859460898896589,dengan_kontrol,574,distribusi,0.0005677743202737676,True
+Gorontalo,Sulawesi Tenggara,7,3.20380227949273e-08,dengan_kontrol,574,distribusi,2.5645507534505574e-07,True
+Gorontalo,Sulawesi Tenggara,14,1.4922994789057998e-07,dengan_kontrol,574,distribusi,9.47491732638603e-07,True
+Sulawesi Selatan,Gorontalo,1,0.041082501390922455,dengan_kontrol,574,distribusi,0.06394163640610499,False
+Sulawesi Selatan,Gorontalo,3,0.08629313169699075,dengan_kontrol,574,distribusi,0.1237177515369043,False
+Sulawesi Selatan,Gorontalo,7,0.09556753374699534,dengan_kontrol,574,distribusi,0.13366088635943404,False
+Sulawesi Selatan,Gorontalo,14,0.02858985022201086,dengan_kontrol,574,distribusi,0.04725595078018324,True
+Sulawesi Selatan,Sulawesi Barat,1,0.0018602883305894639,dengan_kontrol,574,distribusi,0.004301244695004541,True
+Sulawesi Selatan,Sulawesi Barat,3,2.127556500530368e-07,dengan_kontrol,574,distribusi,1.2965489283917087e-06,True
+Sulawesi Selatan,Sulawesi Barat,7,5.955532777904996e-07,dengan_kontrol,574,distribusi,3.3552297340309838e-06,True
+Sulawesi Selatan,Sulawesi Barat,14,9.2706397894841e-06,dengan_kontrol,574,distribusi,3.8627665789517086e-05,True
+Jawa Timur,Maluku,1,0.33363313800158567,dengan_kontrol,574,distribusi,0.39956064431327626,False
+Jawa Timur,Maluku,3,0.15312361542099542,dengan_kontrol,574,distribusi,0.20147844134341503,False
+Jawa Timur,Maluku,7,0.0005847121468627095,dengan_kontrol,574,distribusi,0.0015089345725489277,True
+Jawa Timur,Maluku,14,0.0005160176167067457,dengan_kontrol,574,distribusi,0.0013534946755597455,True
+Sulawesi Utara,Maluku,1,0.7905010406314094,dengan_kontrol,574,distribusi,0.808696716758475,False
+Sulawesi Utara,Maluku,3,0.6139955151115807,dengan_kontrol,574,distribusi,0.6602102313027749,False
+Sulawesi Utara,Maluku,7,0.001094705191844282,dengan_kontrol,574,distribusi,0.0027029757823315605,True
+Sulawesi Utara,Maluku,14,6.876006665045327e-06,dengan_kontrol,574,distribusi,3.022420512107836e-05,True
+Sulawesi Selatan,Maluku,1,0.02451673751456373,dengan_kontrol,574,distribusi,0.04120460086481299,True
+Sulawesi Selatan,Maluku,3,0.0017926438713712464,dengan_kontrol,574,distribusi,0.00421798557969705,True
+Sulawesi Selatan,Maluku,7,0.002131383137045331,dengan_kontrol,574,distribusi,0.0048997313495294965,True
+Sulawesi Selatan,Maluku,14,0.004276767118161129,dengan_kontrol,574,distribusi,0.009000748333520419,True
+Sulawesi Utara,Maluku Utara,1,0.00042623400023895176,dengan_kontrol,574,distribusi,0.0011677643842163063,True
+Sulawesi Utara,Maluku Utara,3,1.9721330107806483e-06,dengan_kontrol,574,distribusi,9.50425547364168e-06,True
+Sulawesi Utara,Maluku Utara,7,1.0386133699229378e-08,dengan_kontrol,574,distribusi,9.661519720213375e-08,True
+Sulawesi Utara,Maluku Utara,14,1.9057977241423488e-08,dengan_kontrol,574,distribusi,1.6572154122976945e-07,True
+Jawa Timur,Papua Barat,1,0.3793875947694467,dengan_kontrol,574,distribusi,0.44598429214201946,False
+Jawa Timur,Papua Barat,3,0.7075598135848084,dengan_kontrol,574,distribusi,0.7351270790491515,False
+Jawa Timur,Papua Barat,7,0.018728250399514725,dengan_kontrol,574,distribusi,0.03271310113452354,True
+Jawa Timur,Papua Barat,14,0.02279275204342309,dengan_kontrol,574,distribusi,0.03896196930499674,True
+Sulawesi Selatan,Papua Barat,1,0.035475416636275216,dengan_kontrol,574,distribusi,0.05631018513694479,False
+Sulawesi Selatan,Papua Barat,3,0.10242293145299726,dengan_kontrol,574,distribusi,0.1412730089006859,False
+Sulawesi Selatan,Papua Barat,7,0.0009003153165209591,dengan_kontrol,574,distribusi,0.0022649441925055576,True
+Sulawesi Selatan,Papua Barat,14,0.007242572948938313,dengan_kontrol,574,distribusi,0.014296877770000835,True
+Jawa Timur,Papua,1,0.2873647995092132,dengan_kontrol,574,distribusi,0.3483209691020766,False
+Jawa Timur,Papua,3,0.5170888742395675,dengan_kontrol,574,distribusi,0.5682295321313928,False
+Jawa Timur,Papua,7,4.2466856581723e-05,dengan_kontrol,574,distribusi,0.0001490065143218351,True
+Jawa Timur,Papua,14,3.665573112053405e-05,dengan_kontrol,574,distribusi,0.00013091332543047873,True
+Jawa Tengah,Papua,1,0.5466171750553757,dengan_kontrol,574,distribusi,0.5957680382074939,False
+Jawa Tengah,Papua,3,0.023932399345724716,dengan_kontrol,574,distribusi,0.04056338872156732,True
+Jawa Tengah,Papua,7,3.557636644427281e-05,dengan_kontrol,574,distribusi,0.00012820312232170378,True
+Jawa Tengah,Papua,14,0.0011944524119184127,dengan_kontrol,574,distribusi,0.002895642210711304,True
+Nusa Tenggara Barat,Papua,1,0.8328055455222876,dengan_kontrol,574,distribusi,0.8454878634744036,False
+Nusa Tenggara Barat,Papua,3,0.17500326332132615,dengan_kontrol,574,distribusi,0.22508458304993717,False
+Nusa Tenggara Barat,Papua,7,0.4574914995955669,dengan_kontrol,574,distribusi,0.5198767040858715,False
+Nusa Tenggara Barat,Papua,14,0.7669663889780435,dengan_kontrol,574,distribusi,0.7906869989464366,False
+Sulawesi Selatan,Papua,1,0.2564739401704267,dengan_kontrol,574,distribusi,0.3137295904225403,False
+Sulawesi Selatan,Papua,3,0.1676582216992609,dengan_kontrol,574,distribusi,0.21773795025878037,False
+Sulawesi Selatan,Papua,7,0.024353912314161934,dengan_kontrol,574,distribusi,0.04110364947537879,True
+Sulawesi Selatan,Papua,14,0.00622332505156458,dengan_kontrol,574,distribusi,0.01244665010312916,True
+Sulawesi Tenggara,Kalimantan Utara,1,0.00017565078803464206,tanpa_kontrol,574,acak,0.0012774602766155785,True
+Sulawesi Tenggara,Kalimantan Utara,3,6.1167652518275655e-06,tanpa_kontrol,574,acak,5.825490716026253e-05,True
+Sulawesi Tenggara,Kalimantan Utara,7,0.00031102087575006444,tanpa_kontrol,574,acak,0.002039481152459439,True
+Sulawesi Tenggara,Kalimantan Utara,14,0.003929853873458912,tanpa_kontrol,574,acak,0.01733230213285894,True
+Jawa Barat,Nusa Tenggara Barat,1,2.8355087105242776e-06,tanpa_kontrol,574,acak,2.984746011078187e-05,True
+Jawa Barat,Nusa Tenggara Barat,3,1.1915800199596516e-05,tanpa_kontrol,574,acak,0.00010591822399641347,True
+Jawa Barat,Nusa Tenggara Barat,7,1.487841157485937e-06,tanpa_kontrol,574,acak,1.750401361748161e-05,True
+Jawa Barat,Nusa Tenggara Barat,14,1.5480279188778068e-07,tanpa_kontrol,574,acak,2.2933746946337876e-06,True
+Maluku,Papua,1,0.05097751559597764,tanpa_kontrol,574,acak,0.14562892094910768,False
+Maluku,Papua,3,0.4784742398499652,tanpa_kontrol,574,acak,0.6445912612946303,False
+Maluku,Papua,7,0.2124256905661396,tanpa_kontrol,574,acak,0.3933809084558141,False
+Maluku,Papua,14,0.2668210902679428,tanpa_kontrol,574,acak,0.45033095403872203,False
+Banten,Nusa Tenggara Timur,1,0.9598302161789944,tanpa_kontrol,574,acak,0.9965071262457179,False
+Banten,Nusa Tenggara Timur,3,0.9186314745164724,tanpa_kontrol,574,acak,0.9855561162153827,False
+Banten,Nusa Tenggara Timur,7,0.9971328755899402,tanpa_kontrol,574,acak,0.9994194706654838,False
+Banten,Nusa Tenggara Timur,14,0.8748820895837025,tanpa_kontrol,574,acak,0.9658863797168533,False
+Bali,Papua Barat,1,0.4328225934581197,tanpa_kontrol,574,acak,0.6074703066078873,False
+Bali,Papua Barat,3,0.46129540868858776,tanpa_kontrol,574,acak,0.6276128009368541,False
+Bali,Papua Barat,7,0.062245037191980414,tanpa_kontrol,574,acak,0.16893527216252552,False
+Bali,Papua Barat,14,0.06250605070013444,tanpa_kontrol,574,acak,0.16893527216252552,False
+Sulawesi Utara,Bali,1,0.31004889231337857,tanpa_kontrol,574,acak,0.48375586146627536,False
+Sulawesi Utara,Bali,3,0.8637929911880392,tanpa_kontrol,574,acak,0.9636599910887723,False
+Sulawesi Utara,Bali,7,0.25763835977720995,tanpa_kontrol,574,acak,0.44229761335143336,False
+Sulawesi Utara,Bali,14,0.6892630853496196,tanpa_kontrol,574,acak,0.8328005014818779,False
+Nusa Tenggara Barat,Sumatera Utara,1,0.03498458865245914,tanpa_kontrol,574,acak,0.11106218619828298,False
+Nusa Tenggara Barat,Sumatera Utara,3,0.06954290739439162,tanpa_kontrol,574,acak,0.18181152259971664,False
+Nusa Tenggara Barat,Sumatera Utara,7,0.07300204825269192,tanpa_kontrol,574,acak,0.18961570974725175,False
+Nusa Tenggara Barat,Sumatera Utara,14,0.20192997690603004,tanpa_kontrol,574,acak,0.3846285274400572,False
+Kalimantan Selatan,Nusa Tenggara Timur,1,0.2526182028441796,tanpa_kontrol,574,acak,0.4393360049463993,False
+Kalimantan Selatan,Nusa Tenggara Timur,3,0.25705375190866064,tanpa_kontrol,574,acak,0.44229761335143336,False
+Kalimantan Selatan,Nusa Tenggara Timur,7,0.09708356073443361,tanpa_kontrol,574,acak,0.23393629092634607,False
+Kalimantan Selatan,Nusa Tenggara Timur,14,0.006381230122869484,tanpa_kontrol,574,acak,0.02578274797118983,True
+Riau,Sulawesi Selatan,1,0.09198417575535416,tanpa_kontrol,574,acak,0.22435164818379064,False
+Riau,Sulawesi Selatan,3,0.18613184004333685,tanpa_kontrol,574,acak,0.365362916132711,False
+Riau,Sulawesi Selatan,7,0.3262122990590095,tanpa_kontrol,574,acak,0.49614037879697265,False
+Riau,Sulawesi Selatan,14,0.4559945301950131,tanpa_kontrol,574,acak,0.6225181299590623,False
+Sulawesi Tengah,Kepulauan Bangka Belitung,1,5.278170673813197e-15,tanpa_kontrol,574,acak,1.624052515019445e-13,True
+Sulawesi Tengah,Kepulauan Bangka Belitung,3,4.255906910454067e-18,tanpa_kontrol,574,acak,1.8915141824240298e-16,True
+Sulawesi Tengah,Kepulauan Bangka Belitung,7,3.46902040467894e-18,tanpa_kontrol,574,acak,1.7345102023394698e-16,True
+Sulawesi Tengah,Kepulauan Bangka Belitung,14,4.969248155196827e-15,tanpa_kontrol,574,acak,1.624052515019445e-13,True
+Kalimantan Utara,Banten,1,0.07991649331935335,tanpa_kontrol,574,acak,0.20360890017669644,False
+Kalimantan Utara,Banten,3,0.24899736016041996,tanpa_kontrol,574,acak,0.43492988674309163,False
+Kalimantan Utara,Banten,7,0.7036910064508692,tanpa_kontrol,574,acak,0.8427437203004422,False
+Kalimantan Utara,Banten,14,0.6690504119935499,tanpa_kontrol,574,acak,0.8184102899003668,False
+Jambi,Nusa Tenggara Barat,1,0.0003041543516176162,tanpa_kontrol,574,acak,0.0020276956774507747,True
+Jambi,Nusa Tenggara Barat,3,1.8558890244105817e-05,tanpa_kontrol,574,acak,0.00015782192190022336,True
+Jambi,Nusa Tenggara Barat,7,7.578477518980169e-05,tanpa_kontrol,574,acak,0.0006062782015184135,True
+Jambi,Nusa Tenggara Barat,14,0.00201417892186001,tanpa_kontrol,574,acak,0.009706886370409687,True
+DI Yogyakarta,Riau,1,0.5723022957369679,tanpa_kontrol,574,acak,0.7348737218705864,False
+DI Yogyakarta,Riau,3,0.5617587224621199,tanpa_kontrol,574,acak,0.7271957572325177,False
+DI Yogyakarta,Riau,7,0.7420748976767109,tanpa_kontrol,574,acak,0.8808010654916449,False
+DI Yogyakarta,Riau,14,0.9446631085285517,tanpa_kontrol,574,acak,0.9943822195037387,False
+Kalimantan Timur,Jawa Tengah,1,0.0016196147509548759,tanpa_kontrol,574,acak,0.008200581017493042,True
+Kalimantan Timur,Jawa Tengah,3,0.0005275583344034653,tanpa_kontrol,574,acak,0.003103284320020384,True
+Kalimantan Timur,Jawa Tengah,7,0.0012417336227356498,tanpa_kontrol,574,acak,0.006622579321256799,True
+Kalimantan Timur,Jawa Tengah,14,0.008818948178971608,tanpa_kontrol,574,acak,0.03458411050577101,True
+Sulawesi Barat,Bali,1,0.015807460806801833,tanpa_kontrol,574,acak,0.05696382272721381,False
+Sulawesi Barat,Bali,3,0.11532332439559058,tanpa_kontrol,574,acak,0.2620984645354331,False
+Sulawesi Barat,Bali,7,0.09687586246851018,tanpa_kontrol,574,acak,0.23393629092634607,False
+Sulawesi Barat,Bali,14,0.0012940196069229418,tanpa_kontrol,574,acak,0.006810629510120746,True
+Maluku Utara,Sulawesi Tengah,1,0.5750386873637339,tanpa_kontrol,574,acak,0.7348737218705864,False
+Maluku Utara,Sulawesi Tengah,3,0.9264227492424597,tanpa_kontrol,574,acak,0.9855561162153827,False
+Maluku Utara,Sulawesi Tengah,7,0.5871997977896088,tanpa_kontrol,574,acak,0.7432908832779859,False
+Maluku Utara,Sulawesi Tengah,14,0.11907879061017192,tanpa_kontrol,574,acak,0.266097856112116,False
+Jambi,Jawa Barat,1,0.35950335236981135,tanpa_kontrol,574,acak,0.5385818013030882,False
+Jambi,Jawa Barat,3,0.020265750368594123,tanpa_kontrol,574,acak,0.07048956649945783,False
+Jambi,Jawa Barat,7,0.19596818359927973,tanpa_kontrol,574,acak,0.3786824803850816,False
+Jambi,Jawa Barat,14,0.45122130266425275,tanpa_kontrol,574,acak,0.618111373512675,False
+Kalimantan Timur,Kepulauan Riau,1,0.3108131409920819,tanpa_kontrol,574,acak,0.48375586146627536,False
+Kalimantan Timur,Kepulauan Riau,3,0.6516314161351205,tanpa_kontrol,574,acak,0.8017649833495488,False
+Kalimantan Timur,Kepulauan Riau,7,0.9836126603253066,tanpa_kontrol,574,acak,0.9994194706654838,False
+Kalimantan Timur,Kepulauan Riau,14,0.9985505658958324,tanpa_kontrol,574,acak,0.9994194706654838,False
+DI Yogyakarta,Bali,1,0.07835121365333475,tanpa_kontrol,574,acak,0.20090054782906344,False
+DI Yogyakarta,Bali,3,0.19997177159305285,tanpa_kontrol,574,acak,0.3827210939579959,False
+DI Yogyakarta,Bali,7,0.09008388554017394,tanpa_kontrol,574,acak,0.2215008316737693,False
+DI Yogyakarta,Bali,14,0.5359313767675843,tanpa_kontrol,574,acak,0.7075001673499463,False
+Gorontalo,DI Yogyakarta,1,7.4332025313058575e-09,tanpa_kontrol,574,acak,1.4866405062611713e-07,True
+Gorontalo,DI Yogyakarta,3,1.6467957299358648e-07,tanpa_kontrol,574,acak,2.3525653284798066e-06,True
+Gorontalo,DI Yogyakarta,7,1.0623357107902071e-07,tanpa_kontrol,574,acak,1.634362631984934e-06,True
+Gorontalo,DI Yogyakarta,14,2.7859875878351834e-06,tanpa_kontrol,574,acak,2.984746011078187e-05,True
+Sulawesi Tenggara,Lampung,1,0.9243024912233256,tanpa_kontrol,574,acak,0.9855561162153827,False
+Sulawesi Tenggara,Lampung,3,0.4013407869134433,tanpa_kontrol,574,acak,0.5795534829074994,False
+Sulawesi Tenggara,Lampung,7,0.01182163255558487,tanpa_kontrol,574,acak,0.04419301889938269,True
+Sulawesi Tenggara,Lampung,14,0.0642177401035616,tanpa_kontrol,574,acak,0.17239661772768214,False
+Sulawesi Barat,Jawa Timur,1,0.029443165285820673,tanpa_kontrol,574,acak,0.09748520610884975,False
+Sulawesi Barat,Jawa Timur,3,0.06552130656961475,tanpa_kontrol,574,acak,0.173566375018847,False
+Sulawesi Barat,Jawa Timur,7,0.016031287511490747,tanpa_kontrol,574,acak,0.05725459825532409,False
+Sulawesi Barat,Jawa Timur,14,0.03970896556970735,tanpa_kontrol,574,acak,0.11827773839467458,False
+Kalimantan Timur,Sumatera Barat,1,0.8402517052326763,tanpa_kontrol,574,acak,0.954492277567078,False
+Kalimantan Timur,Sumatera Barat,3,0.8424875996675166,tanpa_kontrol,574,acak,0.954492277567078,False
+Kalimantan Timur,Sumatera Barat,7,0.877865678995033,tanpa_kontrol,574,acak,0.9658863797168533,False
+Kalimantan Timur,Sumatera Barat,14,0.790722783284367,tanpa_kontrol,574,acak,0.9185759225902617,False
+Kalimantan Utara,Jawa Barat,1,0.14686344687539518,tanpa_kontrol,574,acak,0.30438020077802114,False
+Kalimantan Utara,Jawa Barat,3,0.19886139463386301,tanpa_kontrol,574,acak,0.382425758911275,False
+Kalimantan Utara,Jawa Barat,7,0.3201494021314246,tanpa_kontrol,574,acak,0.4906504247224899,False
+Kalimantan Utara,Jawa Barat,14,0.6138279457266598,tanpa_kontrol,574,acak,0.7648946364195137,False
+Kalimantan Timur,Papua,1,0.01950534441746044,tanpa_kontrol,574,acak,0.0684398049735454,False
+Kalimantan Timur,Papua,3,0.21104554318313806,tanpa_kontrol,574,acak,0.3926428710383964,False
+Kalimantan Timur,Papua,7,4.8380341472993994e-06,tanpa_kontrol,574,acak,4.720033314438439e-05,True
+Kalimantan Timur,Papua,14,3.2276293274753957e-07,tanpa_kontrol,574,acak,4.164683003194059e-06,True
+Nusa Tenggara Barat,Kepulauan Bangka Belitung,1,3.828376829830305e-06,tanpa_kontrol,574,acak,3.9054037281897813e-05,True
+Nusa Tenggara Barat,Kepulauan Bangka Belitung,3,5.4211919332436874e-08,tanpa_kontrol,574,acak,9.03531988873948e-07,True
+Nusa Tenggara Barat,Kepulauan Bangka Belitung,7,1.9736084454440822e-07,tanpa_kontrol,574,acak,2.7222185454401134e-06,True
+Nusa Tenggara Barat,Kepulauan Bangka Belitung,14,3.905403728189782e-06,tanpa_kontrol,574,acak,3.9054037281897813e-05,True
+Lampung,Papua Barat,1,0.8837860374409208,tanpa_kontrol,574,acak,0.9658863797168533,False
+Lampung,Papua Barat,3,0.31556547829496673,tanpa_kontrol,574,acak,0.4854853512230257,False
+Lampung,Papua Barat,7,0.08244379772210743,tanpa_kontrol,574,acak,0.20871847524584158,False
+Lampung,Papua Barat,14,0.0035271133781836386,tanpa_kontrol,574,acak,0.015852194958128712,True
+Sulawesi Barat,Riau,1,0.5347199333255772,tanpa_kontrol,574,acak,0.7075001673499463,False
+Sulawesi Barat,Riau,3,0.8581518597644365,tanpa_kontrol,574,acak,0.9636599910887723,False
+Sulawesi Barat,Riau,7,0.9380275113319327,tanpa_kontrol,574,acak,0.9900026504822509,False
+Sulawesi Barat,Riau,14,0.9881214927058108,tanpa_kontrol,574,acak,0.9994194706654838,False
+Aceh,Riau,1,0.8417673890010471,tanpa_kontrol,574,acak,0.954492277567078,False
+Aceh,Riau,3,0.9772603483265614,tanpa_kontrol,574,acak,0.9994194706654838,False
+Aceh,Riau,7,0.8170054868889519,tanpa_kontrol,574,acak,0.9363959735116927,False
+Aceh,Riau,14,0.07414756192785273,tanpa_kontrol,574,acak,0.19134854691058767,False
+Jambi,Jawa Tengah,1,0.15579584833071844,tanpa_kontrol,574,acak,0.3212285532592133,False
+Jambi,Jawa Tengah,3,0.03198196904939405,tanpa_kontrol,574,acak,0.10400640341266358,False
+Jambi,Jawa Tengah,7,0.2864865529937434,tanpa_kontrol,574,acak,0.4715828032818822,False
+Jambi,Jawa Tengah,14,0.0979201223844395,tanpa_kontrol,574,acak,0.2345392152920707,False
+Papua Barat,Aceh,1,0.9806098260472527,tanpa_kontrol,574,acak,0.9994194706654838,False
+Papua Barat,Aceh,3,0.2771990317124383,tanpa_kontrol,574,acak,0.4632777959351178,False
+Papua Barat,Aceh,7,0.4671981533616527,tanpa_kontrol,574,acak,0.6334890215073257,False
+Papua Barat,Aceh,14,0.527780867310742,tanpa_kontrol,574,acak,0.7037078230809893,False
+Jawa Barat,Papua Barat,1,0.08758632385586917,tanpa_kontrol,574,acak,0.21896580963967294,False
+Jawa Barat,Papua Barat,3,0.20896529582431453,tanpa_kontrol,574,acak,0.39242309074988646,False
+Jawa Barat,Papua Barat,7,0.0021480434585636862,tanpa_kontrol,574,acak,0.010228778374112792,True
+Jawa Barat,Papua Barat,14,0.00012948697629179873,tanpa_kontrol,574,acak,0.0009591627873466572,True
+Kalimantan Barat,Kepulauan Riau,1,0.3261086986294436,tanpa_kontrol,574,acak,0.49614037879697265,False
+Kalimantan Barat,Kepulauan Riau,3,0.2835081992218245,tanpa_kontrol,574,acak,0.46860859375508185,False
+Kalimantan Barat,Kepulauan Riau,7,0.2099617095448474,tanpa_kontrol,574,acak,0.39245179354177084,False
+Kalimantan Barat,Kepulauan Riau,14,0.3753316574224954,tanpa_kontrol,574,acak,0.5560468998851783,False
+DKI Jakarta,Sulawesi Tengah,1,0.10060360349131629,tanpa_kontrol,574,acak,0.23537820623645148,False
+DKI Jakarta,Sulawesi Tengah,3,0.14567213263363551,tanpa_kontrol,574,acak,0.3037167803814561,False
+DKI Jakarta,Sulawesi Tengah,7,0.13942880960285017,tanpa_kontrol,574,acak,0.30146769643859495,False
+DKI Jakarta,Sulawesi Tengah,14,0.2779666775610707,tanpa_kontrol,574,acak,0.4632777959351178,False
+Jawa Barat,Kalimantan Selatan,1,0.00037858439199942105,tanpa_kontrol,574,acak,0.0024037104253931494,True
+Jawa Barat,Kalimantan Selatan,3,0.0015377840101043869,tanpa_kontrol,574,acak,0.007886071846689163,True
+Jawa Barat,Kalimantan Selatan,7,0.00031741706320212475,tanpa_kontrol,574,acak,0.0020478520206588693,True
+Jawa Barat,Kalimantan Selatan,14,1.658245916957922e-05,tanpa_kontrol,574,acak,0.0001441952971267758,True
+Sumatera Utara,Papua,1,0.12172934012175758,tanpa_kontrol,574,acak,0.2705096447150168,False
+Sumatera Utara,Papua,3,0.5303802877677812,tanpa_kontrol,574,acak,0.7048243026814369,False
+Sumatera Utara,Papua,7,0.22183852664325618,tanpa_kontrol,574,acak,0.40151769528191167,False
+Sumatera Utara,Papua,14,0.06084373739022724,tanpa_kontrol,574,acak,0.16669517093212943,False
+Papua Barat,Nusa Tenggara Timur,1,0.21827770466959587,tanpa_kontrol,574,acak,0.40038151163410285,False
+Papua Barat,Nusa Tenggara Timur,3,0.0307980211649712,tanpa_kontrol,574,acak,0.10097711857367607,False
+Papua Barat,Nusa Tenggara Timur,7,0.11715834081222234,tanpa_kontrol,574,acak,0.26376437628188026,False
+Papua Barat,Nusa Tenggara Timur,14,0.2912538588935785,tanpa_kontrol,574,acak,0.4735966093211728,False
+Sulawesi Selatan,Aceh,1,0.8154775909902892,tanpa_kontrol,574,acak,0.9363959735116927,False
+Sulawesi Selatan,Aceh,3,0.9244538179475273,tanpa_kontrol,574,acak,0.9855561162153827,False
+Sulawesi Selatan,Aceh,7,0.8951964981196282,tanpa_kontrol,574,acak,0.9730396718691611,False
+Sulawesi Selatan,Aceh,14,0.8794400093561832,tanpa_kontrol,574,acak,0.9658863797168533,False
+Kalimantan Timur,Banten,1,0.2939385517080641,tanpa_kontrol,574,acak,0.4760138489199418,False
+Kalimantan Timur,Banten,3,0.2912619147325213,tanpa_kontrol,574,acak,0.4735966093211728,False
+Kalimantan Timur,Banten,7,0.4487463578300228,tanpa_kontrol,574,acak,0.618111373512675,False
+Kalimantan Timur,Banten,14,0.692719700458222,tanpa_kontrol,574,acak,0.8328005014818779,False
+Aceh,DKI Jakarta,1,0.7594789478547466,tanpa_kontrol,574,acak,0.8987916542659723,False
+Aceh,DKI Jakarta,3,0.5661730753291714,tanpa_kontrol,574,acak,0.7305459036505437,False
+Aceh,DKI Jakarta,7,0.9356588888379387,tanpa_kontrol,574,acak,0.9900026504822509,False
+Aceh,DKI Jakarta,14,0.5105182544371554,tanpa_kontrol,574,acak,0.6829675644644219,False
+Sulawesi Barat,Kalimantan Timur,1,0.00029987271883678666,tanpa_kontrol,574,acak,0.0020276956774507747,True
+Sulawesi Barat,Kalimantan Timur,3,0.00012099814166158769,tanpa_kontrol,574,acak,0.0009131935219742467,True
+Sulawesi Barat,Kalimantan Timur,7,0.001664363786820092,tanpa_kontrol,574,acak,0.008219080428741195,True
+Sulawesi Barat,Kalimantan Timur,14,0.0007243288590668219,tanpa_kontrol,574,acak,0.0040240492170379,True
+Sulawesi Selatan,Jawa Tengah,1,0.05750564102021277,tanpa_kontrol,574,acak,0.15863625109024213,False
+Sulawesi Selatan,Jawa Tengah,3,0.00026092178145212285,tanpa_kontrol,574,acak,0.0017994605617387784,True
+Sulawesi Selatan,Jawa Tengah,7,0.0006524963582958103,tanpa_kontrol,574,acak,0.003728550618833202,True
+Sulawesi Selatan,Jawa Tengah,14,0.03329416653631401,tanpa_kontrol,574,acak,0.10740053721391615,False
+Sulawesi Barat,Kalimantan Tengah,1,0.4511481009862143,tanpa_kontrol,574,acak,0.618111373512675,False
+Sulawesi Barat,Kalimantan Tengah,3,0.035976433226065016,tanpa_kontrol,574,acak,0.11331160071201579,False
+Sulawesi Barat,Kalimantan Tengah,7,0.1130827868901961,tanpa_kontrol,574,acak,0.25847494146330535,False
+Sulawesi Barat,Kalimantan Tengah,14,0.21950805668476633,tanpa_kontrol,574,acak,0.40038151163410285,False
+DI Yogyakarta,Sulawesi Utara,1,0.38579333410953565,tanpa_kontrol,574,acak,0.567343138396376,False
+DI Yogyakarta,Sulawesi Utara,3,0.1822644352758483,tanpa_kontrol,574,acak,0.36197465798305833,False
+DI Yogyakarta,Sulawesi Utara,7,0.2382776741625976,tanpa_kontrol,574,acak,0.4236047540668402,False
+DI Yogyakarta,Sulawesi Utara,14,0.7811979630374464,tanpa_kontrol,574,acak,0.9110180326967304,False
+Papua,Kalimantan Utara,1,1.1504358854908175e-05,tanpa_kontrol,574,acak,0.00010458508049916522,True
+Papua,Kalimantan Utara,3,0.00010916010021551982,tanpa_kontrol,574,acak,0.0008396930785809217,True
+Papua,Kalimantan Utara,7,0.002890540515707604,tanpa_kontrol,574,acak,0.013138820525943654,True
+Papua,Kalimantan Utara,14,0.0045792987285101965,tanpa_kontrol,574,acak,0.01928125780425346,True
+Sulawesi Tenggara,Kalimantan Tengah,1,0.30149688289070015,tanpa_kontrol,574,acak,0.47856648077888914,False
+Sulawesi Tenggara,Kalimantan Tengah,3,0.5594493070223312,tanpa_kontrol,574,acak,0.7271957572325177,False
+Sulawesi Tenggara,Kalimantan Tengah,7,0.054654385573669265,tanpa_kontrol,574,acak,0.15181773770463686,False
+Sulawesi Tenggara,Kalimantan Tengah,14,0.22956717820498151,tanpa_kontrol,574,acak,0.41177969184750046,False
+Sumatera Selatan,Jambi,1,0.4277103454486959,tanpa_kontrol,574,acak,0.60668134106198,False
+Sumatera Selatan,Jambi,3,0.4295552742358687,tanpa_kontrol,574,acak,0.6071452639376236,False
+Sumatera Selatan,Jambi,7,0.3890291358896238,tanpa_kontrol,574,acak,0.5700060599115367,False
+Sumatera Selatan,Jambi,14,0.28052338568140467,tanpa_kontrol,574,acak,0.4655989803840741,False
+Nusa Tenggara Timur,Sulawesi Tengah,1,0.043889348141744326,tanpa_kontrol,574,acak,0.1272155018601285,False
+Nusa Tenggara Timur,Sulawesi Tengah,3,0.11737514744543671,tanpa_kontrol,574,acak,0.26376437628188026,False
+Nusa Tenggara Timur,Sulawesi Tengah,7,0.295192268326051,tanpa_kontrol,574,acak,0.4761165618162113,False
+Nusa Tenggara Timur,Sulawesi Tengah,14,0.165780380558935,tanpa_kontrol,574,acak,0.336609909764335,False
+Bali,Gorontalo,1,0.0022925016796465224,tanpa_kontrol,574,acak,0.010788243198336576,True
+Bali,Gorontalo,3,0.01779732176993389,tanpa_kontrol,574,acak,0.06299936909711111,False
+Bali,Gorontalo,7,0.00438785623972504,tanpa_kontrol,574,acak,0.018671728679681022,True
+Bali,Gorontalo,14,0.03639729590711824,tanpa_kontrol,574,acak,0.1137415497097445,False
+Maluku Utara,Sulawesi Utara,1,0.26645272915738727,tanpa_kontrol,574,acak,0.45033095403872203,False
+Maluku Utara,Sulawesi Utara,3,0.7997939314413803,tanpa_kontrol,574,acak,0.9246172617819426,False
+Maluku Utara,Sulawesi Utara,7,0.09859440201526208,tanpa_kontrol,574,acak,0.2347485762268145,False
+Maluku Utara,Sulawesi Utara,14,0.001491230113292656,tanpa_kontrol,574,acak,0.007746649939182628,True
+Kalimantan Barat,Sulawesi Tengah,1,0.14328782473437995,tanpa_kontrol,574,acak,0.3037167803814561,False
+Kalimantan Barat,Sulawesi Tengah,3,0.42441702779492785,tanpa_kontrol,574,acak,0.6041523527329934,False
+Kalimantan Barat,Sulawesi Tengah,7,0.03991873670820267,tanpa_kontrol,574,acak,0.11827773839467458,False
+Kalimantan Barat,Sulawesi Tengah,14,0.14445118124127238,tanpa_kontrol,574,acak,0.3037167803814561,False
+Aceh,Sulawesi Selatan,1,0.9942762046910072,tanpa_kontrol,574,acak,0.9994194706654838,False
+Aceh,Sulawesi Selatan,3,0.6130779569675673,tanpa_kontrol,574,acak,0.7648946364195137,False
+Aceh,Sulawesi Selatan,7,0.7794310280572032,tanpa_kontrol,574,acak,0.9110180326967304,False
+Aceh,Sulawesi Selatan,14,0.04076764392362483,tanpa_kontrol,574,acak,0.11990483506948478,False
+Kalimantan Tengah,Banten,1,0.6717428602285166,tanpa_kontrol,574,acak,0.8191986100347763,False
+Kalimantan Tengah,Banten,3,0.8699987766841807,tanpa_kontrol,574,acak,0.963987564192998,False
+Kalimantan Tengah,Banten,7,0.3099185088126114,tanpa_kontrol,574,acak,0.48375586146627536,False
+Kalimantan Tengah,Banten,14,0.4898641932900707,tanpa_kontrol,574,acak,0.657535829919558,False
+Gorontalo,Jawa Barat,1,0.14578405458309893,tanpa_kontrol,574,acak,0.3037167803814561,False
+Gorontalo,Jawa Barat,3,0.4465855129650921,tanpa_kontrol,574,acak,0.618111373512675,False
+Gorontalo,Jawa Barat,7,0.2373285330128853,tanpa_kontrol,574,acak,0.4236047540668402,False
+Gorontalo,Jawa Barat,14,0.12902408296578527,tanpa_kontrol,574,acak,0.28513609495201164,False
+Sumatera Utara,Papua Barat,1,0.761788144833252,tanpa_kontrol,574,acak,0.8988650676498547,False
+Sumatera Utara,Papua Barat,3,0.021662454092329954,tanpa_kontrol,574,acak,0.07469811755975847,False
+Sumatera Utara,Papua Barat,7,0.0002545113093033237,tanpa_kontrol,574,acak,0.001786044275812798,True
+Sumatera Utara,Papua Barat,14,0.0006914443063542732,tanpa_kontrol,574,acak,0.003895460880869145,True
+Kalimantan Utara,Sumatera Selatan,1,0.6033605272684164,tanpa_kontrol,574,acak,0.7565649244745033,False
+Kalimantan Utara,Sumatera Selatan,3,0.478609011511263,tanpa_kontrol,574,acak,0.6445912612946303,False
+Kalimantan Utara,Sumatera Selatan,7,0.006210446475523937,tanpa_kontrol,574,acak,0.025348761124587497,True
+Kalimantan Utara,Sumatera Selatan,14,0.04660466875023577,tanpa_kontrol,574,acak,0.1341141546769375,False
+Sumatera Selatan,Papua Barat,1,0.67589307477791,tanpa_kontrol,574,acak,0.8198882399204029,False
+Sumatera Selatan,Papua Barat,3,0.02948927484792705,tanpa_kontrol,574,acak,0.09748520610884975,False
+Sumatera Selatan,Papua Barat,7,2.329610779793673e-05,tanpa_kontrol,574,acak,0.00019017230855458556,True
+Sumatera Selatan,Papua Barat,14,0.0005154305982908221,tanpa_kontrol,574,acak,0.0030771976017362514,True
+Kalimantan Selatan,Bali,1,0.005528426124415223,tanpa_kontrol,574,acak,0.023035108851730098,True
+Kalimantan Selatan,Bali,3,0.05206233923930599,tanpa_kontrol,574,acak,0.14562892094910768,False
+Kalimantan Selatan,Bali,7,0.24178598658405698,tanpa_kontrol,574,acak,0.42605460191023253,False
+Kalimantan Selatan,Bali,14,0.2569942642526273,tanpa_kontrol,574,acak,0.44229761335143336,False
+Banten,Kepulauan Riau,1,0.20405882111547924,tanpa_kontrol,574,acak,0.38684136704356253,False
+Banten,Kepulauan Riau,3,0.5397969678836638,tanpa_kontrol,574,acak,0.7102591682679787,False
+Banten,Kepulauan Riau,7,0.009826106709198708,tanpa_kontrol,574,acak,0.03743278746361412,True
+Banten,Kepulauan Riau,14,0.09026158890706099,tanpa_kontrol,574,acak,0.2215008316737693,False
+Sulawesi Tengah,Papua,1,0.2993883233359972,tanpa_kontrol,574,acak,0.478309117639818,False
+Sulawesi Tengah,Papua,3,0.051859696927618076,tanpa_kontrol,574,acak,0.14562892094910768,False
+Sulawesi Tengah,Papua,7,0.002462761993479876,tanpa_kontrol,574,acak,0.011454706946418028,True
+Sulawesi Tengah,Papua,14,0.001659014305336663,tanpa_kontrol,574,acak,0.008219080428741195,True
+Sumatera Selatan,Sumatera Utara,1,0.023153596787557445,tanpa_kontrol,574,acak,0.07848676877138118,False
+Sumatera Selatan,Sumatera Utara,3,0.24698801732391007,tanpa_kontrol,574,acak,0.43331231109457913,False
+Sumatera Selatan,Sumatera Utara,7,0.009379278535722197,tanpa_kontrol,574,acak,0.03607414821431614,True
+Sumatera Selatan,Sumatera Utara,14,0.18279720228144447,tanpa_kontrol,574,acak,0.36197465798305833,False
+Aceh,Maluku,1,0.9238353765634998,tanpa_kontrol,574,acak,0.9855561162153827,False
+Aceh,Maluku,3,0.967022790574926,tanpa_kontrol,574,acak,0.9994194706654838,False
+Aceh,Maluku,7,0.9114296339388356,tanpa_kontrol,574,acak,0.9853293339879303,False
+Aceh,Maluku,14,0.269745077313507,tanpa_kontrol,574,acak,0.45335307111513784,False
+Bali,Sulawesi Barat,1,0.03810855136501116,tanpa_kontrol,574,acak,0.11668031906428226,False
+Bali,Sulawesi Barat,3,0.30582840130074335,tanpa_kontrol,574,acak,0.48345537047078363,False
+Bali,Sulawesi Barat,7,0.004012004875330808,tanpa_kontrol,574,acak,0.017443499457960036,True
+Bali,Sulawesi Barat,14,0.03866702797045565,tanpa_kontrol,574,acak,0.1171728120316838,False
+Sumatera Selatan,Gorontalo,1,0.15763797796622583,tanpa_kontrol,574,acak,0.32335995480251456,False
+Sumatera Selatan,Gorontalo,3,0.17386767906256112,tanpa_kontrol,574,acak,0.34773535812512224,False
+Sumatera Selatan,Gorontalo,7,0.00018404035529617985,tanpa_kontrol,574,acak,0.0013145739664012846,True
+Sumatera Selatan,Gorontalo,14,0.00044270496580437195,tanpa_kontrol,574,acak,0.0027669060362773244,True
+Sumatera Selatan,DI Yogyakarta,1,6.607477439986656e-08,tanpa_kontrol,574,acak,1.057196390397865e-06,True
+Sumatera Selatan,DI Yogyakarta,3,2.212725788733575e-06,tanpa_kontrol,574,acak,2.4585842097039722e-05,True
+Sumatera Selatan,DI Yogyakarta,7,1.92808051265645e-06,tanpa_kontrol,574,acak,2.203520585893086e-05,True
+Sumatera Selatan,DI Yogyakarta,14,8.146789799598751e-07,tanpa_kontrol,574,acak,9.874896726786365e-06,True
+Papua Barat,DKI Jakarta,1,0.9519352574894332,tanpa_kontrol,574,acak,0.9965071262457179,False
+Papua Barat,DKI Jakarta,3,0.34922877176118017,tanpa_kontrol,574,acak,0.5251560477611732,False
+Papua Barat,DKI Jakarta,7,0.3854527504288851,tanpa_kontrol,574,acak,0.567343138396376,False
+Papua Barat,DKI Jakarta,14,0.844725665646864,tanpa_kontrol,574,acak,0.954492277567078,False
+Gorontalo,Nusa Tenggara Timur,1,0.8662002872438291,tanpa_kontrol,574,acak,0.9636599910887723,False
+Gorontalo,Nusa Tenggara Timur,3,0.32997332126983875,tanpa_kontrol,574,acak,0.49995957768157384,False
+Gorontalo,Nusa Tenggara Timur,7,0.2166513800773892,tanpa_kontrol,574,acak,0.3993573826311322,False
+Gorontalo,Nusa Tenggara Timur,14,0.08364395361295267,tanpa_kontrol,574,acak,0.21042504053572997,False
+Kalimantan Barat,Kepulauan Bangka Belitung,1,0.0653212964322383,tanpa_kontrol,574,acak,0.173566375018847,False
+Kalimantan Barat,Kepulauan Bangka Belitung,3,0.16996066618254796,tanpa_kontrol,574,acak,0.3433548811768646,False
+Kalimantan Barat,Kepulauan Bangka Belitung,7,0.4346411500463574,tanpa_kontrol,574,acak,0.6078897203445558,False
+Kalimantan Barat,Kepulauan Bangka Belitung,14,0.7782838617133438,tanpa_kontrol,574,acak,0.9110180326967304,False
+Sumatera Utara,Jawa Tengah,1,0.18816057951087098,tanpa_kontrol,574,acak,0.365362916132711,False
+Sumatera Utara,Jawa Tengah,3,0.3069941602489476,tanpa_kontrol,574,acak,0.48345537047078363,False
+Sumatera Utara,Jawa Tengah,7,0.2251944128410964,tanpa_kontrol,574,acak,0.4057556988127863,False
+Sumatera Utara,Jawa Tengah,14,0.4241475478417692,tanpa_kontrol,574,acak,0.6041523527329934,False
+Gorontalo,Kepulauan Bangka Belitung,1,1.5026150774652424e-27,tanpa_kontrol,574,acak,1.5026150774652423e-25,True
+Gorontalo,Kepulauan Bangka Belitung,3,1.800971598533237e-32,tanpa_kontrol,574,acak,3.601943197066474e-30,True
+Gorontalo,Kepulauan Bangka Belitung,7,3.661359644503482e-35,tanpa_kontrol,574,acak,1.4645438578013926e-32,True
+Gorontalo,Kepulauan Bangka Belitung,14,1.195426987901256e-30,tanpa_kontrol,574,acak,1.593902650535008e-28,True
+Sulawesi Tenggara,Banten,1,0.20895876554255657,tanpa_kontrol,574,acak,0.39242309074988646,False
+Sulawesi Tenggara,Banten,3,0.6433011814525449,tanpa_kontrol,574,acak,0.7941989894475863,False
+Sulawesi Tenggara,Banten,7,0.450036539475674,tanpa_kontrol,574,acak,0.618111373512675,False
+Sulawesi Tenggara,Banten,14,0.4320127128127182,tanpa_kontrol,574,acak,0.6074703066078873,False
+Maluku Utara,Maluku,1,0.22020983139875658,tanpa_kontrol,574,acak,0.40038151163410285,False
+Maluku Utara,Maluku,3,0.012796672057809834,tanpa_kontrol,574,acak,0.04739508169559197,True
+Maluku Utara,Maluku,7,0.003943098735225409,tanpa_kontrol,574,acak,0.01733230213285894,True
+Maluku Utara,Maluku,14,8.672577222471246e-06,tanpa_kontrol,574,acak,8.06751369532209e-05,True
+Sulawesi Barat,Banten,1,0.10044122509603404,tanpa_kontrol,574,acak,0.23537820623645148,False
+Sulawesi Barat,Banten,3,0.28899463725377134,tanpa_kontrol,574,acak,0.4735966093211728,False
+Sulawesi Barat,Banten,7,0.544330499548449,tanpa_kontrol,574,acak,0.7138760649815725,False
+Sulawesi Barat,Banten,14,0.3969851635270712,tanpa_kontrol,574,acak,0.5753408167059003,False
+Maluku,Maluku Utara,1,1.7560143327565394e-08,tanpa_kontrol,574,acak,3.3447892052505514e-07,True
+Maluku,Maluku Utara,3,4.266813528977882e-08,tanpa_kontrol,574,acak,7.757842779959786e-07,True
+Maluku,Maluku Utara,7,4.863628065419114e-08,tanpa_kontrol,574,acak,8.458483592033242e-07,True
+Maluku,Maluku Utara,14,2.9540407822091364e-07,tanpa_kontrol,574,acak,3.938721042945516e-06,True
+Sumatera Utara,Lampung,1,0.9600755936475296,tanpa_kontrol,574,acak,0.9965071262457179,False
+Sumatera Utara,Lampung,3,0.9217102613151789,tanpa_kontrol,574,acak,0.9855561162153827,False
+Sumatera Utara,Lampung,7,0.18799407922216346,tanpa_kontrol,574,acak,0.365362916132711,False
+Sumatera Utara,Lampung,14,0.100624183166083,tanpa_kontrol,574,acak,0.23537820623645148,False
+Aceh,Kalimantan Barat,1,0.00807928769099618,tanpa_kontrol,574,acak,0.03199717897424229,True
+Aceh,Kalimantan Barat,3,0.034476784872817225,tanpa_kontrol,574,acak,0.11032571159301512,False
+Aceh,Kalimantan Barat,7,0.13144286976844569,tanpa_kontrol,574,acak,0.288885428062518,False
+Aceh,Kalimantan Barat,14,0.44538779441397885,tanpa_kontrol,574,acak,0.618111373512675,False
+Sulawesi Tengah,Riau,1,0.8672939919798951,tanpa_kontrol,574,acak,0.9636599910887723,False
+Sulawesi Tengah,Riau,3,0.17151029896316852,tanpa_kontrol,574,acak,0.34474431952395684,False
+Sulawesi Tengah,Riau,7,0.6301076522806581,tanpa_kontrol,574,acak,0.7803190740317748,False
+Sulawesi Tengah,Riau,14,0.9917516063444337,tanpa_kontrol,574,acak,0.9994194706654838,False
+Papua,Sumatera Barat,1,0.18816190180834616,tanpa_kontrol,574,acak,0.365362916132711,False
+Papua,Sumatera Barat,3,0.5602189652297627,tanpa_kontrol,574,acak,0.7271957572325177,False
+Papua,Sumatera Barat,7,0.7332262739285795,tanpa_kontrol,574,acak,0.872888421343547,False
+Papua,Sumatera Barat,14,0.9616293768271178,tanpa_kontrol,574,acak,0.9965071262457179,False
+Sulawesi Utara,Jambi,1,0.39462565509034175,tanpa_kontrol,574,acak,0.5740009528586789,False
+Sulawesi Utara,Jambi,3,0.574527743151122,tanpa_kontrol,574,acak,0.7348737218705864,False
+Sulawesi Utara,Jambi,7,0.5565859903785768,tanpa_kontrol,574,acak,0.7271957572325177,False
+Sulawesi Utara,Jambi,14,0.42283984704695815,tanpa_kontrol,574,acak,0.6041523527329934,False
+Kepulauan Bangka Belitung,Sulawesi Barat,1,0.006058946753317322,tanpa_kontrol,574,acak,0.02498534743636009,True
+Kepulauan Bangka Belitung,Sulawesi Barat,3,9.829727702726317e-05,tanpa_kontrol,574,acak,0.0007709590355079464,True
+Kepulauan Bangka Belitung,Sulawesi Barat,7,0.0027713079431057586,tanpa_kontrol,574,acak,0.012741645715428775,True
+Kepulauan Bangka Belitung,Sulawesi Barat,14,0.009274622080390003,tanpa_kontrol,574,acak,0.036017949826757295,True
+Bali,Aceh,1,0.9485201518315857,tanpa_kontrol,574,acak,0.9958216817129508,False
+Bali,Aceh,3,0.9754996252108781,tanpa_kontrol,574,acak,0.9994194706654838,False
+Bali,Aceh,7,0.9986891914220333,tanpa_kontrol,574,acak,0.9994194706654838,False
+Bali,Aceh,14,0.9994194706654838,tanpa_kontrol,574,acak,0.9994194706654838,False
+Kalimantan Selatan,DKI Jakarta,1,0.5986689240433622,tanpa_kontrol,574,acak,0.7530426717526569,False
+Kalimantan Selatan,DKI Jakarta,3,0.26046435415572977,tanpa_kontrol,574,acak,0.4433435815416677,False
+Kalimantan Selatan,DKI Jakarta,7,0.004272301916072504,tanpa_kontrol,574,acak,0.0183754921121398,True
+Kalimantan Selatan,DKI Jakarta,14,0.0004887338677911874,tanpa_kontrol,574,acak,0.0030075930325611532,True
+Sumatera Selatan,Jawa Tengah,1,0.08996017871713953,tanpa_kontrol,574,acak,0.2215008316737693,False
+Sumatera Selatan,Jawa Tengah,3,0.06716864743691019,tanpa_kontrol,574,acak,0.1767595985181847,False
+Sumatera Selatan,Jawa Tengah,7,0.2591359831953763,tanpa_kontrol,574,acak,0.4429674926416689,False
+Sumatera Selatan,Jawa Tengah,14,0.31280880480049184,tanpa_kontrol,574,acak,0.48497489116355325,False
+Maluku,Kepulauan Bangka Belitung,1,2.8280241981672964e-17,tanpa_kontrol,574,acak,1.1312096792669184e-15,True
+Maluku,Kepulauan Bangka Belitung,3,6.278127025606921e-22,tanpa_kontrol,574,acak,3.587501157489669e-20,True
+Maluku,Kepulauan Bangka Belitung,7,2.4896236141938614e-24,tanpa_kontrol,574,acak,1.9916988913550892e-22,True
+Maluku,Kepulauan Bangka Belitung,14,2.9883891100728634e-22,tanpa_kontrol,574,acak,1.9922594067152424e-20,True
+Banten,Maluku Utara,1,0.8531017599073194,tanpa_kontrol,574,acak,0.9612414196138811,False
+Banten,Maluku Utara,3,0.887365836961251,tanpa_kontrol,574,acak,0.9671562255708458,False
+Banten,Maluku Utara,7,0.30013897131898576,tanpa_kontrol,574,acak,0.478309117639818,False
+Banten,Maluku Utara,14,0.6285040110876738,tanpa_kontrol,574,acak,0.7803190740317748,False
+Papua Barat,Sumatera Utara,1,0.13844830420239806,tanpa_kontrol,574,acak,0.30097457435303926,False
+Papua Barat,Sumatera Utara,3,0.3148300176551078,tanpa_kontrol,574,acak,0.4854853512230257,False
+Papua Barat,Sumatera Utara,7,0.8835545901740026,tanpa_kontrol,574,acak,0.9658863797168533,False
+Papua Barat,Sumatera Utara,14,0.9308460075949928,tanpa_kontrol,574,acak,0.9876350213209473,False
+Papua Barat,Kalimantan Barat,1,0.03694611677065663,tanpa_kontrol,574,acak,0.11456160238963296,False
+Papua Barat,Kalimantan Barat,3,0.11008568634767779,tanpa_kontrol,574,acak,0.25453337883856136,False
+Papua Barat,Kalimantan Barat,7,0.8168456640198356,tanpa_kontrol,574,acak,0.9363959735116927,False
+Papua Barat,Kalimantan Barat,14,0.9924772241023117,tanpa_kontrol,574,acak,0.9994194706654838,False
+Jawa Barat,Maluku Utara,1,3.6167335852929695e-09,tanpa_kontrol,574,acak,8.506075405797022e-08,True
+Jawa Barat,Maluku Utara,3,5.223667105624973e-09,tanpa_kontrol,574,acak,1.099719390657889e-07,True
+Jawa Barat,Maluku Utara,7,7.020501155036226e-07,tanpa_kontrol,574,acak,8.775626443795283e-06,True
+Jawa Barat,Maluku Utara,14,3.82773393260866e-09,tanpa_kontrol,574,acak,8.506075405797022e-08,True
+Lampung,Bali,1,0.0005101416777927834,tanpa_kontrol,574,acak,0.0030771976017362514,True
+Lampung,Bali,3,0.0007859127023195215,tanpa_kontrol,574,acak,0.004306370971613817,True
+Lampung,Bali,7,0.0011899136045874338,tanpa_kontrol,574,acak,0.0064319654302023455,True
+Lampung,Bali,14,0.007797202886781743,tanpa_kontrol,574,acak,0.031188811547126973,True
+Kepulauan Bangka Belitung,Sumatera Utara,1,0.043654340834414676,tanpa_kontrol,574,acak,0.1272155018601285,False
+Kepulauan Bangka Belitung,Sumatera Utara,3,0.022722321076496188,tanpa_kontrol,574,acak,0.07768314897947415,False
+Kepulauan Bangka Belitung,Sumatera Utara,7,0.03953269929319458,tanpa_kontrol,574,acak,0.11827773839467458,False
+Kepulauan Bangka Belitung,Sumatera Utara,14,0.3632138640659744,tanpa_kontrol,574,acak,0.5421102448745886,False
+DI Yogyakarta,Sumatera Utara,1,0.0005787371107347742,tanpa_kontrol,574,acak,0.0033549977433899956,True
+DI Yogyakarta,Sumatera Utara,3,0.011292373610919455,tanpa_kontrol,574,acak,0.04261273060724322,True
+DI Yogyakarta,Sumatera Utara,7,0.015308584284541469,tanpa_kontrol,574,acak,0.05617829095244575,False
+DI Yogyakarta,Sumatera Utara,14,0.1441465041211366,tanpa_kontrol,574,acak,0.3037167803814561,False
+Kalimantan Timur,Nusa Tenggara Barat,1,0.02613696420456064,tanpa_kontrol,574,acak,0.08785534186406939,False
+Kalimantan Timur,Nusa Tenggara Barat,3,0.2981764276030137,tanpa_kontrol,574,acak,0.478309117639818,False
+Kalimantan Timur,Nusa Tenggara Barat,7,0.5785675581664899,tanpa_kontrol,574,acak,0.735697848157498,False
+Kalimantan Timur,Nusa Tenggara Barat,14,0.7801348641277425,tanpa_kontrol,574,acak,0.9110180326967304,False
+Maluku Utara,Jawa Barat,1,0.24086787265520335,tanpa_kontrol,574,acak,0.42605460191023253,False
+Maluku Utara,Jawa Barat,3,0.7239239054069582,tanpa_kontrol,574,acak,0.8643867527247261,False
+Maluku Utara,Jawa Barat,7,0.10968445312818277,tanpa_kontrol,574,acak,0.25453337883856136,False
+Maluku Utara,Jawa Barat,14,1.8938630628026803e-05,tanpa_kontrol,574,acak,0.00015782192190022336,True
+Jambi,Banten,1,0.7922717332341007,tanpa_kontrol,574,acak,0.9185759225902617,False
+Jambi,Banten,3,0.865210241010058,tanpa_kontrol,574,acak,0.9636599910887723,False
+Jambi,Banten,7,0.3944649629709738,tanpa_kontrol,574,acak,0.5740009528586789,False
+Jambi,Banten,14,0.6764077979343324,tanpa_kontrol,574,acak,0.8198882399204029,False
+Kepulauan Riau,Sumatera Utara,1,0.11182673494307765,tanpa_kontrol,574,acak,0.2570729538921325,False
+Kepulauan Riau,Sumatera Utara,3,0.14328789180026577,tanpa_kontrol,574,acak,0.3037167803814561,False
+Kepulauan Riau,Sumatera Utara,7,0.0019239801839000367,tanpa_kontrol,574,acak,0.009385269189756277,True
+Kepulauan Riau,Sumatera Utara,14,0.015710150284533157,tanpa_kontrol,574,acak,0.05696382272721381,False
+Nusa Tenggara Timur,Sulawesi Utara,1,0.9573583221517736,tanpa_kontrol,574,acak,0.9965071262457179,False
+Nusa Tenggara Timur,Sulawesi Utara,3,0.6933064174836634,tanpa_kontrol,574,acak,0.8328005014818779,False
+Nusa Tenggara Timur,Sulawesi Utara,7,0.8322431725682687,tanpa_kontrol,574,acak,0.9511350543637357,False
+Nusa Tenggara Timur,Sulawesi Utara,14,0.051955860883967704,tanpa_kontrol,574,acak,0.14562892094910768,False
+Jawa Barat,Sulawesi Selatan,1,8.259128584126354e-10,tanpa_kontrol,574,acak,2.0647821460315883e-08,True
+Jawa Barat,Sulawesi Selatan,3,6.911095828971926e-13,tanpa_kontrol,574,acak,1.842958887725847e-11,True
+Jawa Barat,Sulawesi Selatan,7,1.4619822364764127e-15,tanpa_kontrol,574,acak,5.3162990417324094e-14,True
+Jawa Barat,Sulawesi Selatan,14,2.648168222062648e-14,tanpa_kontrol,574,acak,7.566194920178993e-13,True
+Sulawesi Selatan,Nusa Tenggara Barat,1,0.16156476594856034,tanpa_kontrol,574,acak,0.3297240121399191,False
+Sulawesi Selatan,Nusa Tenggara Barat,3,0.597874675029212,tanpa_kontrol,574,acak,0.7530426717526569,False
+Sulawesi Selatan,Nusa Tenggara Barat,7,0.6534384614298823,tanpa_kontrol,574,acak,0.8017649833495488,False
+Sulawesi Selatan,Nusa Tenggara Barat,14,0.5793620554240296,tanpa_kontrol,574,acak,0.735697848157498,False
+Sulawesi Utara,Sumatera Utara,1,0.9817301629579774,tanpa_kontrol,574,acak,0.9994194706654838,False
+Sulawesi Utara,Sumatera Utara,3,0.40422533242775616,tanpa_kontrol,574,acak,0.5816191833492895,False
+Sulawesi Utara,Sumatera Utara,7,0.37384906123898853,tanpa_kontrol,574,acak,0.5559093847419904,False
+Sulawesi Utara,Sumatera Utara,14,0.8981062756062881,tanpa_kontrol,574,acak,0.9735569383265996,False
+Sulawesi Tengah,Sumatera Utara,1,0.14340833747675655,tanpa_kontrol,574,acak,0.3037167803814561,False
+Sulawesi Tengah,Sumatera Utara,3,0.038212804493552445,tanpa_kontrol,574,acak,0.11668031906428226,False
+Sulawesi Tengah,Sumatera Utara,7,0.13241541438370466,tanpa_kontrol,574,acak,0.28943259974580254,False
+Sulawesi Tengah,Sumatera Utara,14,0.34259791655931476,tanpa_kontrol,574,acak,0.5171289306555694,False
+Sulawesi Tenggara,Kalimantan Utara,1,0.0006027178887377095,dengan_kontrol,574,acak,0.005606678034769391,True
+Sulawesi Tenggara,Kalimantan Utara,3,0.00016030022442629877,dengan_kontrol,574,acak,0.002003752805328735,True
+Sulawesi Tenggara,Kalimantan Utara,7,0.00012756165592349246,dengan_kontrol,574,acak,0.0017008220789798995,True
+Sulawesi Tenggara,Kalimantan Utara,14,0.000816671134916821,dengan_kontrol,574,acak,0.007101488129711487,True
+Jawa Barat,Nusa Tenggara Barat,1,0.0590239619850675,dengan_kontrol,574,acak,0.20710162100023685,False
+Jawa Barat,Nusa Tenggara Barat,3,5.0378780661503456e-05,dengan_kontrol,574,acak,0.000839646344358391,True
+Jawa Barat,Nusa Tenggara Barat,7,2.7975306641327146e-06,dengan_kontrol,574,acak,6.993826660331787e-05,True
+Jawa Barat,Nusa Tenggara Barat,14,2.5067690324926473e-05,dengan_kontrol,574,acak,0.0004774798157128852,True
+Maluku,Papua,1,0.017552307358826038,dengan_kontrol,574,acak,0.07888677464640916,False
+Maluku,Papua,3,0.2223561455766803,dengan_kontrol,574,acak,0.4730981820780432,False
+Maluku,Papua,7,0.14859823504980446,dengan_kontrol,574,acak,0.3789039560620724,False
+Maluku,Papua,14,0.18803480727513386,dengan_kontrol,574,acak,0.4192103503965197,False
+Banten,Nusa Tenggara Timur,1,0.8829457585679252,dengan_kontrol,574,acak,0.9393039984765162,False
+Banten,Nusa Tenggara Timur,3,0.9860012121000346,dengan_kontrol,574,acak,0.992769026657677,False
+Banten,Nusa Tenggara Timur,7,0.992769026657677,dengan_kontrol,574,acak,0.992769026657677,False
+Banten,Nusa Tenggara Timur,14,0.6926441479003828,dengan_kontrol,574,acak,0.8370322029007646,False
+Bali,Papua Barat,1,0.8347562364532294,dengan_kontrol,574,acak,0.9173145455529993,False
+Bali,Papua Barat,3,0.7754945028375841,dengan_kontrol,574,acak,0.8939417900145061,False
+Bali,Papua Barat,7,0.18890756161752337,dengan_kontrol,574,acak,0.4192103503965197,False
+Bali,Papua Barat,14,0.1089596374408644,dengan_kontrol,574,acak,0.3131090763981499,False
+Sulawesi Utara,Bali,1,0.7954787705243689,dengan_kontrol,574,acak,0.9065285134180843,False
+Sulawesi Utara,Bali,3,0.9905412189078405,dengan_kontrol,574,acak,0.992769026657677,False
+Sulawesi Utara,Bali,7,0.6434225920214134,dengan_kontrol,574,acak,0.7968081634940104,False
+Sulawesi Utara,Bali,14,0.9488432125296683,dengan_kontrol,574,acak,0.9787340968275849,False
+Nusa Tenggara Barat,Sumatera Utara,1,0.557878480131882,dengan_kontrol,574,acak,0.7601933020390326,False
+Nusa Tenggara Barat,Sumatera Utara,3,0.2753181110443627,dengan_kontrol,574,acak,0.5301471644591161,False
+Nusa Tenggara Barat,Sumatera Utara,7,0.15699103607262738,dengan_kontrol,574,acak,0.38775725708329606,False
+Nusa Tenggara Barat,Sumatera Utara,14,0.4293633293621563,dengan_kontrol,574,acak,0.652537116187897,False
+Kalimantan Selatan,Nusa Tenggara Timur,1,0.8401161394235173,dengan_kontrol,574,acak,0.9191293618907597,False
+Kalimantan Selatan,Nusa Tenggara Timur,3,0.9614331607494765,dengan_kontrol,574,acak,0.9787340968275849,False
+Kalimantan Selatan,Nusa Tenggara Timur,7,0.14260281065179964,dengan_kontrol,574,acak,0.37281780562561995,False
+Kalimantan Selatan,Nusa Tenggara Timur,14,0.027060748789634825,dengan_kontrol,574,acak,0.11275311995681178,False
+Riau,Sulawesi Selatan,1,0.16414290287705943,dengan_kontrol,574,acak,0.39315665359774715,False
+Riau,Sulawesi Selatan,3,0.3753319110799964,dengan_kontrol,574,acak,0.6127867935999941,False
+Riau,Sulawesi Selatan,7,0.77262552780726,dengan_kontrol,574,acak,0.8932087026673526,False
+Riau,Sulawesi Selatan,14,0.5333770178350548,dengan_kontrol,574,acak,0.7459818431259507,False
+Sulawesi Tengah,Kepulauan Bangka Belitung,1,1.8139853968113492e-05,dengan_kontrol,574,acak,0.00036279707936226984,True
+Sulawesi Tengah,Kepulauan Bangka Belitung,3,3.186226215587194e-05,dengan_kontrol,574,acak,0.0005793138573794898,True
+Sulawesi Tengah,Kepulauan Bangka Belitung,7,0.0006740280893143142,dengan_kontrol,574,acak,0.0061275280846755835,True
+Sulawesi Tengah,Kepulauan Bangka Belitung,14,0.006913258704983177,dengan_kontrol,574,acak,0.038406992805462094,True
+Kalimantan Utara,Banten,1,0.14918640006721468,dengan_kontrol,574,acak,0.3789039560620724,False
+Kalimantan Utara,Banten,3,0.4071198691464125,dengan_kontrol,574,acak,0.6367062717801094,False
+Kalimantan Utara,Banten,7,0.8459880299091971,dengan_kontrol,574,acak,0.9220577982661549,False
+Kalimantan Utara,Banten,14,0.9459709579469802,dengan_kontrol,574,acak,0.9787340968275849,False
+Jambi,Nusa Tenggara Barat,1,0.010985608300790059,dengan_kontrol,574,acak,0.05424991753476572,False
+Jambi,Nusa Tenggara Barat,3,0.002713785645636567,dengan_kontrol,574,acak,0.019384183183118336,True
+Jambi,Nusa Tenggara Barat,7,0.0040611689600740545,dengan_kontrol,574,acak,0.025651812174437523,True
+Jambi,Nusa Tenggara Barat,14,0.010550425984006517,dengan_kontrol,574,acak,0.05308582497121913,False
+DI Yogyakarta,Riau,1,0.6229964447994941,dengan_kontrol,574,acak,0.7886202903170139,False
+DI Yogyakarta,Riau,3,0.9606046916213374,dengan_kontrol,574,acak,0.9787340968275849,False
+DI Yogyakarta,Riau,7,0.6882373101882135,dengan_kontrol,574,acak,0.8370322029007646,False
+DI Yogyakarta,Riau,14,0.8253028360934704,dengan_kontrol,574,acak,0.911387750792356,False
+Kalimantan Timur,Jawa Tengah,1,0.05712765419610487,dengan_kontrol,574,acak,0.2051042237992556,False
+Kalimantan Timur,Jawa Tengah,3,0.17940196497186373,dengan_kontrol,574,acak,0.41241831028014647,False
+Kalimantan Timur,Jawa Tengah,7,0.10635899699294563,dengan_kontrol,574,acak,0.31282057939101654,False
+Kalimantan Timur,Jawa Tengah,14,0.16769732479121371,dengan_kontrol,574,acak,0.39927934474098503,False
+Sulawesi Barat,Bali,1,0.1317155622862521,dengan_kontrol,574,acak,0.35359882492953587,False
+Sulawesi Barat,Bali,3,0.47509176029703604,dengan_kontrol,574,acak,0.6935818549885272,False
+Sulawesi Barat,Bali,7,0.6101339760749454,dengan_kontrol,574,acak,0.7781449748608389,False
+Sulawesi Barat,Bali,14,0.0022055018534474034,dengan_kontrol,574,acak,0.016645297007150214,True
+Maluku Utara,Sulawesi Tengah,1,0.6053683190437026,dengan_kontrol,574,acak,0.7781449748608389,False
+Maluku Utara,Sulawesi Tengah,3,0.8251105149660066,dengan_kontrol,574,acak,0.911387750792356,False
+Maluku Utara,Sulawesi Tengah,7,0.7240802555053711,dengan_kontrol,574,acak,0.8645734394093983,False
+Maluku Utara,Sulawesi Tengah,14,0.5820159986185882,dengan_kontrol,574,acak,0.7668178022596069,False
+Jambi,Jawa Barat,1,0.09654410644212277,dengan_kontrol,574,acak,0.29337774404211514,False
+Jambi,Jawa Barat,3,0.034566733561969744,dengan_kontrol,574,acak,0.14108870841620305,False
+Jambi,Jawa Barat,7,0.3431447236008755,dengan_kontrol,574,acak,0.5941899975772735,False
+Jambi,Jawa Barat,14,0.562672981731533,dengan_kontrol,574,acak,0.7601933020390326,False
+Kalimantan Timur,Kepulauan Riau,1,0.039354612267444786,dengan_kontrol,574,acak,0.15585985056413776,False
+Kalimantan Timur,Kepulauan Riau,3,0.27451660241723413,dengan_kontrol,574,acak,0.5301471644591161,False
+Kalimantan Timur,Kepulauan Riau,7,0.40430182564070366,dengan_kontrol,574,acak,0.636695788410557,False
+Kalimantan Timur,Kepulauan Riau,14,0.9236615599024177,dengan_kontrol,574,acak,0.9646595925873814,False
+DI Yogyakarta,Bali,1,0.37025730842368176,dengan_kontrol,574,acak,0.6094770509031798,False
+DI Yogyakarta,Bali,3,0.48813118487290197,dengan_kontrol,574,acak,0.7026924896211205,False
+DI Yogyakarta,Bali,7,0.3666116713670084,dengan_kontrol,574,acak,0.6084841018539558,False
+DI Yogyakarta,Bali,14,0.9120990072158301,dengan_kontrol,574,acak,0.9550774944668379,False
+Gorontalo,DI Yogyakarta,1,8.055386989572777e-09,dengan_kontrol,574,acak,5.370257993048518e-07,True
+Gorontalo,DI Yogyakarta,3,1.0682559340452276e-07,dengan_kontrol,574,acak,4.27302373618091e-06,True
+Gorontalo,DI Yogyakarta,7,2.293291252748494e-08,dengan_kontrol,574,acak,1.0192405567771085e-06,True
+Gorontalo,DI Yogyakarta,14,1.4418180721378201e-06,dengan_kontrol,574,acak,3.84484819236752e-05,True
+Sulawesi Tenggara,Lampung,1,0.8733509966006311,dengan_kontrol,574,acak,0.9390870931189581,False
+Sulawesi Tenggara,Lampung,3,0.05742918266379158,dengan_kontrol,574,acak,0.2051042237992556,False
+Sulawesi Tenggara,Lampung,7,0.0020321360990446,dengan_kontrol,574,acak,0.015631816146496922,True
+Sulawesi Tenggara,Lampung,14,0.034097783038551245,dengan_kontrol,574,acak,0.1406094145919639,False
+Sulawesi Barat,Jawa Timur,1,0.01529129447331559,dengan_kontrol,574,acak,0.07281568796816948,False
+Sulawesi Barat,Jawa Timur,3,0.09754809989400329,dengan_kontrol,574,acak,0.29337774404211514,False
+Sulawesi Barat,Jawa Timur,7,0.0028451231138505654,dengan_kontrol,574,acak,0.01996577623754783,True
+Sulawesi Barat,Jawa Timur,14,0.008067498382995784,dengan_kontrol,574,acak,0.04360809936754478,True
+Kalimantan Timur,Sumatera Barat,1,0.042749238828469885,dengan_kontrol,574,acak,0.16442014934026877,False
+Kalimantan Timur,Sumatera Barat,3,0.12432852362701732,dengan_kontrol,574,acak,0.3432009612013604,False
+Kalimantan Timur,Sumatera Barat,7,0.3196483031224974,dengan_kontrol,574,acak,0.5722967377303184,False
+Kalimantan Timur,Sumatera Barat,14,0.25259984664206525,dengan_kontrol,574,acak,0.512037002738971,False
+Kalimantan Utara,Jawa Barat,1,0.6234242222672383,dengan_kontrol,574,acak,0.7886202903170139,False
+Kalimantan Utara,Jawa Barat,3,0.25098289159828446,dengan_kontrol,574,acak,0.512037002738971,False
+Kalimantan Utara,Jawa Barat,7,0.5211947281472102,dengan_kontrol,574,acak,0.7315013728381898,False
+Kalimantan Utara,Jawa Barat,14,0.7216942897162489,dengan_kontrol,574,acak,0.8643045385823341,False
+Kalimantan Timur,Papua,1,0.6432541091364209,dengan_kontrol,574,acak,0.7968081634940104,False
+Kalimantan Timur,Papua,3,0.7699917475917555,dengan_kontrol,574,acak,0.8932087026673526,False
+Kalimantan Timur,Papua,7,0.00020700849265858069,dengan_kontrol,574,acak,0.0024353940312774195,True
+Kalimantan Timur,Papua,14,1.4562285112954564e-05,dengan_kontrol,574,acak,0.00030657442343062243,True
+Nusa Tenggara Barat,Kepulauan Bangka Belitung,1,0.417391479040801,dengan_kontrol,574,acak,0.6396804276487371,False
+Nusa Tenggara Barat,Kepulauan Bangka Belitung,3,0.21615014892234719,dengan_kontrol,574,acak,0.4623532597269458,False
+Nusa Tenggara Barat,Kepulauan Bangka Belitung,7,0.05878727386798026,dengan_kontrol,574,acak,0.20710162100023685,False
+Nusa Tenggara Barat,Kepulauan Bangka Belitung,14,0.12441034843549315,dengan_kontrol,574,acak,0.3432009612013604,False
+Lampung,Papua Barat,1,0.2435788190046964,dengan_kontrol,574,acak,0.5074558729264509,False
+Lampung,Papua Barat,3,0.4798572509403902,dengan_kontrol,574,acak,0.695445291217957,False
+Lampung,Papua Barat,7,0.7444884897792879,dengan_kontrol,574,acak,0.878452495314794,False
+Lampung,Papua Barat,14,0.3391927822344373,dengan_kontrol,574,acak,0.5924764755186677,False
+Sulawesi Barat,Riau,1,0.3950959784946516,dengan_kontrol,574,acak,0.6296350254894847,False
+Sulawesi Barat,Riau,3,0.13874998946541095,dengan_kontrol,574,acak,0.36513155122476565,False
+Sulawesi Barat,Riau,7,0.39888798802799863,dengan_kontrol,574,acak,0.6316728632044855,False
+Sulawesi Barat,Riau,14,0.8063101434912137,dengan_kontrol,574,acak,0.9110849078996764,False
+Aceh,Riau,1,0.6400767191169571,dengan_kontrol,574,acak,0.7968081634940104,False
+Aceh,Riau,3,0.9742268168280888,dengan_kontrol,574,acak,0.9874689901259546,False
+Aceh,Riau,7,0.7719629767320833,dengan_kontrol,574,acak,0.8932087026673526,False
+Aceh,Riau,14,0.2995235228873201,dengan_kontrol,574,acak,0.5624854889902725,False
+Jambi,Jawa Tengah,1,0.16372843673212828,dengan_kontrol,574,acak,0.39315665359774715,False
+Jambi,Jawa Tengah,3,0.0003679058360358548,dengan_kontrol,574,acak,0.003872693010903735,True
+Jambi,Jawa Tengah,7,0.0024241046916631975,dengan_kontrol,574,acak,0.017956331049357017,True
+Jambi,Jawa Tengah,14,0.004104289947910004,dengan_kontrol,574,acak,0.025651812174437523,True
+Papua Barat,Aceh,1,0.7788333559446536,dengan_kontrol,574,acak,0.895210753959372,False
+Papua Barat,Aceh,3,0.5623067796836188,dengan_kontrol,574,acak,0.7601933020390326,False
+Papua Barat,Aceh,7,0.8693691297695715,dengan_kontrol,574,acak,0.9390870931189581,False
+Papua Barat,Aceh,14,0.8602830273884282,dengan_kontrol,574,acak,0.9350902471613349,False
+Jawa Barat,Papua Barat,1,0.320612010221925,dengan_kontrol,574,acak,0.5722967377303184,False
+Jawa Barat,Papua Barat,3,0.4146049258574631,dengan_kontrol,574,acak,0.6396804276487371,False
+Jawa Barat,Papua Barat,7,0.009711729979916497,dengan_kontrol,574,acak,0.05111436831534998,False
+Jawa Barat,Papua Barat,14,0.004818631337883209,dengan_kontrol,574,acak,0.028344890222842402,True
+Kalimantan Barat,Kepulauan Riau,1,0.07528176510403557,dengan_kontrol,574,acak,0.24232232966587006,False
+Kalimantan Barat,Kepulauan Riau,3,0.2523202142281196,dengan_kontrol,574,acak,0.512037002738971,False
+Kalimantan Barat,Kepulauan Riau,7,0.20883268801869329,dengan_kontrol,574,acak,0.45153013625663413,False
+Kalimantan Barat,Kepulauan Riau,14,0.47845407759368497,dengan_kontrol,574,acak,0.695445291217957,False
+DKI Jakarta,Sulawesi Tengah,1,0.18307530369455385,dengan_kontrol,574,acak,0.4180087354210041,False
+DKI Jakarta,Sulawesi Tengah,3,0.25345831635579064,dengan_kontrol,574,acak,0.512037002738971,False
+DKI Jakarta,Sulawesi Tengah,7,0.10232160068106298,dengan_kontrol,574,acak,0.3054376139733223,False
+DKI Jakarta,Sulawesi Tengah,14,0.1610680836994852,dengan_kontrol,574,acak,0.39315665359774715,False
+Jawa Barat,Kalimantan Selatan,1,0.009498102268194456,dengan_kontrol,574,acak,0.05065654543037043,False
+Jawa Barat,Kalimantan Selatan,3,0.003995059930770527,dengan_kontrol,574,acak,0.025651812174437523,True
+Jawa Barat,Kalimantan Selatan,7,0.0012254717215943853,dengan_kontrol,574,acak,0.010212264346619877,True
+Jawa Barat,Kalimantan Selatan,14,0.00014770547703381862,dengan_kontrol,574,acak,0.0019058771230170146,True
+Sumatera Utara,Papua,1,0.10735646619318459,dengan_kontrol,574,acak,0.3131090763981499,False
+Sumatera Utara,Papua,3,0.2965488547099898,dengan_kontrol,574,acak,0.559526140962245,False
+Sumatera Utara,Papua,7,0.6804900840757409,dengan_kontrol,574,acak,0.8324037725697135,False
+Sumatera Utara,Papua,14,0.39120035550861865,dengan_kontrol,574,acak,0.6284343060379416,False
+Papua Barat,Nusa Tenggara Timur,1,0.3384256214548579,dengan_kontrol,574,acak,0.5924764755186677,False
+Papua Barat,Nusa Tenggara Timur,3,0.20417917465109156,dengan_kontrol,574,acak,0.4462932779258832,False
+Papua Barat,Nusa Tenggara Timur,7,0.17403988401735696,dengan_kontrol,574,acak,0.4048104510130156,False
+Papua Barat,Nusa Tenggara Timur,14,0.1088456471050116,dengan_kontrol,574,acak,0.3131090763981499,False
+Sulawesi Selatan,Aceh,1,0.43230583947448176,dengan_kontrol,574,acak,0.652537116187897,False
+Sulawesi Selatan,Aceh,3,0.6632356622261146,dengan_kontrol,574,acak,0.8188094595384131,False
+Sulawesi Selatan,Aceh,7,0.6309581487225777,dengan_kontrol,574,acak,0.7886976859032221,False
+Sulawesi Selatan,Aceh,14,0.3164804671338729,dengan_kontrol,574,acak,0.5722967377303184,False
+Kalimantan Timur,Banten,1,0.3059301457095025,dengan_kontrol,574,acak,0.566537306869449,False
+Kalimantan Timur,Banten,3,0.29588379522641534,dengan_kontrol,574,acak,0.559526140962245,False
+Kalimantan Timur,Banten,7,0.5601749615215865,dengan_kontrol,574,acak,0.7601933020390326,False
+Kalimantan Timur,Banten,14,0.5815520904239069,dengan_kontrol,574,acak,0.7668178022596069,False
+Aceh,DKI Jakarta,1,0.7632464953083786,dengan_kontrol,574,acak,0.8900833764529197,False
+Aceh,DKI Jakarta,3,0.3479790761175847,dengan_kontrol,574,acak,0.5973889718756819,False
+Aceh,DKI Jakarta,7,0.7283399585698032,dengan_kontrol,574,acak,0.8670713792497657,False
+Aceh,DKI Jakarta,14,0.4251215063996624,dengan_kontrol,574,acak,0.6490404677857441,False
+Sulawesi Barat,Kalimantan Timur,1,0.001153269156419365,dengan_kontrol,574,acak,0.009815056650377576,True
+Sulawesi Barat,Kalimantan Timur,3,0.004492048998623331,dengan_kontrol,574,acak,0.027224539385595943,True
+Sulawesi Barat,Kalimantan Timur,7,0.18969268355442517,dengan_kontrol,574,acak,0.4192103503965197,False
+Sulawesi Barat,Kalimantan Timur,14,0.02273877784502339,dengan_kontrol,574,acak,0.09759179105807647,False
+Sulawesi Selatan,Jawa Tengah,1,0.5915061062508897,dengan_kontrol,574,acak,0.7728596674789538,False
+Sulawesi Selatan,Jawa Tengah,3,0.00466442841414582,dengan_kontrol,574,acak,0.02784733381579594,True
+Sulawesi Selatan,Jawa Tengah,7,0.02293407089864797,dengan_kontrol,574,acak,0.09759179105807647,False
+Sulawesi Selatan,Jawa Tengah,14,0.31982254200382426,dengan_kontrol,574,acak,0.5722967377303184,False
+Sulawesi Barat,Kalimantan Tengah,1,0.38020551870752395,dengan_kontrol,574,acak,0.6157174392024679,False
+Sulawesi Barat,Kalimantan Tengah,3,0.0970011393555055,dengan_kontrol,574,acak,0.29337774404211514,False
+Sulawesi Barat,Kalimantan Tengah,7,0.17065373384698396,dengan_kontrol,574,acak,0.40391416295144134,False
+Sulawesi Barat,Kalimantan Tengah,14,0.1496670626445186,dengan_kontrol,574,acak,0.3789039560620724,False
+DI Yogyakarta,Sulawesi Utara,1,0.6285007614470217,dengan_kontrol,574,acak,0.7886202903170139,False
+DI Yogyakarta,Sulawesi Utara,3,0.023332934720881562,dengan_kontrol,574,acak,0.09824393566686974,False
+DI Yogyakarta,Sulawesi Utara,7,0.12008526820450721,dengan_kontrol,574,acak,0.3359028481244957,False
+DI Yogyakarta,Sulawesi Utara,14,0.5698233973224305,dengan_kontrol,574,acak,0.762305548257432,False
+Papua,Kalimantan Utara,1,0.18899117177218513,dengan_kontrol,574,acak,0.4192103503965197,False
+Papua,Kalimantan Utara,3,0.43193890004640934,dengan_kontrol,574,acak,0.652537116187897,False
+Papua,Kalimantan Utara,7,0.8151956458297872,dengan_kontrol,574,acak,0.911387750792356,False
+Papua,Kalimantan Utara,14,0.6060732645456556,dengan_kontrol,574,acak,0.7781449748608389,False
+Sulawesi Tenggara,Kalimantan Tengah,1,0.399533085976837,dengan_kontrol,574,acak,0.6316728632044855,False
+Sulawesi Tenggara,Kalimantan Tengah,3,0.8797104753280968,dengan_kontrol,574,acak,0.9393039984765162,False
+Sulawesi Tenggara,Kalimantan Tengah,7,0.06319777096671873,dengan_kontrol,574,acak,0.21606075544177347,False
+Sulawesi Tenggara,Kalimantan Tengah,14,0.4138740081029601,dengan_kontrol,574,acak,0.6396804276487371,False
+Sumatera Selatan,Jambi,1,0.4607369787451585,dengan_kontrol,574,acak,0.6813325379373051,False
+Sumatera Selatan,Jambi,3,0.5663440100190793,dengan_kontrol,574,acak,0.7601933020390326,False
+Sumatera Selatan,Jambi,7,0.7016883566622132,dengan_kontrol,574,acak,0.8454076586291726,False
+Sumatera Selatan,Jambi,14,0.8140738950805596,dengan_kontrol,574,acak,0.911387750792356,False
+Nusa Tenggara Timur,Sulawesi Tengah,1,0.2591978155711739,dengan_kontrol,574,acak,0.5121928452021111,False
+Nusa Tenggara Timur,Sulawesi Tengah,3,0.5602130276627362,dengan_kontrol,574,acak,0.7601933020390326,False
+Nusa Tenggara Timur,Sulawesi Tengah,7,0.7411104811392065,dengan_kontrol,574,acak,0.878452495314794,False
+Nusa Tenggara Timur,Sulawesi Tengah,14,0.9510445299867551,dengan_kontrol,574,acak,0.9787340968275849,False
+Bali,Gorontalo,1,0.01654007767609464,dengan_kontrol,574,acak,0.07579533811776785,False
+Bali,Gorontalo,3,0.07395813328345795,dengan_kontrol,574,acak,0.24051425458035106,False
+Bali,Gorontalo,7,0.020624803360089126,dengan_kontrol,574,acak,0.09080775261143706,False
+Bali,Gorontalo,14,0.1039873017322014,dengan_kontrol,574,acak,0.3081105236509671,False
+Maluku Utara,Sulawesi Utara,1,0.5406554480616872,dengan_kontrol,574,acak,0.7483120388397054,False
+Maluku Utara,Sulawesi Utara,3,0.8713609747633853,dengan_kontrol,574,acak,0.9390870931189581,False
+Maluku Utara,Sulawesi Utara,7,0.3094948431672909,dengan_kontrol,574,acak,0.5672480195928196,False
+Maluku Utara,Sulawesi Utara,14,0.013678767550065644,dengan_kontrol,574,acak,0.06592177132561756,False
+Kalimantan Barat,Sulawesi Tengah,1,0.48837128028667876,dengan_kontrol,574,acak,0.7026924896211205,False
+Kalimantan Barat,Sulawesi Tengah,3,0.6910699351963348,dengan_kontrol,574,acak,0.8370322029007646,False
+Kalimantan Barat,Sulawesi Tengah,7,0.012725841312612876,dengan_kontrol,574,acak,0.06207727469567257,False
+Kalimantan Barat,Sulawesi Tengah,14,0.04115810120506245,dengan_kontrol,574,acak,0.15983728623325222,False
+Aceh,Sulawesi Selatan,1,0.30254241343540345,dengan_kontrol,574,acak,0.5654998381970158,False
+Aceh,Sulawesi Selatan,3,0.6773559148842578,dengan_kontrol,574,acak,0.8311115520052244,False
+Aceh,Sulawesi Selatan,7,0.870439768578015,dengan_kontrol,574,acak,0.9390870931189581,False
+Aceh,Sulawesi Selatan,14,0.35106596161997017,dengan_kontrol,574,acak,0.5998287414048604,False
+Kalimantan Tengah,Banten,1,0.8025667470159883,dengan_kontrol,574,acak,0.9108066265924593,False
+Kalimantan Tengah,Banten,3,0.9274609526468593,dengan_kontrol,574,acak,0.9661051590071452,False
+Kalimantan Tengah,Banten,7,0.1368844434774266,dengan_kontrol,574,acak,0.36260779729119624,False
+Kalimantan Tengah,Banten,14,0.31198641077605077,dengan_kontrol,574,acak,0.5672480195928196,False
+Gorontalo,Jawa Barat,1,0.5942443998803515,dengan_kontrol,574,acak,0.7728596674789538,False
+Gorontalo,Jawa Barat,3,0.827084383844063,dengan_kontrol,574,acak,0.911387750792356,False
+Gorontalo,Jawa Barat,7,0.47510357066714115,dengan_kontrol,574,acak,0.6935818549885272,False
+Gorontalo,Jawa Barat,14,0.13041721098174403,dengan_kontrol,574,acak,0.3524789485993082,False
+Sumatera Utara,Papua Barat,1,0.7559910574573488,dengan_kontrol,574,acak,0.8867930292754825,False
+Sumatera Utara,Papua Barat,3,0.3582487778305714,dengan_kontrol,574,acak,0.6020987862698679,False
+Sumatera Utara,Papua Barat,7,0.0665771628145002,dengan_kontrol,574,acak,0.22008979442809984,False
+Sumatera Utara,Papua Barat,14,0.010617164994243826,dengan_kontrol,574,acak,0.05308582497121913,False
+Kalimantan Utara,Sumatera Selatan,1,0.3219169149733041,dengan_kontrol,574,acak,0.5722967377303184,False
+Kalimantan Utara,Sumatera Selatan,3,0.04849619296840517,dengan_kontrol,574,acak,0.18300450176756666,False
+Kalimantan Utara,Sumatera Selatan,7,6.504100498324646e-05,dengan_kontrol,574,acak,0.0010006308458960992,True
+Kalimantan Utara,Sumatera Selatan,14,0.005613111851366309,dengan_kontrol,574,acak,0.032539778848500345,True
+Sumatera Selatan,Papua Barat,1,0.7534969816097903,dengan_kontrol,574,acak,0.8864670371879886,False
+Sumatera Selatan,Papua Barat,3,0.16252987411989037,dengan_kontrol,574,acak,0.39315665359774715,False
+Sumatera Selatan,Papua Barat,7,0.02278958383144644,dengan_kontrol,574,acak,0.09759179105807647,False
+Sumatera Selatan,Papua Barat,14,0.17178656402124953,dengan_kontrol,574,acak,0.4042036800499989,False
+Kalimantan Selatan,Bali,1,0.11037094943034784,dengan_kontrol,574,acak,0.3131090763981499,False
+Kalimantan Selatan,Bali,3,0.34665265263159584,dengan_kontrol,574,acak,0.5973889718756819,False
+Kalimantan Selatan,Bali,7,0.7597450760877673,dengan_kontrol,574,acak,0.8885907322663945,False
+Kalimantan Selatan,Bali,14,0.7078390632710205,dengan_kontrol,574,acak,0.8502571330582829,False
+Banten,Kepulauan Riau,1,0.26122321408110766,dengan_kontrol,574,acak,0.5121928452021111,False
+Banten,Kepulauan Riau,3,0.6677712421012681,dengan_kontrol,574,acak,0.8218722979707915,False
+Banten,Kepulauan Riau,7,0.0602364878863659,dengan_kontrol,574,acak,0.20951821873518575,False
+Banten,Kepulauan Riau,14,0.24350555217883144,dengan_kontrol,574,acak,0.5074558729264509,False
+Sulawesi Tengah,Papua,1,0.35757633526074095,dengan_kontrol,574,acak,0.6020987862698679,False
+Sulawesi Tengah,Papua,3,0.010558609382934887,dengan_kontrol,574,acak,0.05308582497121913,False
+Sulawesi Tengah,Papua,7,0.004297107438548584,dengan_kontrol,574,acak,0.0264437380833759,True
+Sulawesi Tengah,Papua,14,0.006509169472269718,dengan_kontrol,574,acak,0.03668300036728263,True
+Sumatera Selatan,Sumatera Utara,1,0.07621089888104388,dengan_kontrol,574,acak,0.24232232966587006,False
+Sumatera Selatan,Sumatera Utara,3,0.5023372008972972,dengan_kontrol,574,acak,0.7100172450845189,False
+Sumatera Selatan,Sumatera Utara,7,0.2136494293073685,dengan_kontrol,574,acak,0.45946113829541607,False
+Sumatera Selatan,Sumatera Utara,14,0.5737943771815166,dengan_kontrol,574,acak,0.7650591695753555,False
+Aceh,Maluku,1,0.9813162369286673,dengan_kontrol,574,acak,0.991228522150169,False
+Aceh,Maluku,3,0.9414756352682225,dengan_kontrol,574,acak,0.9781565041747766,False
+Aceh,Maluku,7,0.5846985742229502,dengan_kontrol,574,acak,0.7668178022596069,False
+Aceh,Maluku,14,0.13471201812770936,dengan_kontrol,574,acak,0.3592320483405583,False
+Bali,Sulawesi Barat,1,0.37845348610745355,dengan_kontrol,574,acak,0.6153715221259407,False
+Bali,Sulawesi Barat,3,0.9071280967313413,dengan_kontrol,574,acak,0.9523654558859226,False
+Bali,Sulawesi Barat,7,0.007185684897843891,dengan_kontrol,574,acak,0.03937361587859666,True
+Bali,Sulawesi Barat,14,0.06652991628026458,dengan_kontrol,574,acak,0.22008979442809984,False
+Sumatera Selatan,Gorontalo,1,0.3050599670313616,dengan_kontrol,574,acak,0.566537306869449,False
+Sumatera Selatan,Gorontalo,3,0.16190555595965314,dengan_kontrol,574,acak,0.39315665359774715,False
+Sumatera Selatan,Gorontalo,7,0.0007348188866282806,dengan_kontrol,574,acak,0.006531723436695828,True
+Sumatera Selatan,Gorontalo,14,0.0030852471772218853,dengan_kontrol,574,acak,0.021166111608105286,True
+Sumatera Selatan,DI Yogyakarta,1,3.3557003271904e-05,dengan_kontrol,574,acak,0.0005836000569026782,True
+Sumatera Selatan,DI Yogyakarta,3,0.0005811899081375767,dengan_kontrol,574,acak,0.005535141982262635,True
+Sumatera Selatan,DI Yogyakarta,7,0.00018831808448648975,dengan_kontrol,574,acak,0.0022826434483210877,True
+Sumatera Selatan,DI Yogyakarta,14,6.913045856162462e-05,dengan_kontrol,574,acak,0.0010241549416536982,True
+Papua Barat,DKI Jakarta,1,0.8938034060838446,dengan_kontrol,574,acak,0.9434081879883714,False
+Papua Barat,DKI Jakarta,3,0.6916668044993746,dengan_kontrol,574,acak,0.8370322029007646,False
+Papua Barat,DKI Jakarta,7,0.4143928256882343,dengan_kontrol,574,acak,0.6396804276487371,False
+Papua Barat,DKI Jakarta,14,0.9064124085982318,dengan_kontrol,574,acak,0.9523654558859226,False
+Gorontalo,Nusa Tenggara Timur,1,0.8256573221065657,dengan_kontrol,574,acak,0.911387750792356,False
+Gorontalo,Nusa Tenggara Timur,3,0.9751256277493802,dengan_kontrol,574,acak,0.9874689901259546,False
+Gorontalo,Nusa Tenggara Timur,7,0.49745732628517003,dengan_kontrol,574,acak,0.7056132287732909,False
+Gorontalo,Nusa Tenggara Timur,14,0.40749201393927004,dengan_kontrol,574,acak,0.6367062717801094,False
+Kalimantan Barat,Kepulauan Bangka Belitung,1,0.052959489898645636,dengan_kontrol,574,acak,0.19434675192163534,False
+Kalimantan Barat,Kepulauan Bangka Belitung,3,0.06578686600020779,dengan_kontrol,574,acak,0.22008979442809984,False
+Kalimantan Barat,Kepulauan Bangka Belitung,7,0.0020123130338804674,dengan_kontrol,574,acak,0.015631816146496922,True
+Kalimantan Barat,Kepulauan Bangka Belitung,14,0.0405674824080905,dengan_kontrol,574,acak,0.15908816630623726,False
+Sumatera Utara,Jawa Tengah,1,0.5405718341496728,dengan_kontrol,574,acak,0.7483120388397054,False
+Sumatera Utara,Jawa Tengah,3,0.06594072299231407,dengan_kontrol,574,acak,0.22008979442809984,False
+Sumatera Utara,Jawa Tengah,7,0.14955044520496363,dengan_kontrol,574,acak,0.3789039560620724,False
+Sumatera Utara,Jawa Tengah,14,0.08780580432222287,dengan_kontrol,574,acak,0.2701717056068396,False
+Gorontalo,Kepulauan Bangka Belitung,1,8.25840706654889e-19,dengan_kontrol,574,acak,1.1011209422065188e-16,True
+Gorontalo,Kepulauan Bangka Belitung,3,2.0274614276853328e-21,dengan_kontrol,574,acak,8.109845710741331e-19,True
+Gorontalo,Kepulauan Bangka Belitung,7,2.9817875273590605e-20,dengan_kontrol,574,acak,5.9635750547181205e-18,True
+Gorontalo,Kepulauan Bangka Belitung,14,1.211691166064026e-16,dengan_kontrol,574,acak,1.2116911660640259e-14,True
+Sulawesi Tenggara,Banten,1,0.37486684088400213,dengan_kontrol,574,acak,0.6127867935999941,False
+Sulawesi Tenggara,Banten,3,0.7432834274941573,dengan_kontrol,574,acak,0.878452495314794,False
+Sulawesi Tenggara,Banten,7,0.25823813988817595,dengan_kontrol,574,acak,0.5121928452021111,False
+Sulawesi Tenggara,Banten,14,0.25785218925463177,dengan_kontrol,574,acak,0.5121928452021111,False
+Maluku Utara,Maluku,1,0.3544653295939433,dengan_kontrol,574,acak,0.6007886942270225,False
+Maluku Utara,Maluku,3,0.003833957896633344,dengan_kontrol,574,acak,0.025140707518907176,True
+Maluku Utara,Maluku,7,0.00028366441014839733,dengan_kontrol,574,acak,0.003151826779426637,True
+Maluku Utara,Maluku,14,8.002526072656593e-05,dengan_kontrol,574,acak,0.0011189238720881961,True
+Sulawesi Barat,Banten,1,0.18587981791595598,dengan_kontrol,574,acak,0.4192103503965197,False
+Sulawesi Barat,Banten,3,0.1839238435852418,dengan_kontrol,574,acak,0.4180087354210041,False
+Sulawesi Barat,Banten,7,0.26002781099920036,dengan_kontrol,574,acak,0.5121928452021111,False
+Sulawesi Barat,Banten,14,0.1547502023028826,dengan_kontrol,574,acak,0.38687550575720653,False
+Maluku,Maluku Utara,1,0.0002434133287009709,dengan_kontrol,574,acak,0.0027818666137253817,True
+Maluku,Maluku Utara,3,0.000559206517021302,dengan_kontrol,574,acak,0.005455673336793191,True
+Maluku,Maluku Utara,7,0.0005484130232578752,dengan_kontrol,574,acak,0.005455673336793191,True
+Maluku,Maluku Utara,14,0.00312200146219553,dengan_kontrol,574,acak,0.021166111608105286,True
+Sumatera Utara,Lampung,1,0.8410033661300451,dengan_kontrol,574,acak,0.9191293618907597,False
+Sumatera Utara,Lampung,3,0.8171496924519975,dengan_kontrol,574,acak,0.911387750792356,False
+Sumatera Utara,Lampung,7,0.1535201973001899,dengan_kontrol,574,acak,0.38621433283066636,False
+Sumatera Utara,Lampung,14,0.10980957145994186,dengan_kontrol,574,acak,0.3131090763981499,False
+Aceh,Kalimantan Barat,1,0.12724490696780466,dengan_kontrol,574,acak,0.3483865788014079,False
+Aceh,Kalimantan Barat,3,0.25096537370869254,dengan_kontrol,574,acak,0.512037002738971,False
+Aceh,Kalimantan Barat,7,0.06775439557469316,dengan_kontrol,574,acak,0.22214555926128907,False
+Aceh,Kalimantan Barat,14,0.3934877383982577,dengan_kontrol,574,acak,0.6295803814372123,False
+Sulawesi Tengah,Riau,1,0.607557725460198,dengan_kontrol,574,acak,0.7781449748608389,False
+Sulawesi Tengah,Riau,3,0.14421001289382762,dengan_kontrol,574,acak,0.3745714620618899,False
+Sulawesi Tengah,Riau,7,0.4936628354367062,dengan_kontrol,574,acak,0.7056132287732909,False
+Sulawesi Tengah,Riau,14,0.893879258118982,dengan_kontrol,574,acak,0.9434081879883714,False
+Papua,Sumatera Barat,1,0.04362000759214117,dengan_kontrol,574,acak,0.16617145749387113,False
+Papua,Sumatera Barat,3,0.28832885249098383,dengan_kontrol,574,acak,0.5491978142685406,False
+Papua,Sumatera Barat,7,0.08663967662029175,dengan_kontrol,574,acak,0.26865016006292014,False
+Papua,Sumatera Barat,14,0.4368737534069204,dengan_kontrol,574,acak,0.6569530126419856,False
+Sulawesi Utara,Jambi,1,0.2057231434774886,dengan_kontrol,574,acak,0.4472242249510622,False
+Sulawesi Utara,Jambi,3,0.3378902133205841,dengan_kontrol,574,acak,0.5924764755186677,False
+Sulawesi Utara,Jambi,7,0.6108438052657585,dengan_kontrol,574,acak,0.7781449748608389,False
+Sulawesi Utara,Jambi,14,0.3696646706331158,dengan_kontrol,574,acak,0.6094770509031798,False
+Kepulauan Bangka Belitung,Sulawesi Barat,1,0.07633153384474907,dengan_kontrol,574,acak,0.24232232966587006,False
+Kepulauan Bangka Belitung,Sulawesi Barat,3,0.0005315497976082269,dengan_kontrol,574,acak,0.005451792795981815,True
+Kepulauan Bangka Belitung,Sulawesi Barat,7,0.0012947985821857748,dengan_kontrol,574,acak,0.010569784344373672,True
+Kepulauan Bangka Belitung,Sulawesi Barat,14,0.006511232565192666,dengan_kontrol,574,acak,0.03668300036728263,True
+Bali,Aceh,1,0.34297645968233303,dengan_kontrol,574,acak,0.5941899975772735,False
+Bali,Aceh,3,0.7882169751007433,dengan_kontrol,574,acak,0.9034005445280725,False
+Bali,Aceh,7,0.8772268341167297,dengan_kontrol,574,acak,0.9393039984765162,False
+Bali,Aceh,14,0.9886002605377398,dengan_kontrol,574,acak,0.992769026657677,False
+Kalimantan Selatan,DKI Jakarta,1,0.7930661156313377,dengan_kontrol,574,acak,0.9063612750072431,False
+Kalimantan Selatan,DKI Jakarta,3,0.3251457732035116,dengan_kontrol,574,acak,0.5754792446079853,False
+Kalimantan Selatan,DKI Jakarta,7,0.0036176634145306946,dengan_kontrol,574,acak,0.0241177560968713,True
+Kalimantan Selatan,DKI Jakarta,14,0.00033943323539722123,dengan_kontrol,574,acak,0.00366954849078077,True
+Sumatera Selatan,Jawa Tengah,1,0.4633061257973675,dengan_kontrol,574,acak,0.6813325379373051,False
+Sumatera Selatan,Jawa Tengah,3,0.5381920232191545,dengan_kontrol,574,acak,0.7483120388397054,False
+Sumatera Selatan,Jawa Tengah,7,0.30748746252793147,dengan_kontrol,574,acak,0.5667971659501041,False
+Sumatera Selatan,Jawa Tengah,14,0.44172086638703517,dengan_kontrol,574,acak,0.65928487520453,False
+Maluku,Kepulauan Bangka Belitung,1,2.7315108639236795e-07,dengan_kontrol,574,acak,8.40464881207286e-06,True
+Maluku,Kepulauan Bangka Belitung,3,1.8648313040071114e-08,dengan_kontrol,574,acak,9.324156520035556e-07,True
+Maluku,Kepulauan Bangka Belitung,7,1.438932687988304e-07,dengan_kontrol,574,acak,5.23248250177565e-06,True
+Maluku,Kepulauan Bangka Belitung,14,1.0722849359020718e-06,dengan_kontrol,574,acak,3.0636712454344906e-05,True
+Banten,Maluku Utara,1,0.03607343798614588,dengan_kontrol,574,acak,0.1457512645904884,False
+Banten,Maluku Utara,3,0.1768557636850728,dengan_kontrol,574,acak,0.40891506054352095,False
+Banten,Maluku Utara,7,0.11552803825711704,dengan_kontrol,574,acak,0.32543109368201983,False
+Banten,Maluku Utara,14,0.19447652131435245,dengan_kontrol,574,acak,0.42742092596560977,False
+Papua Barat,Sumatera Utara,1,0.4955858807893111,dengan_kontrol,574,acak,0.7056132287732909,False
+Papua Barat,Sumatera Utara,3,0.6289246815278186,dengan_kontrol,574,acak,0.7886202903170139,False
+Papua Barat,Sumatera Utara,7,0.887164837346864,dengan_kontrol,574,acak,0.9412889520921635,False
+Papua Barat,Sumatera Utara,14,0.9524119721237034,dengan_kontrol,574,acak,0.9787340968275849,False
+Papua Barat,Kalimantan Barat,1,0.2624988331660819,dengan_kontrol,574,acak,0.5121928452021111,False
+Papua Barat,Kalimantan Barat,3,0.5788507111778476,dengan_kontrol,574,acak,0.7668178022596069,False
+Papua Barat,Kalimantan Barat,7,0.4439524017221368,dengan_kontrol,574,acak,0.6601522702187907,False
+Papua Barat,Kalimantan Barat,14,0.9616062501331022,dengan_kontrol,574,acak,0.9787340968275849,False
+Jawa Barat,Maluku Utara,1,0.22778130530950713,dengan_kontrol,574,acak,0.48207683663387757,False
+Jawa Barat,Maluku Utara,3,1.2210310362491352e-08,dengan_kontrol,574,acak,6.977320207137915e-07,True
+Jawa Barat,Maluku Utara,7,1.96250560495228e-07,dengan_kontrol,574,acak,6.541685349840933e-06,True
+Jawa Barat,Maluku Utara,14,7.237992882178108e-10,dengan_kontrol,574,acak,5.790394305742486e-08,True
+Lampung,Bali,1,0.016114490942805686,dengan_kontrol,574,acak,0.07576516956037187,False
+Lampung,Bali,3,0.01019141848630395,dengan_kontrol,574,acak,0.05294243369508545,False
+Lampung,Bali,7,0.06252445849648935,dengan_kontrol,574,acak,0.2156015810223771,False
+Lampung,Bali,14,0.056556301503904366,dengan_kontrol,574,acak,0.2051042237992556,False
+Kepulauan Bangka Belitung,Sumatera Utara,1,0.4623652593021247,dengan_kontrol,574,acak,0.6813325379373051,False
+Kepulauan Bangka Belitung,Sumatera Utara,3,0.08130398232290599,dengan_kontrol,574,acak,0.25607553487529444,False
+Kepulauan Bangka Belitung,Sumatera Utara,7,0.052608894222316564,dengan_kontrol,574,acak,0.19434675192163534,False
+Kepulauan Bangka Belitung,Sumatera Utara,14,0.2756765255187404,dengan_kontrol,574,acak,0.5301471644591161,False
+DI Yogyakarta,Sumatera Utara,1,0.002675118736935334,dengan_kontrol,574,acak,0.019384183183118336,True
+DI Yogyakarta,Sumatera Utara,3,0.05077036417171125,dengan_kontrol,574,acak,0.18979575391293924,False
+DI Yogyakarta,Sumatera Utara,7,0.02065876371910193,dengan_kontrol,574,acak,0.09080775261143706,False
+DI Yogyakarta,Sumatera Utara,14,0.1280320677095174,dengan_kontrol,574,acak,0.3483865788014079,False
+Kalimantan Timur,Nusa Tenggara Barat,1,0.23681899418907654,dengan_kontrol,574,acak,0.4985663035559506,False
+Kalimantan Timur,Nusa Tenggara Barat,3,0.38845064954129876,dengan_kontrol,574,acak,0.6265333057117722,False
+Kalimantan Timur,Nusa Tenggara Barat,7,0.5653247282169441,dengan_kontrol,574,acak,0.7601933020390326,False
+Kalimantan Timur,Nusa Tenggara Barat,14,0.2812995735647872,dengan_kontrol,574,acak,0.5383723895976789,False
+Maluku Utara,Jawa Barat,1,0.2568682718386534,dengan_kontrol,574,acak,0.5121928452021111,False
+Maluku Utara,Jawa Barat,3,0.9600573115078442,dengan_kontrol,574,acak,0.9787340968275849,False
+Maluku Utara,Jawa Barat,7,0.3610342701387206,dengan_kontrol,574,acak,0.604241456299114,False
+Maluku Utara,Jawa Barat,14,0.0016810421177891758,dengan_kontrol,574,acak,0.013448336942313406,True
+Jambi,Banten,1,0.4963714681492897,dengan_kontrol,574,acak,0.7056132287732909,False
+Jambi,Banten,3,0.8811091055164118,dengan_kontrol,574,acak,0.9393039984765162,False
+Jambi,Banten,7,0.5951019439587945,dengan_kontrol,574,acak,0.7728596674789538,False
+Jambi,Banten,14,0.8264957374607745,dengan_kontrol,574,acak,0.911387750792356,False
+Kepulauan Riau,Sumatera Utara,1,0.6277311013683246,dengan_kontrol,574,acak,0.7886202903170139,False
+Kepulauan Riau,Sumatera Utara,3,0.5098687126874335,dengan_kontrol,574,acak,0.7181249474470894,False
+Kepulauan Riau,Sumatera Utara,7,0.3523993855753555,dengan_kontrol,574,acak,0.5998287414048604,False
+Kepulauan Riau,Sumatera Utara,14,0.5653269238157562,dengan_kontrol,574,acak,0.7601933020390326,False
+Nusa Tenggara Timur,Sulawesi Utara,1,0.5547600470869676,dengan_kontrol,574,acak,0.7601933020390326,False
+Nusa Tenggara Timur,Sulawesi Utara,3,0.8106201173371809,dengan_kontrol,574,acak,0.911387750792356,False
+Nusa Tenggara Timur,Sulawesi Utara,7,0.41626277257108185,dengan_kontrol,574,acak,0.6396804276487371,False
+Nusa Tenggara Timur,Sulawesi Utara,14,0.15704168911873492,dengan_kontrol,574,acak,0.38775725708329606,False
+Jawa Barat,Sulawesi Selatan,1,3.797462356682487e-06,dengan_kontrol,574,acak,8.935205545135262e-05,True
+Jawa Barat,Sulawesi Selatan,3,5.282153971814645e-05,dengan_kontrol,574,acak,0.0008451446354903432,True
+Jawa Barat,Sulawesi Selatan,7,7.059160495335735e-06,dengan_kontrol,574,acak,0.000156870233229683,True
+Jawa Barat,Sulawesi Selatan,14,8.112198072639422e-05,dengan_kontrol,574,acak,0.0011189238720881961,True
+Sulawesi Selatan,Nusa Tenggara Barat,1,0.1740684939355967,dengan_kontrol,574,acak,0.4048104510130156,False
+Sulawesi Selatan,Nusa Tenggara Barat,3,0.5829211613935461,dengan_kontrol,574,acak,0.7668178022596069,False
+Sulawesi Selatan,Nusa Tenggara Barat,7,0.8037868479678453,dengan_kontrol,574,acak,0.9108066265924593,False
+Sulawesi Selatan,Nusa Tenggara Barat,14,0.6080320435064366,dengan_kontrol,574,acak,0.7781449748608389,False
+Sulawesi Utara,Sumatera Utara,1,0.43895194418996075,dengan_kontrol,574,acak,0.6576059088988176,False
+Sulawesi Utara,Sumatera Utara,3,0.016289511455479952,dengan_kontrol,574,acak,0.07576516956037187,False
+Sulawesi Utara,Sumatera Utara,7,0.03905046916011217,dengan_kontrol,574,acak,0.15585985056413776,False
+Sulawesi Utara,Sumatera Utara,14,0.3663282922045082,dengan_kontrol,574,acak,0.6084841018539558,False
+Sulawesi Tengah,Sumatera Utara,1,0.3116879658748936,dengan_kontrol,574,acak,0.5672480195928196,False
+Sulawesi Tengah,Sumatera Utara,3,0.01667497438590893,dengan_kontrol,574,acak,0.07579533811776785,False
+Sulawesi Tengah,Sumatera Utara,7,0.08647003456408399,dengan_kontrol,574,acak,0.26865016006292014,False
+Sulawesi Tengah,Sumatera Utara,14,0.24982317801692713,dengan_kontrol,574,acak,0.512037002738971,False
