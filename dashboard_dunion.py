@@ -150,6 +150,20 @@ st.markdown(f"""
 
     #MainMenu, footer, header {{ visibility: hidden; }}
     .block-container {{ padding-top: 1.5rem !important; padding-bottom: 2rem !important; }}
+
+    /* Fix expander */
+    .streamlit-expanderHeader {{
+        font-family: 'IBM Plex Sans', sans-serif !important;
+        color: {WARNA['teks_utama']} !important;
+        background-color: white !important;
+        border: 1px solid {WARNA['garis']} !important;
+        border-radius: 6px !important;
+    }}
+    .streamlit-expanderContent {{
+        background-color: white !important;
+        border: 1px solid {WARNA['garis']} !important;
+        border-top: none !important;
+    }}
 </style>
 """, unsafe_allow_html=True)
 
