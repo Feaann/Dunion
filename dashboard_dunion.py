@@ -190,7 +190,7 @@ aset = muat()
 # ======================================================================
 @st.cache_data
 def muat_geojson():
-    url = "https://raw.githubusercontent.com/superpikar/indonesia-geojson/master/indonesia-province-simple.json"
+    url = "https://raw.githubusercontent.com/ans-4175/peta-indonesia-geojson/master/indonesia-prov.geojson"
     try:
         with urllib.request.urlopen(url, timeout=15) as r:
             return json.loads(r.read().decode())
@@ -198,21 +198,19 @@ def muat_geojson():
         return None
 
 geojson = muat_geojson()
-geo_key = "state"
+geo_key = "Propinsi"
 
 NAMA_KHUSUS = {
-    "Aceh":                      "Aceh",
-    "DI Yogyakarta":             "Yogyakarta",
-    "Kepulauan Bangka Belitung": "Bangka Belitung",
-    "Nusa Tenggara Barat":       "Nusa Tenggara Barat",
-    "Nusa Tenggara Timur":       "Nusa Tenggara Timur",
-    "DKI Jakarta":               "Jakarta",
+    "Aceh":                      "DI. ACEH",
+    "DI Yogyakarta":             "DAERAH ISTIMEWA YOGYAKARTA",
+    "Kepulauan Bangka Belitung": "BANGKA BELITUNG",
+    "Nusa Tenggara Barat":       "NUSATENGGARA BARAT",
 }
 
 def cari_nama_geojson(provinsi, geojson, key):
     if provinsi in NAMA_KHUSUS:
         return NAMA_KHUSUS[provinsi]
-    return provinsi
+    return provinsi.upper()
 
 
 # ======================================================================
@@ -325,21 +323,11 @@ if geojson and geo_key:
                 "Perubahan_1Hari_Persen": "Δ Harian (%)",
             },
         )
-        fig_peta.update_geos(
-            visible=False,
-            bgcolor=WARNA["latar"],
-            lonaxis_range=[94, 142],
-            lataxis_range=[-12, 8],
-        )
+        fig_peta.update_geos(fitbounds="locations", visible=False, bgcolor=WARNA["latar"])
         fig_peta.update_layout(
             margin=dict(l=0, r=0, t=0, b=0),
-            height=400,
+            height=420,
             paper_bgcolor=WARNA["latar"],
-            geo=dict(
-                projection_type="mercator",
-                lonaxis_range=[94, 142],
-                lataxis_range=[-12, 8],
-            ),
             coloraxis=dict(
                 colorbar=dict(
                     title="Skor<br>Anomali",
