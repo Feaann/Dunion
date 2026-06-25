@@ -443,8 +443,13 @@ else:
 # ======================================================================
 # TABEL LENGKAP
 # ======================================================================
-tampilkan_tabel = st.checkbox("Lihat semua provinsi")
-if tampilkan_tabel:
+if "tampilkan_tabel" not in st.session_state:
+    st.session_state.tampilkan_tabel = False
+
+if st.button("▼ Lihat semua provinsi" if not st.session_state.tampilkan_tabel else "▲ Sembunyikan tabel"):
+    st.session_state.tampilkan_tabel = not st.session_state.tampilkan_tabel
+
+if st.session_state.tampilkan_tabel:
     tabel = ringkasan[[
         "Provinsi", "level", "Skor_Anomali", "Harga_Saat_Ini",
         "Perubahan_1Hari_Persen", "Sumber_Utama", "Lag_Hari", "Prediksi_14_Hari",
