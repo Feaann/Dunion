@@ -162,9 +162,11 @@ def badge_html(level):
     teks  = {"urgent": "⚠ PERLU TINDAKAN", "waspada": "● PANTAU", "aman": "✓ STABIL"}[level]
     return f'<span class="badge {kelas}">{teks}</span>'
 
-def tentukan_level(skor, waspada, urgent):
+def tentukan_level(skor, waspada, urgent, pct_change=None):
     if skor is None or pd.isna(skor): return "aman"
-    if skor >= urgent: return "urgent"
+    sedang_turun = pct_change is not None and not pd.isna(pct_change) and pct_change < 0
+    if skor >= urgent:
+        return "waspada" if sedang_turun else "urgent"
     if skor >= waspada: return "waspada"
     return "aman"
 
@@ -188,81 +190,57 @@ aset = muat()
 # ======================================================================
 @st.cache_data
 def muat_geojson():
-    urls = [
-        "https://raw.githubusercontent.com/superpikar/indonesia-geojson/master/indonesia-province-simple.json",
-        "https://raw.githubusercontent.com/ans-4175/peta-indonesia-geojson/master/indonesia-prov.geojson",
-    ]
-    for url in urls:
-        try:
-            with urllib.request.urlopen(url, timeout=15) as r:
-                data = json.loads(r.read().decode())
-                return data
-        except Exception:
-            continue
-    return None
+    # Pakai sumber yang sudah terbukti punya key "Propinsi"
+    url = "https://raw.githubusercontent.com/ans-4175/peta-indonesia-geojson/master/indonesia-prov.geojson"
+    try:
+        with urllib.request.urlopen(url, timeout=15) as r:
+            return json.loads(r.read().decode())
+    except Exception:
+        return None
 
 geojson = muat_geojson()
+geo_key = "Propinsi"  # sudah diketahui dari inspeksi data
 
-# Cek key nama di GeoJSON (beda sumber beda key)
-def cari_key_nama(geojson):
-    if not geojson or not geojson.get("features"):
-        return None
-    props = geojson["features"][0].get("properties", {})
-    for k in ["state", "name", "NAME_1", "PROVINSI", "propinsi", "Propinsi"]:
-        if k in props:
-            return k
-    return list(props.keys())[0] if props else None
-
-geo_key = cari_key_nama(geojson)
-
+# Mapping nama data kita -> nama di GeoJSON (UPPERCASE)
 NAMA_GEOJSON = {
-    "Aceh": ["Aceh", "Nanggroe Aceh Darussalam"],
-    "Sumatera Utara": ["Sumatera Utara"],
-    "Sumatera Barat": ["Sumatera Barat"],
-    "Riau": ["Riau"],
-    "Kepulauan Riau": ["Kepulauan Riau"],
-    "Jambi": ["Jambi"],
-    "Sumatera Selatan": ["Sumatera Selatan"],
-    "Kepulauan Bangka Belitung": ["Bangka Belitung", "Kepulauan Bangka Belitung", "Bangka-Belitung"],
-    "Bengkulu": ["Bengkulu"],
-    "Lampung": ["Lampung"],
-    "DKI Jakarta": ["DKI Jakarta", "Jakarta"],
-    "Jawa Barat": ["Jawa Barat"],
-    "Jawa Tengah": ["Jawa Tengah"],
-    "DI Yogyakarta": ["DI Yogyakarta", "Yogyakarta", "D.I. Yogyakarta"],
-    "Jawa Timur": ["Jawa Timur"],
-    "Banten": ["Banten"],
-    "Bali": ["Bali"],
-    "Nusa Tenggara Barat": ["Nusa Tenggara Barat", "NTB"],
-    "Nusa Tenggara Timur": ["Nusa Tenggara Timur", "NTT"],
-    "Kalimantan Barat": ["Kalimantan Barat"],
-    "Kalimantan Tengah": ["Kalimantan Tengah"],
-    "Kalimantan Selatan": ["Kalimantan Selatan"],
-    "Kalimantan Timur": ["Kalimantan Timur"],
-    "Kalimantan Utara": ["Kalimantan Utara"],
-    "Sulawesi Utara": ["Sulawesi Utara"],
-    "Sulawesi Tengah": ["Sulawesi Tengah"],
-    "Sulawesi Selatan": ["Sulawesi Selatan"],
-    "Sulawesi Tenggara": ["Sulawesi Tenggara"],
-    "Gorontalo": ["Gorontalo"],
-    "Sulawesi Barat": ["Sulawesi Barat"],
-    "Maluku": ["Maluku"],
-    "Maluku Utara": ["Maluku Utara"],
-    "Papua Barat": ["Papua Barat"],
-    "Papua": ["Papua"],
+    "Aceh":                        "DI. ACEH",
+    "Sumatera Utara":              "SUMATERA UTARA",
+    "Sumatera Barat":              "SUMATERA BARAT",
+    "Riau":                        "RIAU",
+    "Kepulauan Riau":              "KEPULAUAN RIAU",
+    "Jambi":                       "JAMBI",
+    "Sumatera Selatan":            "SUMATERA SELATAN",
+    "Kepulauan Bangka Belitung":   "BANGKA BELITUNG",
+    "Bengkulu":                    "BENGKULU",
+    "Lampung":                     "LAMPUNG",
+    "DKI Jakarta":                 "DKI JAKARTA",
+    "Jawa Barat":                  "JAWA BARAT",
+    "Jawa Tengah":                 "JAWA TENGAH",
+    "DI Yogyakarta":               "DAERAH ISTIMEWA YOGYAKARTA",
+    "Jawa Timur":                  "JAWA TIMUR",
+    "Banten":                      "BANTEN",
+    "Bali":                        "BALI",
+    "Nusa Tenggara Barat":         "NUSATENGGARA BARAT",
+    "Nusa Tenggara Timur":         "NUSA TENGGARA TIMUR",
+    "Kalimantan Barat":            "KALIMANTAN BARAT",
+    "Kalimantan Tengah":           "KALIMANTAN TENGAH",
+    "Kalimantan Selatan":          "KALIMANTAN SELATAN",
+    "Kalimantan Timur":            "KALIMANTAN TIMUR",
+    "Kalimantan Utara":            "KALIMANTAN UTARA",
+    "Sulawesi Utara":              "SULAWESI UTARA",
+    "Sulawesi Tengah":             "SULAWESI TENGAH",
+    "Sulawesi Selatan":            "SULAWESI SELATAN",
+    "Sulawesi Tenggara":           "SULAWESI TENGGARA",
+    "Gorontalo":                   "GORONTALO",
+    "Sulawesi Barat":              "SULAWESI BARAT",
+    "Maluku":                      "MALUKU",
+    "Maluku Utara":                "MALUKU UTARA",
+    "Papua Barat":                 "PAPUA BARAT",
+    "Papua":                       "PAPUA",
 }
 
 def cari_nama_geojson(provinsi, geojson, key):
-    """Cari nama provinsi yang cocok di GeoJSON secara fleksibel."""
-    if not geojson or not key:
-        return None
-    nama_di_geo = [f["properties"].get(key, "") for f in geojson["features"]]
-    kandidat = NAMA_GEOJSON.get(provinsi, [provinsi])
-    for k in kandidat:
-        for nama in nama_di_geo:
-            if k.lower() == str(nama).lower():
-                return nama
-    return None
+    return NAMA_GEOJSON.get(provinsi, None)
 
 
 # ======================================================================
@@ -281,7 +259,19 @@ with kol_judul:
 with kol_kontrol:
     st.markdown("<div style='height:20px'></div>", unsafe_allow_html=True)
     daftar_tanggal = sorted(aset["anomali"]["Tanggal"].dt.date.unique())
-    tanggal_dipilih = st.selectbox("📅 Tanggal pemantauan", options=daftar_tanggal[::-1], index=0)
+    tgl_min = daftar_tanggal[0]
+    tgl_max = daftar_tanggal[-1]
+    tanggal_dipilih = st.date_input(
+        "📅 Tanggal pemantauan",
+        value=tgl_max,
+        min_value=tgl_min,
+        max_value=tgl_max,
+    )
+    # Snap ke tanggal terdekat yang ada di data
+    import bisect
+    idx = bisect.bisect_right(daftar_tanggal, tanggal_dipilih) - 1
+    idx = max(0, min(idx, len(daftar_tanggal) - 1))
+    tanggal_dipilih = daftar_tanggal[idx]
 
 
 # ======================================================================
@@ -290,10 +280,14 @@ with kol_kontrol:
 with st.spinner("Menyusun analisis..."):
     ringkasan = bangun_ringkasan_semua_provinsi(aset, tanggal_dipilih)
 
-AMBANG_WASPADA = ringkasan["Skor_Anomali"].quantile(0.80)
-AMBANG_URGENT  = ringkasan["Skor_Anomali"].quantile(0.95)
-ringkasan["level"] = ringkasan["Skor_Anomali"].apply(
-    lambda s: tentukan_level(s, AMBANG_WASPADA, AMBANG_URGENT)
+# Ambang batas ABSOLUT berdasarkan distribusi skor keseluruhan data
+# (bukan persentil per hari, supaya tidak selalu ada 2 urgent)
+AMBANG_WASPADA = 0.58
+AMBANG_URGENT  = 0.65
+
+ringkasan["level"] = ringkasan.apply(
+    lambda r: tentukan_level(r["Skor_Anomali"], AMBANG_WASPADA, AMBANG_URGENT, r["Perubahan_1Hari_Persen"]),
+    axis=1
 )
 
 n_urgent      = int((ringkasan["level"] == "urgent").sum())
@@ -318,7 +312,7 @@ st.markdown("<div style='height:8px'></div>", unsafe_allow_html=True)
 
 
 # ======================================================================
-# PETA CHOROPLETH
+# PETA CHOROPLETH -- gradasi skor anomali continuous
 # ======================================================================
 st.markdown('<div class="sek-header">🗺️ Peta Anomali Harga per Provinsi</div>', unsafe_allow_html=True)
 
@@ -326,7 +320,8 @@ if geojson and geo_key:
     ringkasan["nama_geo"] = ringkasan["Provinsi"].apply(
         lambda p: cari_nama_geojson(p, geojson, geo_key)
     )
-    ringkasan["level_num"] = ringkasan["level"].map({"aman": 0, "waspada": 1, "urgent": 2})
+    # Isi NaN dengan 0 supaya semua provinsi tetap muncul di peta
+    ringkasan["Skor_Anomali"] = ringkasan["Skor_Anomali"].fillna(0)
 
     df_peta = ringkasan.dropna(subset=["nama_geo"]).copy()
 
@@ -336,40 +331,47 @@ if geojson and geo_key:
             geojson=geojson,
             locations="nama_geo",
             featureidkey=f"properties.{geo_key}",
-            color="level_num",
+            color="Skor_Anomali",
             color_continuous_scale=[
-                [0.0, "#2E7D52"],
-                [0.5, "#B8860B"],
-                [1.0, "#8B2635"],
+                [0.0,  "#2E7D52"],
+                [0.4,  "#7FB069"],
+                [0.6,  "#E9C46A"],
+                [0.75, "#B8860B"],
+                [1.0,  "#8B2635"],
             ],
-            range_color=[0, 2],
+            range_color=[0, df_peta["Skor_Anomali"].max()],
             hover_name="Provinsi",
             hover_data={
                 "Harga_Saat_Ini": ":,.0f",
                 "Perubahan_1Hari_Persen": ":.1f",
                 "Skor_Anomali": ":.3f",
                 "nama_geo": False,
-                "level_num": False,
             },
             labels={
+                "Skor_Anomali": "Skor Anomali",
                 "Harga_Saat_Ini": "Harga (Rp)",
                 "Perubahan_1Hari_Persen": "Δ Harian (%)",
-                "Skor_Anomali": "Skor Anomali",
             },
-        )
         fig_peta.update_geos(fitbounds="locations", visible=False, bgcolor=WARNA["latar"])
         fig_peta.update_layout(
             margin=dict(l=0, r=0, t=0, b=0),
             height=420,
             paper_bgcolor=WARNA["latar"],
-            coloraxis_showscale=False,
+            coloraxis=dict(
+                colorbar=dict(
+                    title="Skor<br>Anomali",
+                    thickness=12,
+                    len=0.6,
+                    tickformat=".2f",
+                )
+            ),
         )
         st.plotly_chart(fig_peta, use_container_width=True)
         st.markdown(f"""
         <div style="display:flex;gap:20px;font-size:0.80rem;margin-top:-8px;margin-bottom:8px">
-            <span><span style="display:inline-block;width:12px;height:12px;background:#2E7D52;border-radius:2px;margin-right:5px;vertical-align:middle"></span>Stabil</span>
-            <span><span style="display:inline-block;width:12px;height:12px;background:#B8860B;border-radius:2px;margin-right:5px;vertical-align:middle"></span>Perlu Dipantau</span>
-            <span><span style="display:inline-block;width:12px;height:12px;background:#8B2635;border-radius:2px;margin-right:5px;vertical-align:middle"></span>Perlu Tindakan</span>
+            <span><span style="display:inline-block;width:12px;height:12px;background:#2E7D52;border-radius:2px;margin-right:5px;vertical-align:middle"></span>Skor rendah (stabil)</span>
+            <span><span style="display:inline-block;width:12px;height:12px;background:#E9C46A;border-radius:2px;margin-right:5px;vertical-align:middle"></span>Skor sedang</span>
+            <span><span style="display:inline-block;width:12px;height:12px;background:#8B2635;border-radius:2px;margin-right:5px;vertical-align:middle"></span>Skor tinggi (anomali)</span>
         </div>
         """, unsafe_allow_html=True)
     else:
