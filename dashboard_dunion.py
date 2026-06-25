@@ -290,26 +290,31 @@ if geojson and geo_key:
     ringkasan["nama_geo"] = ringkasan["Provinsi"].apply(
         lambda p: cari_nama_geojson(p, geojson, geo_key)
     )
-    # Isi NaN dengan 0 supaya semua provinsi tetap muncul di peta
     ringkasan["Skor_Anomali"] = ringkasan["Skor_Anomali"].fillna(0)
-
     df_peta = ringkasan.dropna(subset=["nama_geo"]).copy()
 
     if len(df_peta) > 0:
-        fig_peta = px.choropleth(
+        skor_min = df_peta["Skor_Anomali"].min()
+        skor_max = df_peta["Skor_Anomali"].max()
+
+        fig_peta = px.choropleth_mapbox(
             df_peta,
             geojson=geojson,
             locations="nama_geo",
             featureidkey=f"properties.{geo_key}",
             color="Skor_Anomali",
             color_continuous_scale=[
-                [0.0,  "#2E7D52"],
-                [0.4,  "#7FB069"],
-                [0.6,  "#E9C46A"],
-                [0.75, "#B8860B"],
-                [1.0,  "#8B2635"],
+                [0.0,  "rgba(46,125,82,0.7)"],
+                [0.4,  "rgba(127,176,105,0.7)"],
+                [0.6,  "rgba(233,196,106,0.75)"],
+                [0.75, "rgba(184,134,11,0.8)"],
+                [1.0,  "rgba(139,38,53,0.85)"],
             ],
-            range_color=[df_peta["Skor_Anomali"].min(), df_peta["Skor_Anomali"].max()],
+            range_color=[skor_min, skor_max],
+            mapbox_style="open-street-map",
+            zoom=3.8,
+            center={"lat": -2.5, "lon": 118.0},
+            opacity=0.75,
             hover_name="Provinsi",
             hover_data={
                 "Harga_Saat_Ini": ":,.0f",
@@ -323,17 +328,18 @@ if geojson and geo_key:
                 "Perubahan_1Hari_Persen": "Δ Harian (%)",
             },
         )
-        fig_peta.update_geos(fitbounds="locations", visible=False, bgcolor=WARNA["latar"])
         fig_peta.update_layout(
             margin=dict(l=0, r=0, t=0, b=0),
-            height=420,
+            height=460,
             paper_bgcolor=WARNA["latar"],
             coloraxis=dict(
                 colorbar=dict(
                     title="Skor<br>Anomali",
                     thickness=12,
-                    len=0.6,
+                    len=0.5,
                     tickformat=".2f",
+                    bgcolor="rgba(255,255,255,0.8)",
+                    borderwidth=0,
                 )
             ),
         )
