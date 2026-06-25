@@ -443,7 +443,7 @@ else:
 # ======================================================================
 # TABEL LENGKAP
 # ======================================================================
-with st.expander("📋 Lihat semua provinsi"):
+with st.expander("Lihat semua provinsi"):
     tabel = ringkasan[[
         "Provinsi", "level", "Skor_Anomali", "Harga_Saat_Ini",
         "Perubahan_1Hari_Persen", "Sumber_Utama", "Lag_Hari", "Prediksi_14_Hari",
