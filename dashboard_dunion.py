@@ -199,48 +199,22 @@ def muat_geojson():
         return None
 
 geojson = muat_geojson()
-geo_key = "Propinsi"  # sudah diketahui dari inspeksi data
+geo_key = "Propinsi"
 
-# Mapping nama data kita -> nama di GeoJSON (UPPERCASE)
-NAMA_GEOJSON = {
-    "Aceh":                        "DI. ACEH",
-    "Sumatera Utara":              "SUMATERA UTARA",
-    "Sumatera Barat":              "SUMATERA BARAT",
-    "Riau":                        "RIAU",
-    "Kepulauan Riau":              "KEPULAUAN RIAU",
-    "Jambi":                       "JAMBI",
-    "Sumatera Selatan":            "SUMATERA SELATAN",
-    "Kepulauan Bangka Belitung":   "BANGKA BELITUNG",
-    "Bengkulu":                    "BENGKULU",
-    "Lampung":                     "LAMPUNG",
-    "DKI Jakarta":                 "DKI JAKARTA",
-    "Jawa Barat":                  "JAWA BARAT",
-    "Jawa Tengah":                 "JAWA TENGAH",
-    "DI Yogyakarta":               "DAERAH ISTIMEWA YOGYAKARTA",
-    "Jawa Timur":                  "JAWA TIMUR",
-    "Banten":                      "BANTEN",
-    "Bali":                        "BALI",
-    "Nusa Tenggara Barat":         "NUSATENGGARA BARAT",
-    "Nusa Tenggara Timur":         "NUSA TENGGARA TIMUR",
-    "Kalimantan Barat":            "KALIMANTAN BARAT",
-    "Kalimantan Tengah":           "KALIMANTAN TENGAH",
-    "Kalimantan Selatan":          "KALIMANTAN SELATAN",
-    "Kalimantan Timur":            "KALIMANTAN TIMUR",
-    "Kalimantan Utara":            "KALIMANTAN UTARA",
-    "Sulawesi Utara":              "SULAWESI UTARA",
-    "Sulawesi Tengah":             "SULAWESI TENGAH",
-    "Sulawesi Selatan":            "SULAWESI SELATAN",
-    "Sulawesi Tenggara":           "SULAWESI TENGGARA",
-    "Gorontalo":                   "GORONTALO",
-    "Sulawesi Barat":              "SULAWESI BARAT",
-    "Maluku":                      "MALUKU",
-    "Maluku Utara":                "MALUKU UTARA",
-    "Papua Barat":                 "PAPUA BARAT",
-    "Papua":                       "PAPUA",
+# Mapping khusus untuk nama yang tidak bisa dikonversi langsung ke uppercase
+NAMA_KHUSUS = {
+    "Aceh":                      "DI. ACEH",
+    "DI Yogyakarta":             "DAERAH ISTIMEWA YOGYAKARTA",
+    "Kepulauan Bangka Belitung": "BANGKA BELITUNG",
+    "Nusa Tenggara Barat":       "NUSATENGGARA BARAT",
 }
 
 def cari_nama_geojson(provinsi, geojson, key):
-    return NAMA_GEOJSON.get(provinsi, None)
+    # Cek mapping khusus dulu
+    if provinsi in NAMA_KHUSUS:
+        return NAMA_KHUSUS[provinsi]
+    # Sisanya tinggal uppercase
+    return provinsi.upper()
 
 
 # ======================================================================
@@ -339,7 +313,7 @@ if geojson and geo_key:
                 [0.75, "#B8860B"],
                 [1.0,  "#8B2635"],
             ],
-            range_color=[0, 1],
+            range_color=[df_peta["Skor_Anomali"].min(), df_peta["Skor_Anomali"].max()],
             hover_name="Provinsi",
             hover_data={
                 "Harga_Saat_Ini": ":,.0f",
@@ -352,7 +326,6 @@ if geojson and geo_key:
                 "Harga_Saat_Ini": "Harga (Rp)",
                 "Perubahan_1Hari_Persen": "Δ Harian (%)",
             },
-        )
         fig_peta.update_geos(
             visible=False,
             bgcolor=WARNA["latar"],
@@ -369,14 +342,11 @@ if geojson and geo_key:
                 lataxis_range=[-12, 8],
             ),
             coloraxis=dict(
-                cmin=0,
-                cmax=1,
                 colorbar=dict(
                     title="Skor<br>Anomali",
                     thickness=12,
                     len=0.6,
-                    tickformat=".1f",
-                    tickvals=[0, 0.25, 0.5, 0.75, 1.0],
+                    tickformat=".2f",
                 )
             ),
         )
