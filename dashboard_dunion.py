@@ -190,8 +190,7 @@ aset = muat()
 # ======================================================================
 @st.cache_data
 def muat_geojson():
-    # Pakai sumber yang sudah terbukti punya key "Propinsi"
-    url = "https://raw.githubusercontent.com/ans-4175/peta-indonesia-geojson/master/indonesia-prov.geojson"
+    url = "https://raw.githubusercontent.com/superpikar/indonesia-geojson/master/indonesia-province-simple.json"
     try:
         with urllib.request.urlopen(url, timeout=15) as r:
             return json.loads(r.read().decode())
@@ -199,22 +198,21 @@ def muat_geojson():
         return None
 
 geojson = muat_geojson()
-geo_key = "Propinsi"
+geo_key = "state"
 
-# Mapping khusus untuk nama yang tidak bisa dikonversi langsung ke uppercase
 NAMA_KHUSUS = {
-    "Aceh":                      "DI. ACEH",
-    "DI Yogyakarta":             "DAERAH ISTIMEWA YOGYAKARTA",
-    "Kepulauan Bangka Belitung": "BANGKA BELITUNG",
-    "Nusa Tenggara Barat":       "NUSATENGGARA BARAT",
+    "Aceh":                      "Aceh",
+    "DI Yogyakarta":             "Yogyakarta",
+    "Kepulauan Bangka Belitung": "Bangka Belitung",
+    "Nusa Tenggara Barat":       "Nusa Tenggara Barat",
+    "Nusa Tenggara Timur":       "Nusa Tenggara Timur",
+    "DKI Jakarta":               "Jakarta",
 }
 
 def cari_nama_geojson(provinsi, geojson, key):
-    # Cek mapping khusus dulu
     if provinsi in NAMA_KHUSUS:
         return NAMA_KHUSUS[provinsi]
-    # Sisanya tinggal uppercase
-    return provinsi.upper()
+    return provinsi
 
 
 # ======================================================================
@@ -285,14 +283,6 @@ with k4:
 st.markdown("<div style='height:8px'></div>", unsafe_allow_html=True)
 
 
-
-st.write("Jumlah feature:", len(geojson["features"]))
-st.write("Feature pertama:")
-st.write(geojson["features"][0]["properties"])
-
-st.write("Provinsi yang berhasil match:")
-st.dataframe(df_peta[["Provinsi","nama_geo"]])
-
 # ======================================================================
 # PETA CHOROPLETH -- gradasi skor anomali continuous
 # ======================================================================
@@ -334,7 +324,6 @@ if geojson and geo_key:
                 "Harga_Saat_Ini": "Harga (Rp)",
                 "Perubahan_1Hari_Persen": "Δ Harian (%)",
             },
-        )
         fig_peta.update_geos(
             visible=False,
             bgcolor=WARNA["latar"],
