@@ -298,6 +298,13 @@ if geojson and geo_key:
     ringkasan["Skor_Anomali"] = ringkasan["Skor_Anomali"].fillna(0)
 
     df_peta = ringkasan.dropna(subset=["nama_geo"]).copy()
+    
+st.write("Jumlah feature:", len(geojson["features"]))
+st.write("Feature pertama:")
+st.write(geojson["features"][0]["properties"])
+
+st.write("Provinsi yang berhasil match:")
+st.dataframe(df_peta[["Provinsi","nama_geo"]])
 
     if len(df_peta) > 0:
         fig_peta = px.choropleth(
