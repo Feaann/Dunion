@@ -443,7 +443,8 @@ else:
 # ======================================================================
 # TABEL LENGKAP
 # ======================================================================
-with st.expander("Lihat semua provinsi"):
+tampilkan_tabel = st.checkbox("Lihat semua provinsi")
+if tampilkan_tabel:
     tabel = ringkasan[[
         "Provinsi", "level", "Skor_Anomali", "Harga_Saat_Ini",
         "Perubahan_1Hari_Persen", "Sumber_Utama", "Lag_Hari", "Prediksi_14_Hari",
