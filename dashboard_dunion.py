@@ -339,7 +339,7 @@ if geojson and geo_key:
                 [0.75, "#B8860B"],
                 [1.0,  "#8B2635"],
             ],
-            range_color=[0, df_peta["Skor_Anomali"].max()],
+            range_color=[0, 1],
             hover_name="Provinsi",
             hover_data={
                 "Harga_Saat_Ini": ":,.0f",
@@ -352,18 +352,30 @@ if geojson and geo_key:
                 "Harga_Saat_Ini": "Harga (Rp)",
                 "Perubahan_1Hari_Persen": "Δ Harian (%)",
             },
+        fig_peta.update_geos(
+            visible=False,
+            bgcolor=WARNA["latar"],
+            lonaxis_range=[94, 142],
+            lataxis_range=[-12, 8],
         )
-        fig_peta.update_geos(fitbounds="locations", visible=False, bgcolor=WARNA["latar"])
         fig_peta.update_layout(
             margin=dict(l=0, r=0, t=0, b=0),
-            height=420,
+            height=400,
             paper_bgcolor=WARNA["latar"],
+            geo=dict(
+                projection_type="mercator",
+                lonaxis_range=[94, 142],
+                lataxis_range=[-12, 8],
+            ),
             coloraxis=dict(
+                cmin=0,
+                cmax=1,
                 colorbar=dict(
                     title="Skor<br>Anomali",
                     thickness=12,
                     len=0.6,
-                    tickformat=".2f",
+                    tickformat=".1f",
+                    tickvals=[0, 0.25, 0.5, 0.75, 1.0],
                 )
             ),
         )
