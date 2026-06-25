@@ -236,7 +236,6 @@ with kol_judul:
     <div class="header-strip">
         <div class="header-title">DUNION</div>
         <div class="header-sub">Sistem Intelijen Harga Bawang Merah — Deteksi Anomali & Prioritas Intervensi</div>
-        <div class="header-tag">ISOLATION FOREST · GRANGER CAUSALITY · RANDOM FOREST</div>
     </div>
     """, unsafe_allow_html=True)
 
