@@ -326,6 +326,7 @@ if geojson and geo_key:
                 "Harga_Saat_Ini": "Harga (Rp)",
                 "Perubahan_1Hari_Persen": "Δ Harian (%)",
             },
+        )
         fig_peta.update_geos(
             visible=False,
             bgcolor=WARNA["latar"],
