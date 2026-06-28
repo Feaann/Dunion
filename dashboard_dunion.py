@@ -159,16 +159,31 @@ st.markdown(f"""
         background-color: #FFFFFF !important;
         border-right: 1px solid {WARNA['garis']};
     }}
-    [data-testid="stSidebar"] .stRadio label {{
-        font-size: 0.92rem !important;
-        padding: 8px 12px !important;
+
+    /* Tombol navigasi sidebar */
+    [data-testid="stSidebar"] .stButton > button {{
+        background: transparent !important;
+        border: none !important;
         border-radius: 6px !important;
-        display: block;
-        width: 100%;
-        cursor: pointer;
+        color: {WARNA['teks_utama']} !important;
+        font-family: 'IBM Plex Sans', sans-serif !important;
+        font-size: 0.92rem !important;
+        font-weight: 400 !important;
+        padding: 8px 12px !important;
+        text-align: left !important;
+        width: 100% !important;
+        box-shadow: none !important;
+        transition: background 0.15s;
     }}
-    [data-testid="stSidebar"] .stRadio label:hover {{
+    [data-testid="stSidebar"] .stButton > button:hover {{
         background: {WARNA['latar']} !important;
+        color: {WARNA['teks_utama']} !important;
+    }}
+    [data-testid="stSidebar"] .nav-aktif > button {{
+        background: {WARNA['latar']} !important;
+        font-weight: 600 !important;
+        border-left: 3px solid {WARNA['aksen']} !important;
+        color: {WARNA['aksen']} !important;
     }}
 
     #MainMenu, footer, header {{ visibility: hidden; }}
@@ -263,11 +278,20 @@ with st.sidebar:
     <hr style="border:none;border-top:1px solid {WARNA['garis']};margin-bottom:20px">
     """, unsafe_allow_html=True)
 
-    halaman = st.radio(
-        "Halaman",
-        options=["📊 Dashboard", "🗂️ Semua Provinsi"],
-        label_visibility="collapsed",
-    )
+    if "halaman" not in st.session_state:
+        st.session_state.halaman = "📊 Dashboard"
+
+    menu_items = ["📊 Dashboard", "🗂️ Semua Provinsi"]
+    for item in menu_items:
+        aktif = st.session_state.halaman == item
+        kelas = "nav-aktif" if aktif else ""
+        st.markdown(f'<div class="{kelas}">', unsafe_allow_html=True)
+        if st.button(item, key=f"nav_{item}"):
+            st.session_state.halaman = item
+            st.rerun()
+        st.markdown("</div>", unsafe_allow_html=True)
+
+    halaman = st.session_state.halaman
 
     st.markdown(f"<hr style='border:none;border-top:1px solid {WARNA['garis']};margin:20px 0 16px 0'>", unsafe_allow_html=True)
     st.markdown(f"<div style='font-size:0.70rem;color:{WARNA['teks_sub']};text-transform:uppercase;letter-spacing:0.8px;font-weight:600;margin-bottom:8px'>📅 Tanggal Pemantauan</div>", unsafe_allow_html=True)
