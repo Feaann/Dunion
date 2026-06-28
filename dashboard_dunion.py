@@ -161,29 +161,39 @@ st.markdown(f"""
     }}
 
     /* Tombol navigasi sidebar */
+    [data-testid="stSidebar"] .stButton {{
+        margin: 0 !important;
+        padding: 0 !important;
+    }}
     [data-testid="stSidebar"] .stButton > button {{
         background: transparent !important;
         border: none !important;
-        border-radius: 6px !important;
+        border-left: 3px solid transparent !important;
+        border-radius: 0 6px 6px 0 !important;
         color: {WARNA['teks_utama']} !important;
         font-family: 'IBM Plex Sans', sans-serif !important;
         font-size: 0.92rem !important;
         font-weight: 400 !important;
-        padding: 8px 12px !important;
+        padding: 9px 14px !important;
         text-align: left !important;
         width: 100% !important;
         box-shadow: none !important;
         transition: background 0.15s;
+        margin: 0 !important;
     }}
     [data-testid="stSidebar"] .stButton > button:hover {{
         background: {WARNA['latar']} !important;
-        color: {WARNA['teks_utama']} !important;
+        color: {WARNA['aksen']} !important;
+        border-left: 3px solid {WARNA['garis']} !important;
     }}
-    [data-testid="stSidebar"] .nav-aktif > button {{
+    [data-testid="stSidebar"] .stButton > button[data-nav-active="true"],
+    [data-testid="stSidebar"] .stButton > button:focus:not(:active) {{
         background: {WARNA['latar']} !important;
         font-weight: 600 !important;
         border-left: 3px solid {WARNA['aksen']} !important;
         color: {WARNA['aksen']} !important;
+        box-shadow: none !important;
+        outline: none !important;
     }}
 
     #MainMenu, footer, header {{ visibility: hidden; }}
@@ -282,14 +292,23 @@ with st.sidebar:
         st.session_state.halaman = "📊 Dashboard"
 
     menu_items = ["📊 Dashboard", "🗂️ Semua Provinsi"]
+    halaman_aktif_idx = menu_items.index(st.session_state.halaman)
+
+    # Inject style aktif berdasarkan index tombol yang aktif
+    # Streamlit render button dalam div.stButton secara berurutan
+    st.markdown(f'''<style>
+    [data-testid="stSidebar"] .stButton:nth-of-type({halaman_aktif_idx + 1}) > button {{
+        background: {WARNA["latar"]} !important;
+        font-weight: 600 !important;
+        border-left: 3px solid {WARNA["aksen"]} !important;
+        color: {WARNA["aksen"]} !important;
+    }}
+    </style>''', unsafe_allow_html=True)
+
     for item in menu_items:
-        aktif = st.session_state.halaman == item
-        kelas = "nav-aktif" if aktif else ""
-        st.markdown(f'<div class="{kelas}">', unsafe_allow_html=True)
         if st.button(item, key=f"nav_{item}"):
             st.session_state.halaman = item
             st.rerun()
-        st.markdown("</div>", unsafe_allow_html=True)
 
     halaman = st.session_state.halaman
 
